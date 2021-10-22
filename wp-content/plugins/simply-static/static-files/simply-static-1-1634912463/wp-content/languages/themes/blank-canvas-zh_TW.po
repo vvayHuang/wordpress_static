@@ -1,0 +1,443 @@
+# Translation of Themes - Blank Canvas in Chinese (Taiwan)
+# This file is distributed under the same license as the Themes - Blank Canvas package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-16 23:31:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Themes - Blank Canvas\n"
+
+#. Description of the theme
+msgid "Blank Canvas is a minimalist theme, designed for single-page websites. Its single post and page layouts have no header, navigation menus, or widgets by default, so the page you design in the WordPress editor is the same page you’ll see on the front end. The theme’s default styles are conservative, relying on simple sans-serif fonts and a subtle blue highlight color. Blank Canvas is ready for your customizations."
+msgstr "Blank Canvas 是一款為單頁網站設計的極簡佈景主題。依照預設，它的單篇文章及頁面版面配置沒有頁首、導覽列選單或小工具，因此在 WordPress 編輯器中設計的頁面會與網站前端檢視的同一頁面內容外觀完全相同。這個佈景主題的預設樣式為僅依靠簡單的無襯線字型及淡藍色醒目提示色彩的保守風格，隨時可供使用者自訂。"
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:21
+msgid "Blank Canvas"
+msgstr "Blank Canvas"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: functions.php:154
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "編輯<span class=\"screen-reader-text\">〈%s〉</span>"
+
+#: functions.php:136
+msgid "This theme will only display Widgets if they are enabled in the Content Options section."
+msgstr "僅有在 [內容選項] 區段中啟用小工具相關設定時，這個佈景主題才會顯示小工具。"
+
+#: functions.php:134 functions.php:135
+msgid "This theme will only display Menus if they are enabled in the Content Options section."
+msgstr "僅有在 [內容選項] 區段中啟用選單相關設定時，這個佈景主題才會顯示選單。"
+
+#: functions.php:133
+msgid "The site logo, title, and tagline will only appear on single posts and pages if the “Site header and top menu\" option is enabled in the Content Options section."
+msgstr "如果在 [內容選項] 區段中啟用網站頁首及頂端選單，才會在單篇文章及頁面中顯示網站標誌及網站說明。"
+
+#: functions.php:79
+msgid "Tertiary Color"
+msgstr "第三色彩"
+
+#: functions.php:78
+msgid "Secondary Color"
+msgstr "次要色彩"
+
+#: functions.php:77
+msgid "Primary Color"
+msgstr "主要色彩"
+
+#: functions.php:76
+msgid "Foreground Color"
+msgstr "前景色彩"
+
+#: functions.php:75
+msgid "Background Color"
+msgstr "背景色彩"
+
+#: functions.php:60
+msgid "Background"
+msgstr "背景"
+
+#: functions.php:55
+msgid "Tertiary"
+msgstr "第三"
+
+#: functions.php:50
+msgid "Foreground"
+msgstr "前景"
+
+#: functions.php:45
+msgid "Secondary"
+msgstr "次要"
+
+#: functions.php:40
+msgid "Primary"
+msgstr "主要"
+
+#: inc/block-patterns.php:495
+msgid "Donate to help keep us posting!"
+msgstr "贊助我們，讓我們持續發聲！"
+
+#: inc/block-patterns.php:491
+msgid "Sponsor: Crafty Cookies"
+msgstr "神秘東方的病毒製造者 (贊助研究經費)"
+
+#: inc/block-patterns.php:487
+msgid " in <em>The New York Times</em>"
+msgstr " (刊登於<strong>天光時報</strong>)"
+
+#: inc/block-patterns.php:487
+msgid "\"Identity and Ownership\""
+msgstr "海洋國家的自信"
+
+#: inc/block-patterns.php:483
+msgid " in <em>The Atlantic</em>"
+msgstr " (刊登於<strong>島嶼週刊</strong>)"
+
+#: inc/block-patterns.php:483
+msgid "\"Why we must own our history\""
+msgstr "擁有歷史，擁有自尊"
+
+#: inc/block-patterns.php:479
+msgid "“The Lost Tricycle” Book"
+msgstr "是誰惡意捅出漏洞 (書籍)"
+
+#: inc/block-patterns.php:471
+msgid "Published work and ephemera."
+msgstr "出版品及時事評論"
+
+#: inc/block-patterns.php:467
+msgid "Patricia Jones"
+msgstr "鍾翠夏"
+
+#: inc/block-patterns.php:459
+msgid "A logo of a circle with a line through it."
+msgstr "內含刪除線的圓形標誌。"
+
+#: inc/block-patterns.php:455
+msgid "Text Links"
+msgstr "文字連結"
+
+#: inc/block-patterns.php:431
+msgid "$70"
+msgstr "NTD 2100"
+
+#: inc/block-patterns.php:424
+msgid "Oversized Alpaca Crew, Everlane"
+msgstr "Everlane：加大版羊駝毛圓領"
+
+#: inc/block-patterns.php:411
+msgid "$60"
+msgstr "NTD 1800"
+
+#: inc/block-patterns.php:404
+msgid "Chunky Platform Lace-Up Boots, H&amp;M"
+msgstr "H&amp;M：寬版平底繫帶靴"
+
+#: inc/block-patterns.php:391
+msgid "$45"
+msgstr "NTD 1500"
+
+#: inc/block-patterns.php:384
+msgid "Pink Long Sleeve Tea Dress, Topshop"
+msgstr "Topshop：粉紅長袖茶歇裙"
+
+#: inc/block-patterns.php:371
+msgid "$36"
+msgstr "NTD 1200"
+
+#: inc/block-patterns.php:364
+msgid "Rhinestone Earrings, ASOS"
+msgstr "ASOS：水鑽耳環"
+
+#: inc/block-patterns.php:350
+msgid "Julia Paxton"
+msgstr "潘莉亞"
+
+#: inc/block-patterns.php:346
+msgid "Woman wearing sunglasses"
+msgstr "戴太陽眼鏡的女人。"
+
+#: inc/block-patterns.php:342
+msgid "Product Links"
+msgstr "產品連結"
+
+#: inc/block-patterns.php:320
+msgid "Tidal"
+msgstr "Tidal"
+
+#: inc/block-patterns.php:316
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/block-patterns.php:312
+msgid "Apple Music"
+msgstr "Apple Music"
+
+#: inc/block-patterns.php:308
+msgid "Bandcamp"
+msgstr "Bandcamp"
+
+#: inc/block-patterns.php:304
+msgid "Spotify"
+msgstr "Spotify"
+
+#: inc/block-patterns.php:300
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: inc/block-patterns.php:293
+msgid "Alex Smith — Own Way"
+msgstr "鄭亞歷 — 自求我道"
+
+#: inc/block-patterns.php:289
+msgid "Image of a singer performing."
+msgstr "歌手表演的圖片。"
+
+#: inc/block-patterns.php:281
+msgid "Musician Links"
+msgstr "音樂家連結"
+
+#: inc/block-patterns.php:271
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/block-patterns.php:267
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/block-patterns.php:263
+msgid "My wish list"
+msgstr "我的追蹤清單"
+
+#: inc/block-patterns.php:259
+msgid "Buy prints of my work"
+msgstr "購買印刷版作品"
+
+#: inc/block-patterns.php:255
+msgid "Watch my tutorials"
+msgstr "觀看教學影片"
+
+#: inc/block-patterns.php:250
+msgid "Antonio Miller"
+msgstr "陳宓安"
+
+#: inc/block-patterns.php:246
+msgid "Colored pencils"
+msgstr "彩色鉛筆"
+
+#: inc/block-patterns.php:242
+msgid "Gradient Links"
+msgstr "漸層連結"
+
+#: inc/block-patterns.php:228
+msgid "Ask me a question"
+msgstr "詢問問題"
+
+#: inc/block-patterns.php:224
+msgid "Shop my style picks"
+msgstr "購買精選組合"
+
+#: inc/block-patterns.php:220
+msgid "Follow my Instagram"
+msgstr "追蹤我的 Instagram"
+
+#: inc/block-patterns.php:216
+msgid "Listen on SoundCloud"
+msgstr "在 SoundCloud 上聆聽"
+
+#: inc/block-patterns.php:212
+msgid "Subscribe on YouTube"
+msgstr "訂閱 YouTube 頻道"
+
+#: inc/block-patterns.php:203
+msgid "Hamburger"
+msgstr "漢堡樂團"
+
+#: inc/block-patterns.php:199
+msgid "Hamburger icon"
+msgstr "漢堡圖示"
+
+#: inc/block-patterns.php:191
+msgid "Emoji Links"
+msgstr "表情符號連結"
+
+#: inc/block-patterns.php:171
+msgid "Hello! I am a photographer and designer living near Portland, Maine. When I am not posting to Instagram, you can find me shooting weddings and portraits."
+msgstr "大家好！我是一個住在台南永康的攝影師及設計師。當我沒有在 Instagram 發文的時候，就是在拍攝婚禮及人像。"
+
+#: inc/block-patterns.php:167
+msgid "Jasmine Baker"
+msgstr "葉茉莉"
+
+#: inc/block-patterns.php:163
+msgid "Photo of a woman."
+msgstr "女人的相片。"
+
+#: inc/block-patterns.php:161
+msgid "Photo of a vintage camera."
+msgstr "古董相機的相片。"
+
+#: inc/block-patterns.php:158
+msgid "Split Screen"
+msgstr "分割頁面"
+
+#: inc/block-patterns.php:145
+msgid "RSVP"
+msgstr "邀請回覆"
+
+#: inc/block-patterns.php:141
+msgid "Join us for a celebratory party featuring creative cocktails and mocktails, seasonal chef-crafted snacks and appetizers, and a range of desserts and pastries from local bakeries."
+msgstr "請來參加我們的慶祝晚會，本次活動會提供創意雞尾酒、無酒精雞尾酒、當季主廚精緻小吃、開胃菜、及本地麵包店提供的甜點及糕點。"
+
+#: inc/block-patterns.php:133
+msgid "April 16th"
+msgstr "晚間 8 點至 12 點"
+
+#: inc/block-patterns.php:133
+msgid "8pm–12am"
+msgstr "4 月 26 日"
+
+#: inc/block-patterns.php:128
+msgid "San Francisco, CA"
+msgstr "自強三路 1 號"
+
+#: inc/block-patterns.php:128
+msgid "Pier 38"
+msgstr "高雄市苓雅區"
+
+#: inc/block-patterns.php:123
+msgid "You&rsquo;re Invited"
+msgstr "誠摯邀請"
+
+#: inc/block-patterns.php:119
+msgid "Photo of two drinks."
+msgstr "兩杯飲料的相片。"
+
+#: inc/block-patterns.php:116
+msgid "Invitation"
+msgstr "活動邀請"
+
+#: inc/block-patterns.php:107
+msgid "Instant Classic: A story of Persistence"
+msgstr "一點通：遠離造成防疫漏洞的人事物"
+
+#: inc/block-patterns.php:103
+msgid "Blurring the Lines Between Architecture and Nature"
+msgstr "無效普篩研究報告"
+
+#: inc/block-patterns.php:99
+msgid "10th Day of Rain"
+msgstr "團結一心齊防疫"
+
+#: inc/block-patterns.php:95
+msgid "Rain Journal by Richard Johnson"
+msgstr "《疫治力》，獨立出版社發行"
+
+#: inc/block-patterns.php:91
+msgid "Must read: The Place That Made Me"
+msgstr "求生必讀：武漢病毒防疫指南"
+
+#: inc/block-patterns.php:87
+msgid "So much goodness all in one place!"
+msgstr "這些壓箱寶通通整理在這裡。"
+
+#: inc/block-patterns.php:87
+msgid "My latest and greatest tips, resources, and reads."
+msgstr "最新、最棒的秘訣、資源及閱讀心得..."
+
+#: inc/block-patterns.php:79
+msgid "Alex Fredrickson"
+msgstr "陳韥旲"
+
+#: inc/block-patterns.php:76
+msgid "Photo of a man wearing a hat."
+msgstr "戴帽男人的相片。"
+
+#: inc/block-patterns.php:70
+msgid "Links"
+msgstr "連結"
+
+#: inc/block-patterns.php:52
+msgid "Get in touch"
+msgstr "預約刺青評估"
+
+#: inc/block-patterns.php:48
+msgid "Specializing in fine line tattoos with a single needle. With over 10 years of experience, I can make your tattoo dreams come true."
+msgstr "鑽研單針紋身，擁有超過 10 年經驗的純熟技藝，能夠讓你的紋身夢想成真。"
+
+#: inc/block-patterns.php:45
+msgid "Hi! I’m a tattooist based in Florida City."
+msgstr "你好，我是在鳳山執業的刺青師。"
+
+#: inc/block-patterns.php:44
+msgid "A photo of a tattooed hand, giving the \"I love you\" sign."
+msgstr "比著代表「我愛你」手勢的紋身手臂相片。"
+
+#: inc/block-patterns.php:38
+msgid "About Me"
+msgstr "關於我"
+
+#: inc/block-patterns.php:26
+msgid "Link in Bio"
+msgstr "自傳資訊連結"
+
+#: inc/customizer.php:138
+msgid "Check to show comments underneath posts and pages. Comments can be configured in your site’s Discussion settings screen."
+msgstr "啟用這項設定後，便能在文章及頁面下方顯示留言。[留言] 功能可以在這個網站的 [討論] 頁面進一步設定。"
+
+#: inc/customizer.php:137
+msgid "Make comments visible"
+msgstr "顯示留言"
+
+#: inc/customizer.php:114
+msgid "Check to show titles at the top of single posts and pages."
+msgstr "啟用這項設定後，便會在單篇文章或頁面頂端顯示標題。"
+
+#: inc/customizer.php:113
+msgid "Show post and page titles"
+msgstr "顯示文章及頁面標題"
+
+#: inc/customizer.php:90
+msgid "Check to show a navigation menu and widgets in your site's footer area."
+msgstr "啟用這項設定後，便會在頁尾區域顯示導覽列選單及小工具。"
+
+#: inc/customizer.php:89
+msgid "Enable widgets and footer menu"
+msgstr "啟用小工具及頁尾選單"
+
+#: inc/customizer.php:66
+msgid "Check to show a standard site header, navigation menu and social links menu on the top of every page. These can be configured in the \"Site Identity\" and \"Menus\" panels."
+msgstr "啟用這項設定後，便會在全部頁面的頂端顯示標準網站頁首、導覽列選單及社交網路服務連結。相關設定可以在 [網站識別] 及 [選單] 面板中進行。"
+
+#: inc/customizer.php:65
+msgid "Enable site header and top menu"
+msgstr "啟用網站頁首及頂端選單"
+
+#: inc/customizer.php:45
+msgid "Content Options"
+msgstr "內容選項"
+
+#: template-parts/content/content-singular.php:48
+msgid "Pages:"
+msgstr "頁次:"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-singular.php:35
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "閱讀全文<span class=\"screen-reader-text\">〈%s〉</span>"
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/blank-canvas"
+msgstr "https://tw.wordpress.com/theme/blank-canvas"
+
+#. Author URI of the theme
+msgid "https://automattic.com/"
+msgstr "https://automattic.com/"
+
+#. Author of the theme
+msgid "Automattic"
+msgstr "Automattic"
