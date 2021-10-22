@@ -1,0 +1,6085 @@
+# Translation of Plugins - Ultimate Member – User Profile, User Registration, Login &amp; Membership Plugin - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Ultimate Member – User Profile, User Registration, Login &amp; Membership Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-08-17 16:09:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Ultimate Member – User Profile, User Registration, Login &amp; Membership Plugin - Stable (latest release)\n"
+
+#: includes/admin/templates/extensions.php:183
+msgid "View Pricing"
+msgstr "檢視價格"
+
+#: includes/admin/templates/extensions.php:179
+msgid "<strong>All Access Pass</strong> – Get access to all Ultimate Member extensions at a significant discount with our All Access Pass."
+msgstr "<strong>完整存取限制</strong> - 使用我們的完整存取限制以取得 Ultimate Member 擴充程式存取的大幅折扣。"
+
+#. translators: %s: The message after registration process based on a role data
+#. and user status after registration
+#. translators: %s: Restricted taxonomy message.
+#: includes/core/class-fields.php:1361 includes/core/um-actions-account.php:481
+#: templates/message.php:8 templates/restricted-taxonomy.php:47
+msgid "%s"
+msgstr "%s"
+
+#: includes/admin/core/class-admin-notices.php:312
+msgid "Create Pages"
+msgstr "新增頁面"
+
+#: includes/admin/core/class-admin-notices.php:308
+msgid "%s needs to create several pages (User Profiles, Account, Registration, Login, Password Reset, Logout, Member Directory) to function correctly."
+msgstr "%s 需要建立多個頁面（會員個人檔案、帳戶管理、註冊、登入、密碼重置、登出、會員列表）才能正常運行。"
+
+#: templates/password-reset.php:49
+msgid "Your password reset link appears to be invalid. Please request a new link below."
+msgstr "您的密碼重置連結似乎無效。請在下方申請一個新連結。"
+
+#: templates/password-reset.php:47
+msgid "Your password reset link has expired. Please request a new link below."
+msgstr "您的密碼重置連結已過期。請在下方申請一個新連結。"
+
+#: includes/core/class-fields.php:2731
+msgid "Upload File"
+msgstr "上傳檔案"
+
+#: includes/class-dependencies.php:210
+msgid "Please update extension <strong>\"%s\"</strong> to the latest version."
+msgstr "請將擴展程序<strong>“%s”</strong>更新為最新版本。"
+
+#: includes/admin/core/packages/2.0.24/init.php:6
+msgid "Purge temp files dir..."
+msgstr "清除暫存檔案目錄..."
+
+#: includes/admin/core/packages/2.0.24/functions.php:11
+msgid "Temporary dir was purged successfully"
+msgstr "暫存目錄已成功清除"
+
+#: templates/members-grid.php:55
+msgid "Edit profile"
+msgstr "編輯個人資料"
+
+#: includes/widgets/class-um-search-widget.php:30
+msgid "Shows the search member form."
+msgstr "顯示搜尋會員表單。"
+
+#: includes/admin/core/class-admin-navmenu.php:83
+#: includes/admin/core/class-admin-navmenu.php:248
+msgid "Logged In Users"
+msgstr "已登入的會員"
+
+#: includes/admin/core/class-admin-navmenu.php:82
+#: includes/admin/core/class-admin-navmenu.php:245
+msgid "Logged Out Users"
+msgstr "已登出的會員"
+
+#: includes/admin/core/class-admin-navmenu.php:75
+#: includes/admin/core/class-admin-navmenu.php:125
+#: includes/admin/core/class-admin-navmenu.php:234
+msgid "Ultimate Member Menu Settings"
+msgstr "Ultimate Member 選單設定"
+
+#: includes/core/um-actions-profile.php:355
+msgid "Your choosed %s"
+msgstr "您選擇的 %s"
+
+#: includes/core/um-actions-form.php:582
+msgid "This field is required"
+msgstr "此欄位為必填"
+
+#: includes/core/um-actions-core.php:89 includes/core/um-actions-core.php:100
+#: includes/core/um-actions-core.php:113 includes/core/um-actions-core.php:123
+#: includes/core/um-actions-core.php:136
+msgid "You do not have permission to make this action."
+msgstr "您無權執行此操作。"
+
+#: includes/core/class-user.php:779
+msgid "&mdash; No role for Ultimate Member &mdash;"
+msgstr "&mdash; 沒有 Ultimate Member 的角色 &mdash;"
+
+#: includes/core/class-user.php:776
+msgid "Ultimate Member Role"
+msgstr "Ultimate Member 角色"
+
+#: includes/core/class-uploader.php:849
+msgid "This file type is not recognized."
+msgstr "無法識別此檔案類型。"
+
+#: includes/core/class-uploader.php:698
+msgid "Your image is invalid!"
+msgstr "您的圖片無效！"
+
+#: includes/core/class-shortcodes.php:683
+msgid "You are already registered"
+msgstr "您已經註冊過了"
+
+#: includes/core/class-plugin-updater.php:345
+msgid "https://wordpress.org/support/"
+msgstr "https://wordpress.org/support/"
+
+#: includes/core/class-files.php:341
+msgid "Invalid file ownership"
+msgstr "無效的檔案所有權"
+
+#: includes/core/class-external-integrations.php:509
+msgid "Add translation to %s"
+msgstr "增加翻譯到 %s"
+
+#: includes/core/class-external-integrations.php:502
+msgid "Edit the %s translation"
+msgstr "編輯 %s 的翻譯"
+
+#: includes/core/class-builtin.php:842
+msgid "Enter a bit about yourself..."
+msgstr "簡單描述一下您自己，讓更多的人認識你吧！"
+
+#: includes/core/class-builtin.php:143
+msgid "Please provide a meta key"
+msgstr "請提供Meta Key"
+
+#: includes/class-dependencies.php:221
+msgid "Correct folder name is <strong>\"%s\"</strong>"
+msgstr "正確的資料夾名稱是<strong>\"%s\"</strong>"
+
+#: includes/class-dependencies.php:219
+msgid "Please check <strong>\"%s\" %s</strong> extension's folder name."
+msgstr "請檢查<strong>“%s”%s</strong>擴展程序的資料夾名稱。"
+
+#: includes/class-dependencies.php:208
+msgid "Sorry, but this version of <strong>%s</strong> does not work with extension <strong>\"%s\" %s</strong> version."
+msgstr "抱歉，此版本的<strong>%s</strong>不適用於擴展程序<strong>“%s”%s</strong>版本。"
+
+#: includes/class-dependencies.php:206
+msgid "Please update <strong>%s</strong> to the latest version."
+msgstr "請將<strong>%s</strong>更新到最新版本。"
+
+#: includes/class-dependencies.php:204
+msgid "This version of <strong>\"%s\"</strong> requires the core <strong>%s</strong> plugin to be <strong>%s</strong> or higher."
+msgstr "此版本的<strong>“%s”</strong>要求核心<strong>%s</strong>插件為<strong>%s</strong>或更高版本。"
+
+#: includes/class-config.php:473
+msgid "Whether to send the user an email when he updated their account"
+msgstr "是否在更新帳號時向會員發送電子郵件"
+
+#: includes/class-config.php:466
+msgid "Account Updated Email"
+msgstr "帳戶更新電子郵件"
+
+#: includes/class-config.php:371
+msgid "Your account is pending review"
+msgstr "帳號尚在審查中"
+
+#: includes/admin/core/class-admin-metabox.php:2295
+#: includes/class-config.php:134 includes/class-config.php:797
+msgid "Members"
+msgstr "會員列表"
+
+#: includes/admin/templates/role/wp-capabilities.php:41
+#: includes/admin/templates/role/wp-capabilities.php:49
+msgid "Check All"
+msgstr "選取全部"
+
+#: includes/admin/templates/role/wp-capabilities.php:39
+msgid "Uncheck All"
+msgstr "取消全部"
+
+#: includes/admin/templates/role/role-edit.php:212
+msgid "Enter Title Here"
+msgstr "在此輸入標題"
+
+#: includes/admin/templates/role/role-edit.php:184
+msgid "User Role <strong>Updated</strong> Successfully."
+msgstr "會員角色 <strong>已更新</strong> 成功。"
+
+#: includes/admin/templates/role/role-edit.php:181
+msgid "User Role <strong>Added</strong> Successfully."
+msgstr "會員角色<strong>已新增</strong>成功。"
+
+#: includes/admin/templates/role/role-edit.php:160
+msgid "Edit Role"
+msgstr "編輯會員角色"
+
+#: includes/admin/templates/role/role-edit.php:158
+msgid "Add New Role"
+msgstr "新增會員角色"
+
+#: includes/admin/templates/role/role-edit.php:115
+msgid "Role already exists!"
+msgstr "角色已存在！"
+
+#: includes/admin/templates/role/role-edit.php:88
+msgid "Title is empty!"
+msgstr "標題是空的！"
+
+#: includes/admin/templates/role/publish.php:29
+msgid "Create Role"
+msgstr "新增會員角色"
+
+#: includes/admin/templates/role/publish.php:29
+msgid "Update Role"
+msgstr "更新會員角色"
+
+#: includes/admin/templates/role/publish.php:18
+msgid "The higher the number, the higher the priority"
+msgstr "數字越高，優先權越高"
+
+#: includes/admin/templates/role/publish.php:17
+msgid "Role Priority"
+msgstr "角色優先權"
+
+#: includes/admin/templates/modal/forms/fonticons.php:13
+msgid "Finish"
+msgstr "完成"
+
+#: includes/admin/templates/gdpr.php:39
+msgid "If you have extended the functionality of the plugin (e.g sending registered user data to MailChimp via our MailChimp extension, this user info may be passed to these external services. These services may be located abroad and outwith the EU."
+msgstr "如果您已經擴展了插件的功能（例如透過我們的MailChimp擴展將註冊會員資料發送到MailChimp，則此會員資訊可能會傳遞給這些外部服務。這些服務可能位於國外和歐盟之外。"
+
+#: includes/admin/templates/gdpr.php:36
+msgid "%s does not send any user data outside of your site by default."
+msgstr "預設情況下，%s 不會在您的網站之外發送任何會員資料。"
+
+#: includes/admin/templates/gdpr.php:33
+msgid "Where we send your data"
+msgstr "我們發送您資料到何處"
+
+#: includes/admin/templates/gdpr.php:29
+msgid "If syncing data to a 3rd party service (e.g Mailchimp via our MailChimp extension), data is retained there until unsubscribed or deleted."
+msgstr "如果將資料同步到第三方服務（例如通過我們的MailChimp擴展名為Mailchimp），資料將保留在那裡直到取消訂閱或刪除。"
+
+#: includes/admin/templates/gdpr.php:26
+msgid "Data can be exported or removed upon users request via the existing WordPress data exporter or eraser."
+msgstr "根據會員的要求，可以通過現有的 WordPress 資料匯出器或移除工具將資料匯出或刪除。"
+
+#: includes/admin/templates/gdpr.php:23
+msgid "Registered user information is retained in your website’s database indefinitely."
+msgstr "註冊會員資料將無限期保留在您網站的資料庫中。"
+
+#: includes/admin/templates/gdpr.php:20
+msgid "How long we retain your data"
+msgstr "保留您的資料多久"
+
+#: includes/admin/templates/gdpr.php:16
+msgid "You should include in your privacy policy what personal data is captured when someone submits/fills in one of the forms, why you collect it and what you do with this data and how long you keep it."
+msgstr "您應該在隱私政策中包含當某人 提交/填寫 某個表單時收集的個人資料，說明為什麼要收集這些資料，以及您如何處理這些資料以及您保留這些資料的時間。"
+
+#: includes/admin/templates/gdpr.php:13
+msgid "Via these forms you are collecting personal data from your users."
+msgstr "通過這些表單，您可以收集會員的個人資料。"
+
+#: includes/admin/templates/gdpr.php:10
+msgid "%s provides you with forms for user registration, login and profiles."
+msgstr "%s 為您提供會員註冊、登入和個人檔案的表單。"
+
+#: includes/admin/templates/gdpr.php:4
+msgid "What personal data we collect and why we collect it"
+msgstr "我們收集哪些個人數據以及我們收集的原因"
+
+#: includes/admin/templates/form/register_gdpr.php:71
+#: includes/admin/templates/form/register_gdpr.php:72
+#: templates/gdpr-register.php:41
+msgid "Please confirm your acceptance of our privacy policy"
+msgstr "請確認您接受我們的隱私政策"
+
+#: includes/admin/templates/form/register_gdpr.php:70
+msgid "Error Text"
+msgstr "錯誤提醒"
+
+#: includes/admin/templates/form/register_gdpr.php:63
+#: includes/admin/templates/form/register_gdpr.php:64
+#: templates/gdpr-register.php:28
+msgid "Please confirm that you agree to our privacy policy"
+msgstr "請確認您同意我們的隱私政策"
+
+#: includes/admin/templates/form/register_gdpr.php:62
+msgid "Checkbox agreement description"
+msgstr "確認框協議說明"
+
+#: includes/admin/templates/form/register_gdpr.php:55
+#: includes/admin/templates/form/register_gdpr.php:56
+#: templates/gdpr-register.php:17
+msgid "Hide privacy policy"
+msgstr "隱藏隱私權政策"
+
+#: includes/admin/templates/form/register_gdpr.php:54
+msgid "Toggle Hide text"
+msgstr "切換隱藏文字"
+
+#: includes/admin/templates/form/register_gdpr.php:47
+#: includes/admin/templates/form/register_gdpr.php:48
+#: templates/gdpr-register.php:16 templates/gdpr-register.php:18
+msgid "Show privacy policy"
+msgstr "顯示隱私權政策"
+
+#: includes/admin/templates/form/register_gdpr.php:46
+msgid "Toggle Show text"
+msgstr "切換顯示文字"
+
+#: includes/admin/templates/form/register_gdpr.php:38
+msgid "Content"
+msgstr "內容"
+
+#: includes/admin/templates/form/register_gdpr.php:28
+msgid "Enable on this form"
+msgstr "啟用此表單"
+
+#: includes/admin/templates/form/register_gdpr.php:8
+msgid "Select page"
+msgstr "選取頁面"
+
+#: includes/admin/templates/directory/sorting.php:48
+#: includes/admin/templates/form/profile_settings.php:29
+msgid "Add New Field"
+msgstr "新增欄位"
+
+#: includes/admin/templates/form/profile_settings.php:26
+msgid "Fields selected here will appear in the profile header area below the user's display name"
+msgstr "此處選擇的欄位將顯示在個人檔案標題區域下方的會員名稱處"
+
+#: includes/admin/templates/form/profile_customize.php:179
+msgid "Require user to update a profile photo when updating their profile"
+msgstr "要求會員在更新其個人資料時更新個人頭像"
+
+#: includes/admin/templates/form/profile_customize.php:135
+#: includes/admin/templates/form/profile_customize.php:170
+msgid "Set the profile photo size in pixels here"
+msgstr "在此處設定個人檔案頭像尺寸"
+
+#: includes/admin/templates/form/profile_customize.php:51
+msgid "Please note if you make a profile form specific to a role then you must make sure that every other role is assigned a profile form"
+msgstr "請注意，如果您建立了特定角色的個人資料表單，則必須確保為每個其他角色分配了個人資料表單"
+
+#: includes/admin/templates/form/login_settings.php:16
+msgid "Change this If you want to override role redirection settings after login only."
+msgstr "如果想要只在登入後覆蓋角色轉址設定，請更改此項目。"
+
+#: includes/admin/templates/form/login_customize.php:43
+#: includes/admin/templates/form/profile_customize.php:68
+#: includes/admin/templates/form/register_customize.php:57
+msgid "The maximum width of shortcode in pixels e.g. 600px"
+msgstr "短代碼的最大寬度(以像素為單位)，例如：600px"
+
+#: includes/admin/templates/form/login_customize.php:23
+#: includes/admin/templates/form/profile_customize.php:38
+#: includes/admin/templates/form/register_customize.php:29
+msgid "Apply custom settings to this form"
+msgstr "將自訂設定套用於此表單"
+
+#: includes/admin/templates/extensions.php:228
+#: includes/admin/templates/extensions.php:262
+msgid "More Details"
+msgstr "更多詳細資料"
+
+#: includes/admin/templates/extensions.php:223
+#: includes/admin/templates/extensions.php:257
+msgid "Get this Add on"
+msgstr "取得此擴充內容"
+
+#: includes/admin/templates/extensions.php:197
+msgid "Free"
+msgstr "免費"
+
+#: includes/admin/templates/directory/pagination.php:66
+msgid "This is the text that is displayed if no users are found during a search"
+msgstr "如果在搜尋期間未找到會員，則顯示該文字"
+
+#: includes/admin/templates/directory/search.php:35
+msgid "If you want to allow specific user roles to be able to search only"
+msgstr "如果要允許特定會員角色只能搜尋"
+
+#: includes/admin/templates/directory/search.php:28
+msgid "If turned on, users will be able to search members in this directory"
+msgstr "如果啟用，會員將能夠搜尋此列表中的會員"
+
+#: includes/admin/templates/directory/profile.php:47
+#: includes/admin/templates/directory/profile.php:63
+#: includes/admin/templates/directory/search.php:65
+msgid "Add New Custom Field"
+msgstr "新增自訂欄位"
+
+#: includes/admin/templates/directory/profile.php:26
+msgid "If turned on, the users cover photo will appear in the directory"
+msgstr "如果開啟，會員封面照片將出現在會員列表中"
+
+#: includes/admin/templates/directory/sorting.php:23
+msgid "To sort by a custom field, enter the meta key of field here"
+msgstr "要按自訂欄位排序，請在此處輸入欄位的Meta Key"
+
+#: includes/admin/templates/directory/general.php:76
+msgid "If 'Use Gravatars' as profile photo is enabled, this option is ignored"
+msgstr "如果啟用了「使用Gravatars」作為個人資料照片，則會忽略此設定"
+
+#: includes/admin/templates/directory/general.php:67
+msgid "If you do not want to show all members, select only user roles to appear in this directory"
+msgstr "如果您不想顯示所有會員，請選擇在會員列表中要顯示的會員角色"
+
+#: includes/admin/templates/dashboard/upgrade-request.php:7
+msgid "Get latest versions"
+msgstr "取得最新版本"
+
+#: includes/admin/templates/dashboard/upgrade-request.php:4
+msgid "Run this task from time to time if you have issues with WP Cron and need to get UM extension updates."
+msgstr "如果您遇到 WP Cron 問題，並且需要取得UM擴充更新時，請不時運行此任務。"
+
+#: includes/admin/templates/dashboard/purge.php:19
+msgid "Your temp uploads directory is <span class=\"ok\">clean</span>. There is nothing to purge."
+msgstr "您的暫存上傳目錄是<span class=\"ok\">空的</span>。沒有什麼可以清除的。"
+
+#: includes/admin/templates/dashboard/purge.php:12
+msgid "Purge Temp"
+msgstr "清除暫存"
+
+#: includes/admin/templates/dashboard/purge.php:7
+msgid "You can free up <span class=\"red\">%s MB</span> by purging your temp upload directory."
+msgstr "您可以通過清除臨時上傳目錄來釋放<span class=\"red\">%s MB </span>。"
+
+#: includes/admin/templates/dashboard/cache.php:15
+msgid "Clear cache of %s users"
+msgstr "清除 %s 會員的快取"
+
+#: includes/admin/templates/dashboard/cache.php:12
+msgid "Run this task from time to time to keep your DB clean."
+msgstr "持續執行此任務以維持資料庫清潔。"
+
+#: includes/admin/core/packages/2.0.10/init.php:34
+msgid "Clear Users Cache..."
+msgstr "清除會員快取..."
+
+#: includes/admin/core/packages/2.0.10/functions.php:21
+msgid "Users cache was cleared successfully"
+msgstr "會員快取已成功清除"
+
+#: includes/admin/core/packages/2.0-beta1/init.php:454
+msgid "Upgrade Email Templates..."
+msgstr "升級Email模板..."
+
+#: includes/admin/core/packages/2.0-beta1/init.php:388
+msgid "Get all Products..."
+msgstr "取得所有產品..."
+
+#: includes/admin/core/packages/2.0-beta1/init.php:387
+msgid "Upgrade Woocommerce Products..."
+msgstr "升級Woocommerce產品..."
+
+#: includes/admin/core/packages/2.0-beta1/init.php:322
+msgid "Get bbPress Forums count..."
+msgstr "取得 bbPress 討論區數量..."
+
+#: includes/admin/core/packages/2.0-beta1/init.php:321
+msgid "Upgrade bbPress Forums..."
+msgstr "升級bbPress討論區..."
+
+#: includes/admin/core/packages/2.0-beta1/init.php:293
+msgid "Upgrade UM Custom Post Types..."
+msgstr "升級UM自訂文章類型..."
+
+#: includes/admin/core/packages/2.0-beta1/init.php:265
+msgid "Upgrade Social Login Forms..."
+msgstr "升級社群登入表單..."
+
+#: includes/admin/core/packages/2.0-beta1/init.php:237
+msgid "Upgrade Mailchimp Lists..."
+msgstr "升級Mailchimp列表..."
+
+#: includes/admin/core/packages/2.0-beta1/init.php:209
+msgid "Upgrade Menu Items..."
+msgstr "升級選單項目..."
+
+#: includes/admin/core/packages/2.0-beta1/init.php:181
+msgid "Upgrade Settings..."
+msgstr "升級設定..."
+
+#: includes/admin/core/packages/2.0-beta1/init.php:153
+msgid "Upgrade Content Restriction Settings..."
+msgstr "升級內容限制設定..."
+
+#: includes/admin/core/packages/2.0-beta1/init.php:92
+msgid "Start users upgrading..."
+msgstr "開始會員升級..."
+
+#: includes/admin/core/packages/2.0-beta1/init.php:91
+#: includes/admin/core/packages/2.1.3-beta3/init.php:22
+#: includes/admin/assets/js/um-admin-forms.js:66
+msgid "There are "
+msgstr "有 "
+
+#: includes/admin/core/packages/2.0-beta1/init.php:79
+#: includes/admin/core/packages/2.0-beta1/init.php:91
+#: includes/admin/core/packages/2.1.3-beta3/init.php:22
+msgid " users..."
+msgstr "會員..."
+
+#: includes/admin/core/packages/2.0-beta1/init.php:79
+msgid "Getting "
+msgstr "立即開始"
+
+#: includes/admin/core/packages/2.0-beta1/init.php:55
+msgid "Upgrade Users..."
+msgstr "升級會員..."
+
+#: includes/admin/core/packages/2.0-beta1/init.php:41
+msgid "Upgrade Roles..."
+msgstr "升級角色..."
+
+#: includes/admin/core/packages/2.0-beta1/init.php:13
+#: includes/admin/core/packages/2.0.10/init.php:6
+msgid "Upgrade Styles..."
+msgstr "升級風格..."
+
+#: includes/admin/core/packages/2.0-beta1/functions.php:323
+msgid "Email Templates was upgraded successfully"
+msgstr "電子郵件模板已成功升級"
+
+#: includes/admin/core/packages/2.0-beta1/functions.php:305
+msgid "Woocommerce Products from %s to %s was upgraded successfully..."
+msgstr "從 %s 到 %s 的 Woocommerce產品 已成功升級..."
+
+#: includes/admin/core/packages/2.0-beta1/functions.php:236
+msgid "Woocommerce Products are ready for upgrade"
+msgstr "Woocommerce產品 已準備好升級"
+
+#: includes/admin/core/packages/2.0-beta1/functions.php:218
+msgid "Forums from %s to %s was upgraded successfully..."
+msgstr "從 %s 到 %s 的討論區已成功升級..."
+
+#: includes/admin/core/packages/2.0-beta1/functions.php:170
+msgid "Forums are ready for upgrade"
+msgstr "討論區已準備好升級"
+
+#: includes/admin/core/packages/2.0-beta1/functions.php:153
+msgid "UM Custom Posts was upgraded successfully"
+msgstr "UM自訂文章已升級成功"
+
+#: includes/admin/core/packages/2.0-beta1/functions.php:143
+msgid "Social login forms was upgraded successfully"
+msgstr "社群登入表單已成功升級"
+
+#: includes/admin/core/packages/2.0-beta1/functions.php:133
+msgid "Mailchimp Lists was upgraded successfully"
+msgstr "Mailchimp列表已成功升級"
+
+#: includes/admin/core/packages/2.0-beta1/functions.php:123
+msgid "Menus settings was upgraded successfully"
+msgstr "選單設定已成功升級"
+
+#: includes/admin/core/packages/2.0-beta1/functions.php:113
+msgid "Settings was upgraded successfully"
+msgstr "設定已成功升級"
+
+#: includes/admin/core/packages/2.0-beta1/functions.php:89
+msgid "Users from %s to %s was upgraded successfully..."
+msgstr "從 %s 到 %s 的會員已成功升級..."
+
+#: includes/admin/core/packages/2.0-beta1/functions.php:21
+msgid "User Roles was upgraded successfully"
+msgstr "會員角色已成功升級"
+
+#: includes/admin/core/packages/2.0-beta1/functions.php:8
+#: includes/admin/core/packages/2.0.10/functions.php:8
+msgid "Styles was upgraded successfully"
+msgstr "樣式已成功升級"
+
+#: includes/admin/core/list-tables/roles-list-table.php:499
+msgid "User Role <strong>Deleted</strong> Successfully."
+msgstr "會員角色 <strong>刪除</strong> 成功."
+
+#: includes/admin/core/list-tables/roles-list-table.php:426
+msgid "Priority"
+msgstr "優先權"
+
+#: includes/admin/core/list-tables/roles-list-table.php:424
+msgid "UM Custom Role"
+msgstr "UM 自訂角色"
+
+#: includes/admin/core/list-tables/roles-list-table.php:422
+msgid "Role ID"
+msgstr "角色 ID"
+
+#: includes/admin/core/list-tables/roles-list-table.php:408
+msgid "Role"
+msgstr "角色"
+
+#: includes/admin/core/list-tables/roles-list-table.php:354
+msgid "Reset UM Role meta"
+msgstr "重置 UM 會員角色 meta"
+
+#: includes/admin/core/list-tables/roles-list-table.php:354
+msgid "Are you sure you want to reset UM role meta?"
+msgstr "確定要重置 UM 會員角色 meta？"
+
+#: includes/admin/core/list-tables/roles-list-table.php:349
+msgid "Are you sure you want to delete this role?"
+msgstr "確定要刪除此會員角色？"
+
+#: includes/admin/core/class-admin-builder.php:551
+#: includes/admin/core/list-tables/roles-list-table.php:346
+msgid "Edit"
+msgstr "編輯"
+
+#: includes/admin/core/list-tables/roles-list-table.php:24
+#: includes/admin/core/list-tables/roles-list-table.php:96
+#: includes/admin/core/list-tables/roles-list-table.php:409
+#: includes/core/class-member-directory.php:318
+msgid "Roles"
+msgstr "會員角色"
+
+#: includes/admin/core/list-tables/emails-list-table.php:280
+msgid "Email Notifications"
+msgstr "Email 通知"
+
+#: includes/admin/core/list-tables/emails-list-table.php:279
+msgid "Email Notification"
+msgstr "Email 通知"
+
+#: includes/admin/core/list-tables/emails-list-table.php:245
+msgid "Member"
+msgstr "會員"
+
+#: includes/admin/core/list-tables/emails-list-table.php:75
+#: includes/admin/core/list-tables/roles-list-table.php:188
+msgid "not found."
+msgstr "找不到。"
+
+#: includes/admin/core/list-tables/emails-list-table.php:71
+#: includes/admin/core/list-tables/roles-list-table.php:184
+msgid "items"
+msgstr "項目"
+
+#: includes/admin/core/list-tables/emails-list-table.php:70
+#: includes/admin/core/list-tables/roles-list-table.php:183
+msgid "item"
+msgstr "項目"
+
+#: includes/admin/core/class-admin-forms.php:895
+#: includes/admin/core/class-admin-upgrade.php:255
+msgid "Run"
+msgstr "執行"
+
+#: includes/admin/core/class-admin-upgrade.php:252
+msgid "Upgrade Log"
+msgstr "升級日誌"
+
+#: includes/admin/core/class-admin-settings.php:636
+#: includes/admin/core/class-admin-upgrade.php:251
+msgid "If the update was successful, you will see a corresponding message. Otherwise, contact technical support if the update failed."
+msgstr "如果更新成功，您將看到相關的訊息。否則，如果更新失敗，請聯繫技術支援。"
+
+#: includes/admin/core/class-admin-upgrade.php:248
+msgid "%s - Upgrade Process"
+msgstr "%s - 升級進度"
+
+#: includes/admin/core/class-admin-upgrade.php:245
+msgid "empty"
+msgstr "空"
+
+#: includes/admin/core/class-admin-upgrade.php:237
+msgid "Upgrade"
+msgstr "升級"
+
+#: includes/admin/core/class-admin-upgrade.php:131
+msgid "%s is a major update, and we highly recommend creating a full backup of your site before updating."
+msgstr "%s是主要更新，我們強烈建議您在更新前建立網站的完整備份。"
+
+#: includes/admin/core/class-admin-settings.php:2922
+msgid "Re-Activate"
+msgstr "重新啟用"
+
+#: includes/admin/core/class-admin-settings.php:2918
+msgid "Clear License"
+msgstr "清除授權"
+
+#: includes/admin/core/class-admin-settings.php:2896
+msgid "To receive updates, please enter your valid %s license key."
+msgstr "要接收更新，請輸入您的有效 %s 授權金鑰。"
+
+#: includes/admin/core/class-admin-settings.php:2878
+msgid "Your license key expires on %s."
+msgstr "您的授權金鑰在 %s 過期。"
+
+#: includes/admin/core/class-admin-settings.php:2868
+msgid "Your license key expires soon! It expires on %s. <a href=\"%s\" target=\"_blank\">Renew your license key</a>."
+msgstr "您的授權金鑰即將過期！ 它在 %s 過期。 <a href=\"%s\" target=\"_blank\">續訂授權金鑰</a>。"
+
+#: includes/admin/core/class-admin-settings.php:2861
+msgid "License key never expires."
+msgstr "授權金鑰永不過期。"
+
+#: includes/admin/core/class-admin-settings.php:2745
+#: includes/admin/core/class-admin-settings.php:2753
+msgid "There was an error with this license key: %s. Please <a href=\"%s\">contact our support team</a>."
+msgstr "這個授權金鑰有錯誤：%s。 請<a href=\"%s\">與我們的支持團隊聯繫</a>。"
+
+#: includes/admin/core/class-admin-settings.php:2744
+#: includes/admin/core/class-admin-settings.php:2752
+#: includes/admin/core/class-admin-settings.php:2764
+msgid "unknown_error"
+msgstr "未知錯誤"
+
+#: includes/admin/core/class-admin-settings.php:2736
+#: includes/admin/core/class-admin-settings.php:2846
+msgid "The key you entered belongs to a bundle, please use the product specific license key."
+msgstr "您輸入的金鑰屬於一個同捆包，請使用特定產品的授權金鑰。"
+
+#: includes/admin/core/class-admin-settings.php:2727
+#: includes/admin/core/class-admin-settings.php:2837
+msgid "Your license key has reached its activation limit. <a href=\"%s\">View possible upgrades</a> now."
+msgstr "您的授權密鑰已達到其啟用限制。立即<a href=\"%s\">查看可能的升級</a>。"
+
+#: includes/admin/core/class-admin-settings.php:2718
+#: includes/admin/core/class-admin-settings.php:2828
+msgid "This appears to be an invalid license key for %s."
+msgstr "這似乎是%s的無效授權密鑰。"
+
+#: includes/admin/core/class-admin-settings.php:2706
+#: includes/admin/core/class-admin-settings.php:2816
+msgid "Your %s is not active for this URL. Please <a href=\"%s\" target=\"_blank\">visit your account page</a> to manage your license key URLs."
+msgstr "您的%s對此網址無效。請<a href=\"%s\" target=\"_blank\">訪問您的帳戶頁面</a>以管理您的授權密鑰網址。"
+
+#: includes/admin/core/class-admin-settings.php:2693
+#: includes/admin/core/class-admin-settings.php:2803
+msgid "Invalid license. Please <a href=\"%s\" target=\"_blank\">visit your account page</a> and verify it."
+msgstr "無效授權。 請<a href=\"%s\" target=\"_blank\">前往您的帳號頁面</a>並進行驗證。"
+
+#: includes/admin/core/class-admin-settings.php:2681
+#: includes/admin/core/class-admin-settings.php:2791
+msgid "Your license key has been disabled. Please <a href=\"%s\" target=\"_blank\">contact support</a> for more information."
+msgstr "您的授權金鑰已被停用。 請前往 <a href=\"%s\" target=\"_blank\">聯繫支援</a> 了解更多信息。"
+
+#: includes/admin/core/class-admin-settings.php:2668
+#: includes/admin/core/class-admin-settings.php:2778
+msgid "Your license key expired on %s. Please <a href=\"%s\" target=\"_blank\">renew your license key</a>."
+msgstr "您的授權金鑰在 %s 過期。請前往 <a href=\"%s\" target=\"_blank\">更新您的授權金鑰</a>。"
+
+#: includes/admin/core/class-admin-settings.php:1882
+msgid "Ultimate Member - Settings"
+msgstr "Ultimate Member - 設置"
+
+#: includes/admin/core/class-admin-settings.php:1764
+msgid "Install Info"
+msgstr "安裝資訊"
+
+#: includes/admin/core/class-admin-settings.php:1759
+msgid "Check this box if you would like Ultimate Member to completely remove all of its data when the plugin/extensions are deleted."
+msgstr "如果您希望 Ultimate Member 在刪除 插件/擴充插件 時完全刪除所有數據，請勾選此框。"
+
+#: includes/admin/core/class-admin-settings.php:1758
+msgid "Remove Data on Uninstall?"
+msgstr "卸載時刪除資料？"
+
+#: includes/admin/core/class-admin-settings.php:1709
+msgid "Misc"
+msgstr "其他"
+
+#: includes/admin/core/class-admin-settings.php:1389
+msgid "Select Default Cover Photo"
+msgstr "選擇預設的封面照片"
+
+#: includes/admin/core/class-admin-settings.php:1377
+msgid "Select Default Profile Photo"
+msgstr "選擇預設的個人頭像"
+
+#: includes/admin/core/class-admin-settings.php:1300
+msgid "If you plan use e-mails with HTML, please make sure that this option is enabled. Otherwise, HTML will be displayed as plain text."
+msgstr "如果您計劃使用HTML電子郵件，請確保已啟用此選項。否則，HTML將顯示為純文字。"
+
+#: includes/admin/core/class-admin-settings.php:1243
+msgid "Other"
+msgstr "其他"
+
+#: includes/admin/core/class-admin-settings.php:515
+msgid "This is the message shown to users that do not have permission to view the content"
+msgstr "這是向沒有查看內容權限的會員所顯示的訊息"
+
+#: includes/admin/core/class-admin-settings.php:514
+msgid "Restricted Access Message"
+msgstr "受限存取訊息"
+
+#: includes/admin/core/class-admin-settings.php:1239
+msgid "Restriction Content"
+msgstr "限制內容"
+
+#: includes/admin/core/class-admin-settings.php:944
+msgid "Pages"
+msgstr "頁面"
+
+#. translators: %s: Page title
+#. translators: %s: Page title
+#: includes/admin/core/class-admin-settings.php:270
+#: includes/admin/core/class-admin-settings.php:280
+msgid "%s page"
+msgstr "%s 頁面"
+
+#: includes/admin/core/class-admin-notices.php:689
+msgid "Wrong Data"
+msgstr "資料錯誤"
+
+#: includes/admin/core/class-admin-notices.php:673
+msgid "<strong>%s</strong> future plans! Detailed future list is <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr "<strong>%s</strong>未來計劃！詳細的未來列表是<a href=\"%s\" target=\"_blank\">此處</a>"
+
+#: includes/admin/core/class-admin-notices.php:642
+#: includes/admin/core/class-admin-notices.php:651
+msgid "Provide Feedback"
+msgstr "提供意見回饋"
+
+#: includes/admin/core/class-admin-notices.php:638
+msgid "We're glad to hear that you like the plugin but we would love to get your feedback so we can make the plugin better."
+msgstr "我們很高興您喜歡這個外掛，但我們更期望收到您的反饋意見，以便讓我們可以將此外掛做得更好。"
+
+#: includes/admin/core/class-admin-notices.php:633
+msgid "Leave Review"
+msgstr "留下評論"
+
+#: includes/admin/core/class-admin-notices.php:624
+msgid "I don't like the plugin"
+msgstr "我不喜歡這個插件"
+
+#: includes/admin/core/class-admin-notices.php:623
+msgid "It's good but could be better"
+msgstr "它很棒，但可以更好"
+
+#: includes/admin/core/class-admin-notices.php:622
+msgid "I love it!"
+msgstr "我喜歡它！"
+
+#: includes/admin/core/class-admin-notices.php:619
+msgid "Hey there! It's been one month since you installed %s. How have you found the plugin so far?"
+msgstr "嘿！您安裝 %s 已經一個月了。 到目前為止你是如何找到這個插件的？"
+
+#: includes/admin/core/class-admin-notices.php:592
+msgid "<strong>%s %s</strong> Successfully Upgraded"
+msgstr "<strong>%s %s</strong>成功升級"
+
+#: includes/admin/core/class-admin-notices.php:572
+msgid "Upgrade Now"
+msgstr "立刻升級"
+
+#: includes/admin/core/class-admin-notices.php:568
+msgid "<strong>%s version %s</strong> needs to be updated to work correctly.<br />It is necessary to update the structure of the database and options that are associated with <strong>%s %s</strong>.<br />Please visit <a href=\"%s\">\"Upgrade\"</a> page and run the upgrade process."
+msgstr "<strong>%s version %s</strong>需要更新才能正常工作。<br />有必要更新與<strong>%s %s</strong>相關的資料庫結構和選項。<br />請訪問<a href=\"%s\">“升級”</a>頁面並執行升級程序。"
+
+#: includes/admin/core/class-admin-notices.php:554
+msgid "You have %d invalid or expired license keys for %s. Please go to the <a href=\"%s\">Licenses page</a> to correct this issue."
+msgstr "%s有%d個無效或過期的授權密鑰。 請轉到<a href=\"%s\">授權頁面</a>以更正此問題。"
+
+#: includes/admin/core/class-admin-notices.php:547
+msgid "There are %d inactive %s license keys for this site. This site is not authorized to get plugin updates. You can active this site on <a href=\"%s\">www.ultimatemember.com</a>."
+msgstr "此網站有 %d個未啟用 %s 授權密鑰。此網站無權取得插件更新。您可以在<a href=\"%s\"> www.ultimatemember.com </a>上啟用此網站。"
+
+#: includes/admin/core/class-admin-notices.php:314
+#: includes/admin/core/class-admin-notices.php:510
+msgid "No thanks"
+msgstr "不用了，謝謝"
+
+#: includes/admin/core/class-admin-notices.php:508
+msgid "Claim 20% discount code"
+msgstr "索取20％優惠碼"
+
+#: includes/admin/core/class-admin-notices.php:479
+msgid "You have installed <strong>%s</strong> with wrong folder name. Correct folder name is <strong>\"ultimate-member\"</strong>."
+msgstr "您使用錯誤的資料夾名稱安裝<strong>%s</strong>。正確的資料夾名稱是<strong>“ultimate-member”</strong>。"
+
+#: includes/admin/core/class-admin-notices.php:421
+msgid "Try again later. You can run this action once daily."
+msgstr "稍後再試。 您可以每天執行一次該操作。"
+
+#: includes/admin/core/class-admin-notices.php:287
+msgid "<strong>%s %s</strong> requires 2.0 extensions. You have pre 2.0 extensions installed on your site. <br /> Please update %s extensions to latest versions. For more info see this <a href=\"%s\" target=\"_blank\">doc</a>."
+msgstr "<strong>%s %s</strong>需要2.0擴展程序。您的網站上安裝了2.0以前的擴展程序。<br />請將%s擴展更新為最新版本。 有關詳細資訊，請參閱此<a href=\"%s\" target=\"_blank\">說明檔</a>。"
+
+#: includes/admin/core/class-admin-metabox.php:2406
+msgid "No Selected"
+msgstr "未選擇的"
+
+#: includes/admin/core/class-admin-metabox.php:2404
+msgid "Dynamically populates the option based from selected parent option."
+msgstr "根據選定的父設定動態來填充選項。"
+
+#: includes/admin/core/class-admin-metabox.php:2404
+msgid "Parent Option"
+msgstr "父設定"
+
+#: includes/admin/core/class-admin-metabox.php:2393
+msgid "Add a callback source to retrieve choices."
+msgstr "增加回調來源(callback source)以檢索選擇。"
+
+#: includes/admin/core/class-admin-metabox.php:2380
+msgid "Choose whether you want a 5-stars or 10-stars ratings based here."
+msgstr "選擇是要以5星或10星的評級方式。"
+
+#: includes/admin/core/class-admin-metabox.php:2367
+msgid "This option allows you to set whether or not the user can edit the information in this field."
+msgstr "此選項允許您設定會員是否可以編輯此欄位中的資訊。"
+
+#: includes/admin/core/class-admin-metabox.php:2353
+msgid "This option allows you to set whether the field must be filled in before the form can be processed."
+msgstr "此選項允許您設置是否必須填寫欄位才能處理表單。"
+
+#: includes/admin/core/class-admin-metabox.php:2327
+msgid "Select the member roles that can view this field on the front-end."
+msgstr "選擇可以在前端查看此欄位的會員角色。"
+
+#: includes/admin/core/class-admin-metabox.php:2304
+msgid "Field privacy allows you to select who can view this field on the front-end. The site admin can view all fields regardless of the option set here."
+msgstr "欄位隱私允許您選擇誰可以在前端查看此欄位。無論此處設定的選項如何，網站管理員都可以查看所有欄位。"
+
+#: includes/admin/core/class-admin-metabox.php:2285
+msgid "This is the text that appears within the field e.g please enter your email address. Leave blank to not show any placeholder text."
+msgstr "這是在欄位中顯示的文字，例如，請輸入您的電子郵件地址。留空則不顯示任何占位符文字。"
+
+#: includes/admin/core/class-admin-metabox.php:2265
+msgid "The field label is the text that appears above the field on your front-end form. Leave blank to not show a label above field."
+msgstr "欄位標籤是顯示在前端表單欄位上方的文字。留空則不在欄位上方顯示標籤。"
+
+#: includes/admin/core/class-admin-metabox.php:2253
+msgid "This option allows you to pre-fill the field with a default value prior to the user entering a value in the field. Leave blank to have no default value"
+msgstr "此選項允許您在會員於欄位中預先填入的輸入值。留空將預設不填入"
+
+#: includes/admin/core/class-admin-metabox.php:2247
+msgid "If you wish the rating field to be prefilled with a number of stars, enter it here."
+msgstr "如果您希望評級欄位預先填入多個星星圖示，請在此處輸入。"
+
+#: includes/admin/core/class-admin-metabox.php:2229
+msgid "Text to display by default in this field"
+msgstr "預設情況下在此欄位中顯示的文字"
+
+#: includes/admin/core/class-admin-metabox.php:2217
+msgid "This is the text that appears in a tooltip when a user hovers over the info icon. Help text is useful for providing users with more information about what they should enter in the field. Leave blank if no help text is needed for field."
+msgstr "當會員將鼠標懸停在資訊圖示上時，所顯示在提示工具中的文字。幫助文字對於向會員提供有關他們應該在該欄位中輸入內容的更多資訊非常有用。如果欄位不需要幫助文字，請留空。"
+
+#: includes/admin/core/class-admin-metabox.php:2204
+msgid "A meta key is required to store the entered info in this field in the database. The meta key should be unique to this field and be written in lowercase with an underscore ( _ ) separating words e.g country_list or job_title"
+msgstr "需要使 用Meta Key 將輸入的資訊儲存在資料庫的此欄位中。Meta Key對於該欄為應該是唯一值，並且以小寫字母寫成，用下底線（_）來分隔單詞，例如 country_list 或 job_title"
+
+#: includes/admin/core/class-admin-metabox.php:2198
+msgid "The meta key cannot be changed for duplicated fields or when editing an existing field. If you require a different meta key please create a new field."
+msgstr "對於重複欄位或編輯現有欄位時，無法更改 Meta Key。如果您需要其他 Meta Key，請建立一個新欄位。"
+
+#: includes/admin/core/class-admin-metabox.php:2173
+msgid "This is the title of the field for your reference in the backend. The title will not appear on the front-end of your website."
+msgstr "這是您在後端引用的欄位標題。標題不會出現在您網站的前端。"
+
+#: includes/admin/core/class-admin-metabox.php:2163
+msgid "Enter one choice per line. This will represent the available choices or selections available for user."
+msgstr "每列輸入一個選項。這代表可供會員使用的可用選擇或選項。"
+
+#: includes/admin/core/class-admin-metabox.php:2146
+msgid "Turn on/off HTML tags for this textarea"
+msgstr "開啟/關閉 此文字區域的HTML標記"
+
+#: includes/admin/core/class-admin-metabox.php:2136
+msgid "If you want to enable a maximum number of characters to be input in this field. Leave empty to disable this setting"
+msgstr "如果要在此欄位中輸入最大字元數。留空以禁用此設定"
+
+#: includes/admin/core/class-admin-metabox.php:2126
+msgid "If you want to enable a minimum number of characters to be input in this field. Leave empty to disable this setting"
+msgstr "如果要在此欄位中輸入最小字元數。留空以禁用此設定"
+
+#: includes/admin/core/class-admin-metabox.php:2096
+msgid "If you want to enable a maximum number of words to be input in this textarea. Leave empty to disable this setting"
+msgstr "如果要在此文字區域中啟用最大字數。留空以禁用此設定"
+
+#: includes/admin/core/class-admin-metabox.php:2086
+msgid "This is the max number of entries the user can add via field group."
+msgstr "這是會員可以透過欄位組增加的最大條目數。"
+
+#: includes/admin/core/class-admin-metabox.php:2076
+msgid "Enter a number here to force a minimum number of selections by user for this field"
+msgstr "在此處輸入一個數字，以強制會員為此欄位選擇最小值"
+
+#: includes/admin/core/class-admin-metabox.php:2066
+msgid "Enter a number here to force a maximum number of selections by user for this field"
+msgstr "在此處輸入一個數字，以強制會員為此欄位選擇最大值"
+
+#: includes/admin/core/class-admin-metabox.php:2056
+msgid "Enable/disable multiple selections for this field"
+msgstr "啟用/禁用此欄位的多個選擇"
+
+#: includes/admin/core/class-admin-metabox.php:2046
+msgid "This is the required spacing in pixels. e.g. 20px"
+msgstr "這是必要的間距(以像素為單位)。例如：20px"
+
+#: includes/admin/core/class-admin-metabox.php:2036
+msgid "The height of textarea in pixels. Default is 100 pixels"
+msgstr "文字區域的高度，以像素為單位。預設值為100像素(pixels)"
+
+#: includes/admin/core/class-admin-metabox.php:2026
+msgid "The maximum size for image that can be uploaded through this field. Leave empty for unlimited size."
+msgstr "可以通過此欄位上傳圖片的最大尺寸。留空則不限制大小。"
+
+#: includes/admin/core/class-admin-metabox.php:2016
+msgid "The text that appears on the button. e.g. Upload"
+msgstr "按鈕上顯示的文字。例如：上傳"
+
+#: includes/admin/core/class-admin-metabox.php:2006
+msgid "If you need to add information or secondary line below the headline of upload box, enter it here"
+msgstr "如果您需要在上傳框標題下方增加資運或次要列，請在此處輸入"
+
+#: includes/admin/core/class-admin-metabox.php:1996
+msgid "This is the headline that appears in the upload box for this field"
+msgstr "這是此欄位的上傳框中顯示的標題"
+
+#: includes/admin/core/class-admin-metabox.php:1953
+#: includes/admin/core/class-admin-metabox.php:1971
+msgid "Select the image types that you want to allow to be uploaded via this field."
+msgstr "選擇您希望通過此欄位上傳的圖片類型。"
+
+#: includes/admin/core/class-admin-metabox.php:1932
+msgid "Enable/disable crop feature for this image upload and define ratio"
+msgstr "啟用/停用 此圖片上傳和定義比率的裁剪功能"
+
+#: includes/admin/core/class-admin-metabox.php:1919
+msgid "Edit the content of this field here"
+msgstr "在此處編輯此欄位的內容"
+
+#: includes/admin/core/class-admin-metabox.php:1909
+msgid "Enter the shortcode in the following textarea and it will be displayed on the fields"
+msgstr "在下方文字區域中輸入短代碼，它將顯示於欄位中"
+
+#: includes/admin/core/class-admin-metabox.php:1893
+msgid "Whether to show a specific number of years or specify a date range to be available for the date picker."
+msgstr "是否顯示特定年數或指定日期選擇器可用的日期範圍。"
+
+#: includes/admin/core/class-admin-metabox.php:1883
+msgid "Set the maximum date/day in range in the format YYYY/MM/DD"
+msgstr "以 YYYY/MM/DD 格式設置範圍內的最大日期/天"
+
+#: includes/admin/core/class-admin-metabox.php:1873
+msgid "Set the minimum date/day in range in the format YYYY/MM/DD"
+msgstr "以 YYYY/MM/DD 格式設置範圍內的最小日期/天"
+
+#: includes/admin/core/class-admin-metabox.php:1859
+msgid "This decides which years should be shown relative to today date"
+msgstr "這決定了相對於今天的日期應顯示哪些年份"
+
+#: includes/admin/core/class-admin-metabox.php:1849
+msgid "Number of years available for the date selection. Default to last 50 years"
+msgstr "可供選擇日期的年數。預設為50年"
+
+#: includes/admin/core/class-admin-metabox.php:1831
+msgid "Disable specific week days from being available for selection in this date picker"
+msgstr "停用在此日期選擇器中可供選擇的特定工作日"
+
+#: includes/admin/core/class-admin-metabox.php:1812
+msgid "Whether you wish to show the date in full or only show the years e.g. 25 Years"
+msgstr "您希望完整顯示日期還是僅顯示幾歲，例如 25歲"
+
+#: includes/admin/core/class-admin-metabox.php:1787
+msgid "Choose the displayed time-format for this field"
+msgstr "選擇此欄位的顯示時間格式"
+
+#: includes/admin/core/class-admin-metabox.php:1776
+msgid "The display format of the date which is visible to user."
+msgstr "會員可見的日期顯示格式。"
+
+#: includes/admin/core/class-admin-metabox.php:1763
+msgid "Choose the minutes interval between each time in the time picker."
+msgstr "選擇時間選擇器中每次的分鐘間隔。"
+
+#: includes/admin/core/class-admin-metabox.php:1747
+msgid "This is the line-style of divider"
+msgstr "這是分隔線的風格"
+
+#: includes/admin/core/class-admin-metabox.php:1714
+msgid "Whether to follow or nofollow this link by search engines"
+msgstr "是否通過搜尋引擎關注或取消此連結"
+
+#: includes/admin/core/class-admin-metabox.php:1701
+msgid "Choose whether to open this link in same window or in a new window"
+msgstr "選擇是在同一視窗中還是在新是窗中打開此連結"
+
+#: includes/admin/core/class-admin-metabox.php:1691
+msgid "Entering custom text here will replace the url with a text link"
+msgstr "在此處輸入自訂文字將使用文字連結替換該網址"
+
+#: includes/admin/core/class-admin-metabox.php:1681
+msgid "Select a color for this divider"
+msgstr "為此分隔線選擇一種顏色"
+
+#: includes/admin/core/class-admin-metabox.php:1671
+msgid "This will be the color of selected icon. By default It will be the same color as heading text color"
+msgstr "這將是所選圖示的顏色。預設情況下，它與標題文字的顏色相同"
+
+#: includes/admin/core/class-admin-metabox.php:1661
+msgid "This will be the text color of entire section"
+msgstr "這將是整個區域的文字顏色"
+
+#: includes/admin/core/class-admin-metabox.php:1651
+msgid "This will be the text color of heading part only"
+msgstr "這將僅是標題部分的文字顏色"
+
+#: includes/admin/core/class-admin-metabox.php:1641
+msgid "This will be the background of the heading section"
+msgstr "這將是標題部分的背景"
+
+#: includes/admin/core/class-admin-metabox.php:1631
+msgid "This will be the background of entire section"
+msgstr "這將是整個區域的背景"
+
+#: includes/admin/core/class-admin-metabox.php:1621
+msgid "Enter the row heading text here"
+msgstr "在此處輸入列標題文字"
+
+#: includes/admin/core/class-admin-metabox.php:1611
+msgid "Whether to enable a heading for this row"
+msgstr "是否為此列啟用標題"
+
+#: includes/admin/core/class-admin-metabox.php:1611
+msgid "Enable Row Heading"
+msgstr "啟用列標題"
+
+#: includes/admin/core/class-admin-metabox.php:1601
+msgid "Give a color to this border"
+msgstr "為此邊框增加顏色"
+
+#: includes/admin/core/class-admin-metabox.php:1591
+msgid "Rounded corners can be applied by setting a pixels value here. e.g. 5px"
+msgstr "圓角可以透過在此處設置像素值來套用。 例如為 5px"
+
+#: includes/admin/core/class-admin-metabox.php:1576
+msgid "Choose the border style"
+msgstr "選擇邊框的樣式"
+
+#: includes/admin/core/class-admin-metabox.php:1566
+msgid "Set border for this section"
+msgstr "為此區塊設定邊框"
+
+#: includes/admin/core/class-admin-metabox.php:1556
+msgid "Set margin for this section"
+msgstr "為此區塊設定外距"
+
+#: includes/admin/core/class-admin-metabox.php:1546
+msgid "Set padding for this section"
+msgstr "為此區塊設定內距"
+
+#: includes/admin/core/class-admin-metabox.php:1526
+msgid "This is the width in pixels, e.g. 4 or 2, etc"
+msgstr "這是以像素為單位的寬度，例如 4 或 2 ...等"
+
+#: includes/admin/core/class-admin-metabox.php:1516
+msgid "Specify a custom CSS class to be applied to this element"
+msgstr "指定要套用於此元素的自訂 CSS 類別"
+
+#: includes/admin/core/class-admin-metabox.php:1461
+#: includes/admin/core/class-admin-metabox.php:1489
+msgid "Select an icon to appear in the field. Leave blank if you do not want an icon to show in the field."
+msgstr "選擇一個圖示以顯示在該欄位中。 如果您不想在圖像中顯示圖示，請留空。"
+
+#: includes/admin/core/class-admin-metabox.php:1447
+msgid "If you want to apply your custom validation, you can use action hooks to add custom validation. Please refer to documentation for further details."
+msgstr "如果您想應用自定義驗證，則可以使用動作掛鉤來增加自訂驗證。 有關更多詳細信息，請參閱說明檔。"
+
+#: includes/admin/core/class-admin-metabox.php:1402
+msgid "Does this field require a special validation"
+msgstr "該欄位是否需要特殊驗證？"
+
+#: includes/admin/core/class-admin-metabox.php:946
+msgid "WP Capabilities"
+msgstr "WP功能"
+
+#: includes/admin/core/class-admin-metabox.php:897
+msgid "Publish"
+msgstr "發布"
+
+#: includes/admin/core/class-admin-metabox.php:459
+#: includes/admin/core/class-admin-metabox.php:611
+#: includes/admin/templates/access/restrict_content.php:124
+msgid "Where should users be redirected to?"
+msgstr "會員應該轉址到哪裡？"
+
+#: includes/admin/core/class-admin-metabox.php:444
+#: includes/admin/core/class-admin-metabox.php:596
+#: includes/admin/templates/access/restrict_content.php:109
+msgid "Custom message"
+msgstr "自訂訊息"
+
+#: includes/admin/core/class-admin-metabox.php:432
+#: includes/admin/core/class-admin-metabox.php:584
+#: includes/admin/templates/access/restrict_content.php:97
+msgid "Redirect user"
+msgstr "會員轉址"
+
+#: includes/admin/core/class-admin-metabox.php:431
+#: includes/admin/core/class-admin-metabox.php:583
+#: includes/admin/templates/access/restrict_content.php:96
+msgid "Show access restricted message"
+msgstr "顯示訪問限制的訊息"
+
+#: includes/admin/core/class-admin-metabox.php:403
+#: includes/admin/core/class-admin-metabox.php:554
+#: includes/admin/templates/access/restrict_content.php:67
+#: includes/admin/assets/js/um-admin-blocks.js:104
+msgid "Logged in users"
+msgstr "登入的會員"
+
+#: includes/admin/core/class-admin-metabox.php:402
+#: includes/admin/core/class-admin-metabox.php:553
+#: includes/admin/templates/access/restrict_content.php:66
+#: includes/admin/assets/js/um-admin-blocks.js:108
+msgid "Logged out users"
+msgstr "登出的會員"
+
+#: includes/admin/core/class-admin-menu.php:228
+msgid "Upgrade's Manual Request"
+msgstr "升級的手動請求"
+
+#: includes/admin/core/class-admin-menu.php:72
+msgid "If you like Ultimate Member please consider leaving a %s review. It will help us to grow the plugin and make it more popular. Thank you."
+msgstr "如果您喜歡 Ultimate Member，請考慮留下 %s 的評分。 這將有助於我們發展插件並使其更受歡迎。 謝謝。"
+
+#: includes/admin/core/class-admin-gdpr.php:298
+msgid "Your %s was unable to be removed at this time."
+msgstr "您的%s目前無法刪除。"
+
+#: includes/admin/core/class-admin-gdpr.php:82
+msgid "Privacy Policy Agreement"
+msgstr "隱私政策協議"
+
+#: includes/admin/core/class-admin-gdpr.php:79
+msgid "Terms&Conditions Agreement"
+msgstr "條款和條件協議"
+
+#: includes/admin/core/class-admin-gdpr.php:76
+msgid "Verified Account"
+msgstr "帳號驗證"
+
+#: includes/admin/core/class-admin-gdpr.php:73
+msgid "Private Content Post ID"
+msgstr "私人內容文章 ID"
+
+#: includes/admin/core/class-admin-gdpr.php:70
+msgid "Last Login Timestamp"
+msgstr "上次登入時間戳記"
+
+#: includes/admin/core/class-admin-gdpr.php:69
+msgid "Profile Slug \"User ID\""
+msgstr "個人檔案 Slug 「會員ID」"
+
+#: includes/admin/core/class-admin-gdpr.php:68
+msgid "Profile Slug \"First and Last Name with '+'\""
+msgstr "個人檔案 Slug「姓氏和名字 帶 '+'」"
+
+#: includes/admin/core/class-admin-gdpr.php:67
+msgid "Profile Slug \"First and Last Name with '-'\""
+msgstr "個人檔案 Slug「姓氏和名字 帶 '-'」"
+
+#: includes/admin/core/class-admin-gdpr.php:66
+msgid "Profile Slug \"First and Last Name with '.'\""
+msgstr "個人檔案 Slug「姓氏和名字 帶 '.'」"
+
+#: includes/admin/core/class-admin-gdpr.php:65
+msgid "Profile Slug \"Username\""
+msgstr "個人檔案 Slug 「會員名稱」"
+
+#: includes/admin/core/class-admin-gdpr.php:63
+msgid "Registration HTTP referer"
+msgstr "註冊 HTTP referer"
+
+#: includes/admin/core/class-admin-gdpr.php:62
+msgid "Registration Nonce"
+msgstr "臨時註冊"
+
+#: includes/admin/core/class-admin-gdpr.php:61
+msgid "Registration Request"
+msgstr "註冊請求"
+
+#: includes/admin/core/class-admin-gdpr.php:60
+msgid "Registration Timestamp"
+msgstr "註冊時間戳記"
+
+#: includes/admin/core/class-admin-gdpr.php:59
+msgid "Registration Form ID"
+msgstr "註冊表格ID"
+
+#: includes/admin/core/class-admin-gdpr.php:58
+msgid "Submitted data on Registration"
+msgstr "提交註冊資料"
+
+#: includes/admin/core/class-admin-gdpr.php:57
+msgid "Account Status"
+msgstr "帳號狀態"
+
+#: includes/admin/core/class-admin-gdpr.php:42
+msgid "Privacy Policy"
+msgstr "隱私政策"
+
+#: includes/admin/core/class-admin-forms.php:1261
+msgid "Clear"
+msgstr "清除"
+
+#: includes/admin/core/class-admin-forms.php:1237
+msgid "Select media"
+msgstr "選擇媒體"
+
+#: includes/admin/core/class-admin-forms.php:532
+#: includes/admin/core/class-admin-metabox.php:1465
+#: includes/admin/core/class-admin-metabox.php:1493
+#: includes/admin/assets/js/um-admin-modal.js:415
+#: includes/admin/assets/js/um-admin-modal.js:419
+msgid "No Icon"
+msgstr "沒有圖示"
+
+#: includes/admin/core/class-admin-forms.php:526
+#: includes/admin/core/class-admin-metabox.php:1463
+#: includes/admin/core/class-admin-metabox.php:1491
+msgid "Choose Icon"
+msgstr "選擇圖示"
+
+#: includes/admin/core/class-admin-forms.php:1260
+#: includes/admin/assets/js/um-admin-forms.js:620
+msgid "Select"
+msgstr "選擇"
+
+#: includes/admin/core/class-admin-builder.php:237
+msgid "Add new rule"
+msgstr "增加新規則"
+
+#: includes/admin/core/class-admin-builder.php:213
+#: includes/admin/core/class-admin-builder.php:215
+msgid "Here you can setup conditional logic to show/hide this field based on specific fields value or conditions"
+msgstr "您可以在這裡設置邏輯條件，根據特定的欄位值或條件來 顯示/隱藏 該欄位"
+
+#. Description of the plugin
+msgid "The easiest way to create powerful online communities and beautiful user profiles with WordPress"
+msgstr "最容易在WordPress中建立強大的在線社區和漂亮的會員個人資料的方式"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://ultimatemember.com/"
+msgstr "http://ultimatemember.com/"
+
+#: includes/admin/core/class-admin-settings.php:1696
+msgid "Allow users to choose If they want to stay signed in even after closing the browser. If you do not show this option, the default will be to not remember login session."
+msgstr "允許會員選擇是否要在關閉瀏覽器後保持登入狀態。 如果你沒有顯示這個選項，預設是不儲存登入session。"
+
+#: includes/admin/core/class-admin-settings.php:1694
+msgid "Show \"Remember Me\""
+msgstr "顯示\"記住我\""
+
+#: includes/admin/core/class-admin-settings.php:1689
+msgid "Switch on/off the forgot password link in login form"
+msgstr "在登入表格中 開/關 忘記密碼的連結"
+
+#: includes/admin/core/class-admin-settings.php:1687
+msgid "Login Forgot Password Link"
+msgstr "登入頁忘記密碼連結"
+
+#: includes/admin/core/class-admin-settings.php:1678
+msgid "Login Secondary Button URL"
+msgstr "登入頁次要按鈕URL"
+
+#: includes/admin/core/class-admin-settings.php:1669
+msgid "Login Secondary Button Text"
+msgstr "登入頁次要按鈕文字"
+
+#: includes/admin/core/class-admin-settings.php:1662
+msgid "Login Secondary Button"
+msgstr "登入頁次要按鈕"
+
+#: includes/admin/core/class-admin-settings.php:1654
+msgid "Login Primary Button Text"
+msgstr "登入頁主要按鈕文字"
+
+#: includes/admin/core/class-admin-settings.php:1642
+msgid "This controls the display of field icons in the login form"
+msgstr "這是用來控制登入表單中欄位圖示的顯示"
+
+#: includes/admin/core/class-admin-settings.php:1641
+msgid "Login Field Icons"
+msgstr "登入頁欄位圖示"
+
+#: includes/admin/core/class-admin-settings.php:1628
+msgid "Login Shortcode Alignment"
+msgstr "登入頁短碼對齊"
+
+#: includes/admin/core/class-admin-settings.php:1620
+msgid "Login Maximum Width"
+msgstr "登入頁最大寬度"
+
+#: includes/admin/core/class-admin-settings.php:1612
+msgid "This will be the default template to output login"
+msgstr "這個是輸出登入表單的預設主題"
+
+#: includes/admin/core/class-admin-settings.php:1611
+msgid "Login Default Template"
+msgstr "登入頁預設主題"
+
+#: includes/admin/core/class-admin-settings.php:1598
+msgid "This will be the default role assigned to users registering thru registration form"
+msgstr "這會指定通過註冊表格所註冊會員的預設角色"
+
+#: includes/admin/core/class-admin-settings.php:1597
+msgid "Registration Default Role"
+msgstr "註冊預設角色"
+
+#: includes/admin/core/class-admin-settings.php:1590
+#: includes/admin/core/class-admin-settings.php:1680
+msgid "You can replace default link for this button by entering custom URL"
+msgstr "您可以通過輸入自定義URL來替換此按鈕的預設連結"
+
+#: includes/admin/core/class-admin-settings.php:1588
+msgid "Registration Secondary Button URL"
+msgstr "註冊次要按鈕URL"
+
+#: includes/admin/core/class-admin-settings.php:1581
+#: includes/admin/core/class-admin-settings.php:1671
+msgid "The text that is used for the secondary button text"
+msgstr "用於次要按鈕的文字"
+
+#: includes/admin/core/class-admin-settings.php:1579
+msgid "Registration Secondary Button Text"
+msgstr "註冊頁次要按鈕文字"
+
+#: includes/admin/core/class-admin-settings.php:1572
+msgid "Registration Secondary Button"
+msgstr "註冊頁次要按鈕"
+
+#: includes/admin/core/class-admin-settings.php:1566
+#: includes/admin/core/class-admin-settings.php:1656
+msgid "The text that is used for primary button text"
+msgstr "用於主要按鈕的文字"
+
+#: includes/admin/core/class-admin-settings.php:1564
+msgid "Registration Primary Button Text"
+msgstr "註冊頁主要按鈕文字"
+
+#: includes/admin/core/class-admin-settings.php:1552
+msgid "This controls the display of field icons in the registration form"
+msgstr "這將控制註冊表單中欄位圖示的顯示"
+
+#: includes/admin/core/class-admin-settings.php:1551
+msgid "Registration Field Icons"
+msgstr "註冊頁的欄位圖示"
+
+#: includes/admin/core/class-admin-settings.php:1538
+msgid "Registration Shortcode Alignment"
+msgstr "註冊頁短碼對齊"
+
+#: includes/admin/core/class-admin-settings.php:1324
+#: includes/admin/core/class-admin-settings.php:1532
+#: includes/admin/core/class-admin-settings.php:1622
+msgid "The maximum width this shortcode can take from the page width"
+msgstr "這個短碼的最大寬度可以從頁面寬度中獲得"
+
+#: includes/admin/core/class-admin-settings.php:1530
+msgid "Registration Maximum Width"
+msgstr "註冊頁最大寬度"
+
+#: includes/admin/core/class-admin-settings.php:1522
+msgid "This will be the default template to output registration"
+msgstr "這是輸出註冊的預設主題"
+
+#: includes/admin/core/class-admin-settings.php:1521
+msgid "Registration Default Template"
+msgstr "註冊頁預設主題"
+
+#: includes/admin/core/class-admin-settings.php:1512
+msgid "Profile Menu"
+msgstr "個人資料選單"
+
+#: includes/admin/core/class-admin-settings.php:409
+msgid "Enable menu icons in desktop view"
+msgstr "在桌機瀏覽時啟用選單圖示"
+
+#: includes/admin/core/class-admin-settings.php:393
+msgid "This will be the default tab on user profile page"
+msgstr "這將是會員個人資料頁面上的預設頁籤"
+
+#: includes/admin/core/class-admin-settings.php:392
+msgid "Profile menu default tab"
+msgstr "個人資料選單預設頁籤"
+
+#: includes/admin/core/class-admin-settings.php:364
+msgid "Choose user roles..."
+msgstr "選擇會員角色..."
+
+#: includes/admin/core/class-admin-settings.php:362
+msgid "Select the the user roles allowed to view this tab."
+msgstr "選擇允許查看此頁籤的會員角色。"
+
+#: includes/admin/core/class-admin-settings.php:361
+msgid "Allowed roles"
+msgstr "允許的角色"
+
+#. translators: %s: Tab title
+#: includes/admin/core/class-admin-settings.php:352
+msgid "Select which users can view this tab."
+msgstr "選擇哪些會員可以查看此頁籤。"
+
+#. translators: %s: Tab title
+#: includes/admin/core/class-admin-settings.php:351
+msgid "Who can see %s Tab?"
+msgstr "誰能看見 %s 頁籤?"
+
+#. translators: %s: Tab title
+#. translators: %s: Tab title
+#: includes/admin/core/class-admin-settings.php:327
+#: includes/admin/core/class-admin-settings.php:343
+msgid "%s Tab"
+msgstr "%s 頁籤"
+
+#: includes/admin/core/class-admin-settings.php:298
+msgid "Enable profile menu"
+msgstr "啟用個人資料選單"
+
+#: includes/admin/core/class-admin-settings.php:1506
+msgid "Switch on/off the emoticon (sad face) that appears above the message"
+msgstr "切換 開/關 消息上方顯示的表情圖示（悲傷表情）"
+
+#: includes/admin/core/class-admin-settings.php:1504
+msgid "Show the emoticon"
+msgstr "顯示表情符號"
+
+#: includes/admin/core/class-admin-settings.php:1499
+msgid "Switch on/off the custom message that appears when the profile is empty"
+msgstr "切換 開/關 個人資料為空時顯示的自定義訊息"
+
+#: includes/admin/core/class-admin-settings.php:1497
+msgid "Show a custom message if profile is empty"
+msgstr "如果個人資料為空則顯示自定義訊息"
+
+#: includes/admin/core/class-admin-settings.php:1487
+msgid "For incompatible themes, please make the menu open from left instead of bottom by default."
+msgstr "對於不兼容的主題，預設情況下，請將選單從左側而不是底部打開。"
+
+#: includes/admin/core/class-admin-settings.php:1485
+msgid "Profile Header Menu Position"
+msgstr "個人資料頁頁首選單位置"
+
+#: includes/admin/core/class-admin-settings.php:1478
+msgid "Maximum number of characters to allow in user description field in header."
+msgstr "頁首中的會員描述欄位中允許的最大字數。"
+
+#: includes/admin/core/class-admin-settings.php:1476
+msgid "User description maximum chars"
+msgstr "會員描述最大字數"
+
+#: includes/admin/core/class-admin-settings.php:1471
+msgid "Switch on/off to enable/disable support for html tags on user description."
+msgstr "在會員描述中切換 開/關 來 啟用/關閉 HTML標籤語法"
+
+#: includes/admin/core/class-admin-settings.php:1465
+msgid "Switch on/off the user description on profile header"
+msgstr "在個人資料頁頁首中切換 開/關 此會員描述"
+
+#: includes/admin/core/class-admin-settings.php:1463
+msgid "Show user description in header"
+msgstr "在個人資料頁頁首中顯示會員描述"
+
+#: includes/admin/core/class-admin-settings.php:1458
+msgid "Switch on/off the social links on profile header"
+msgstr "在個人資料頁頁首中切換 開/關 此社群連結"
+
+#: includes/admin/core/class-admin-settings.php:1456
+msgid "Show social links in profile header"
+msgstr "在個人資料頁頁首中顯示社群連結"
+
+#: includes/admin/core/class-admin-settings.php:1451
+msgid "Switch on/off the user name on profile header"
+msgstr "在個人資料頁頁首中切換 開/關 此會員名"
+
+#: includes/admin/core/class-admin-settings.php:1449
+msgid "Show display name in profile header"
+msgstr "在個人資料頁頁首中顯示名稱"
+
+#: includes/admin/core/class-admin-settings.php:1444
+msgid "Display field icons for related user meta fields in header or not"
+msgstr "在頁首中顯示相關會員meta欄位的欄位圖示"
+
+#: includes/admin/core/class-admin-settings.php:1442
+msgid "Profile Header Meta Text Icon"
+msgstr "個人資料頁頁首Meta文字圖示"
+
+#: includes/admin/core/class-admin-settings.php:1428
+msgid "Choose global ratio for cover photos of profiles"
+msgstr "為個人資料頁的封面圖片選擇全域比例"
+
+#: includes/admin/core/class-admin-settings.php:1427
+msgid "Profile Cover Ratio"
+msgstr "個人資料頁封面比例"
+
+#: includes/admin/core/class-admin-settings.php:1412
+msgid "Switch on/off the profile cover photos"
+msgstr "打開/關閉 個人資料頁的封面圖片"
+
+#: includes/admin/core/class-admin-settings.php:1410
+msgid "Profile Cover Photos"
+msgstr "個人資料頁封面圖片"
+
+#: includes/admin/core/class-admin-settings.php:1404
+msgid "The global default of profile photo size. This can be overridden by individual form settings"
+msgstr "個人資料照片大小的全域預設值。 這可以通過個人表單設置來覆蓋"
+
+#: includes/admin/core/class-admin-settings.php:1388
+msgid "You can change the default cover photo globally here. Please make sure that the default cover is large enough and respects the ratio you are using for cover photos."
+msgstr "您可以在此全局更改預設的封面圖片。 請確保預設封面足夠大，並且尊重您用於封面圖片的比例。"
+
+#: includes/admin/core/class-admin-settings.php:1387
+msgid "Default Cover Photo"
+msgstr "預設封面圖片"
+
+#: includes/admin/core/class-admin-settings.php:1376
+msgid "You can change the default profile picture globally here. Please make sure that the photo is 300x300px."
+msgstr "您可以在此全局更改預設個人資料照片。 請確保照片是300x300px。"
+
+#: includes/admin/core/class-admin-settings.php:1375
+msgid "Default Profile Photo"
+msgstr "預設個人資料照片"
+
+#: includes/admin/core/class-admin-settings.php:1368
+msgid "The text that is used for cancelling update profile button"
+msgstr "用於取消更新個人資料的按鈕文字"
+
+#: includes/admin/core/class-admin-settings.php:1366
+msgid "Profile Secondary Button Text"
+msgstr "個人資料頁次要按鈕文字"
+
+#: includes/admin/core/class-admin-settings.php:1361
+#: includes/admin/core/class-admin-settings.php:1574
+#: includes/admin/core/class-admin-settings.php:1664
+msgid "Switch on/off the secondary button display in the form"
+msgstr "打開/關閉 表單中的次要按鈕顯示"
+
+#: includes/admin/core/class-admin-settings.php:1359
+msgid "Profile Secondary Button"
+msgstr "個人資料頁次要按鈕"
+
+#: includes/admin/core/class-admin-settings.php:1353
+msgid "The text that is used for updating profile button"
+msgstr "用於更新個人資料的按鈕文字"
+
+#: includes/admin/core/class-admin-settings.php:1351
+msgid "Profile Primary Button Text"
+msgstr "個人資料頁主要按鈕文字"
+
+#: includes/admin/core/class-admin-settings.php:1344
+#: includes/admin/core/class-admin-settings.php:1557
+#: includes/admin/core/class-admin-settings.php:1647
+#: includes/admin/templates/form/login_customize.php:56
+#: includes/admin/templates/form/profile_customize.php:89
+#: includes/admin/templates/form/register_customize.php:70
+msgid "Turn off"
+msgstr "關閉"
+
+#: includes/admin/core/class-admin-settings.php:1343
+#: includes/admin/core/class-admin-settings.php:1556
+#: includes/admin/core/class-admin-settings.php:1646
+#: includes/admin/templates/form/login_customize.php:55
+#: includes/admin/templates/form/profile_customize.php:88
+#: includes/admin/templates/form/register_customize.php:69
+msgid "Show with label"
+msgstr "用標籤顯示"
+
+#: includes/admin/core/class-admin-settings.php:1342
+#: includes/admin/core/class-admin-settings.php:1555
+#: includes/admin/core/class-admin-settings.php:1645
+#: includes/admin/templates/form/login_customize.php:54
+#: includes/admin/templates/form/profile_customize.php:87
+#: includes/admin/templates/form/register_customize.php:68
+msgid "Show inside text field"
+msgstr "在文字框內顯示"
+
+#: includes/admin/core/class-admin-settings.php:1339
+msgid "This is applicable for edit mode only"
+msgstr "這僅適用於編輯模式"
+
+#: includes/admin/core/class-admin-settings.php:1338
+msgid "Profile Field Icons"
+msgstr "個人資料欄位圖示"
+
+#: includes/admin/core/class-admin-settings.php:1544
+#: includes/admin/core/class-admin-settings.php:1634
+msgid "Right aligned"
+msgstr "靠右"
+
+#: includes/admin/core/class-admin-settings.php:1543
+#: includes/admin/core/class-admin-settings.php:1633
+msgid "Left aligned"
+msgstr "靠左"
+
+#: includes/admin/core/class-admin-settings.php:1542
+#: includes/admin/core/class-admin-settings.php:1632
+msgid "Centered"
+msgstr "置中"
+
+#: includes/admin/core/class-admin-settings.php:1332
+#: includes/admin/templates/form/profile_customize.php:76
+msgid "The maximum width of the profile area inside profile (below profile header)"
+msgstr "個人資料頁中個人資料區最大寬度(個人資料頁頁首之後)"
+
+#: includes/admin/core/class-admin-settings.php:1330
+msgid "Profile Area Maximum Width"
+msgstr "個人資料頁區最大寬度"
+
+#: includes/admin/core/class-admin-settings.php:1322
+msgid "Profile Maximum Width"
+msgstr "個人資料頁最大寬度"
+
+#: includes/admin/core/class-admin-settings.php:1314
+msgid "This will be the default template to output profile"
+msgstr "這將是輸出個人資料頁的預設主題"
+
+#: includes/admin/core/class-admin-settings.php:1313
+msgid "Profile Default Template"
+msgstr "個人資料頁預設主題"
+
+#: includes/admin/core/class-admin-settings.php:1308
+#: includes/core/class-form.php:635
+msgid "Profile"
+msgstr "個人檔案"
+
+#: includes/admin/core/class-admin-settings.php:1714
+msgid "Show an asterisk for required fields"
+msgstr "顯示必填欄位的星號"
+
+#: includes/admin/core/class-admin-settings.php:941
+msgid "General"
+msgstr "一般"
+
+#: includes/admin/core/class-admin-settings.php:1305
+msgid "Appearance"
+msgstr "外觀"
+
+#: includes/admin/core/class-admin-settings.php:1727
+msgid "This will be used in the meta description that is available for search-engines."
+msgstr "這用於可用於搜尋引擎的meta描述。"
+
+#: includes/admin/core/class-admin-settings.php:1726
+msgid "User Profile Dynamic Meta Description"
+msgstr "會員個人資料動態Meta描述"
+
+#: includes/admin/core/class-admin-settings.php:1720
+msgid "This is the title that is displayed on a specific user profile"
+msgstr "這是顯示在特定會員個人資料中的標題"
+
+#: includes/admin/core/class-admin-settings.php:1719
+msgid "User Profile Title"
+msgstr "會員個人資料標題"
+
+#: includes/admin/core/class-admin-settings.php:1229
+msgid "This will be the minimum width for cover photo uploads"
+msgstr "這將是封面圖片上傳的最小寬度"
+
+#: includes/admin/core/class-admin-settings.php:1228
+msgid "Cover Photo Minimum Width (px)"
+msgstr "封面圖片最小寬度 (px)"
+
+#: includes/admin/core/class-admin-settings.php:1221
+msgid "Any image upload above this width will be resized to this limit automatically."
+msgstr "在這個寬度以上的任何圖像上傳將自動調整到這個限制。"
+
+#: includes/admin/core/class-admin-settings.php:1220
+msgid "Image Upload Maximum Width (px)"
+msgstr "圖片上傳最大寬度 (px)"
+
+#: includes/admin/core/class-admin-settings.php:1213
+msgid "Quality is used to determine quality of image uploads, and ranges from 0 (worst quality, smaller file) to 100 (best quality, biggest file). The default range is 60."
+msgstr "質量用於確定圖像上傳的質量，範圍從0（最差質量，較小文件）到100（最佳質量，最大文件）。 預設範圍是60。"
+
+#: includes/admin/core/class-admin-settings.php:1212
+msgid "Image Quality"
+msgstr "圖片品質"
+
+#: includes/admin/core/class-admin-settings.php:1197
+msgid "Here you can define which thumbnail sizes will be created for each cover photo upload."
+msgstr "您可以在此定義為每張封面圖片上傳新增的縮略圖大小。"
+
+#: includes/admin/core/class-admin-settings.php:1196
+msgid "Cover Photo Thumbnail Sizes (px)"
+msgstr "封面圖片縮圖尺寸 (px)"
+
+#: includes/admin/core/class-admin-settings.php:1189
+#: includes/admin/core/class-admin-settings.php:1199
+msgid "Add New Size"
+msgstr "增加新尺寸"
+
+#: includes/admin/core/class-admin-settings.php:1187
+msgid "Here you can define which thumbnail sizes will be created for each profile photo upload."
+msgstr "在這裡，您可以定義為每個配置文件照片上傳新增哪些縮略圖大小。"
+
+#: includes/admin/core/class-admin-settings.php:1186
+msgid "Profile Photo Thumbnail Sizes (px)"
+msgstr "個人頭像縮圖尺寸 (px)"
+
+#: includes/admin/core/class-admin-settings.php:1180
+msgid "Sets a maximum size for the uploaded cover"
+msgstr "為上傳的封面設定最大尺寸"
+
+#: includes/admin/core/class-admin-settings.php:1179
+msgid "Cover Photo Maximum File Size (bytes)"
+msgstr "封面圖片上傳檔案大小上限 (bytes)"
+
+#: includes/admin/core/class-admin-settings.php:1173
+msgid "Sets a maximum size for the uploaded photo"
+msgstr "為上傳的照片設置最大尺寸"
+
+#: includes/admin/core/class-admin-settings.php:1172
+msgid "Profile Photo Maximum File Size (bytes)"
+msgstr "個人頭像上傳檔案大小上限 (bytes)"
+
+#: includes/admin/core/class-admin-settings.php:1166
+msgid "Uploads"
+msgstr "上傳管理"
+
+#: includes/class-config.php:506
+msgid "Whether to receive notification when an account is deleted"
+msgstr "是否在帳號被刪除時收到通知"
+
+#: includes/class-config.php:503
+msgid "Account Deletion Notification"
+msgstr "帳號刪除通知"
+
+#: includes/class-config.php:498
+msgid "Whether to receive notification when an account needs admin review"
+msgstr "是否在帳號需要管理員審核時收到通知"
+
+#: includes/class-config.php:491
+msgid "Account Needs Review Notification"
+msgstr "帳號需求審查通知"
+
+#: includes/admin/core/class-admin-settings.php:2618
+msgid "This is the content of the e-mail"
+msgstr "這是電子郵件的內容"
+
+#: includes/class-config.php:485
+msgid "Whether to receive notification when a new user account is approved"
+msgstr "是否在新會員帳號被批准時收到通知"
+
+#: includes/class-config.php:479
+msgid "New User Notification"
+msgstr "新會員通知"
+
+#: includes/admin/core/class-admin-settings.php:1281
+msgid "Admin E-mail Address"
+msgstr "管理員電子郵件地址"
+
+#: includes/class-config.php:460
+msgid "Whether to send the user an email when he request to reset password (Recommended, please keep on)"
+msgstr "是否在請求重置密碼時向會員發送郵件（推薦，請繼續）"
+
+#: includes/class-config.php:453
+msgid "Password Changed Email"
+msgstr "密碼更改電子郵件"
+
+#: includes/class-config.php:447
+msgid "Whether to send an email when users changed their password (Recommended, please keep on)"
+msgstr "當會員更改密碼時是否發送電子郵件（推薦，請繼續）"
+
+#: includes/class-config.php:439
+msgid "Password Reset Email"
+msgstr "密碼重置郵件"
+
+#: includes/class-config.php:433
+msgid "Whether to send the user an email when his account is deleted"
+msgstr "是否在帳號被刪除時向會員發送電子郵件"
+
+#: includes/class-config.php:426
+msgid "Account Deleted Email"
+msgstr "帳號刪除電子郵件"
+
+#: includes/class-config.php:420
+msgid "Whether to send the user an email when his account is deactivated"
+msgstr "是否在帳號被停用時向會員發送電子郵件"
+
+#: includes/class-config.php:413
+msgid "Account Deactivated Email"
+msgstr "帳號停用電子郵件"
+
+#: includes/class-config.php:408
+msgid "Whether to send the user an email when his account is rejected"
+msgstr "是否在帳號被拒絕時向會員發送電子郵件"
+
+#: includes/class-config.php:401
+msgid "Account Rejected Email"
+msgstr "帳號拒絕電子郵件"
+
+#: includes/class-config.php:396
+msgid "Whether to send the user an email when his account is approved"
+msgstr "是否在帳號被批准時向會員發送電子郵件"
+
+#: includes/class-config.php:384
+msgid "Account Approved Email"
+msgstr "帳號批准電子郵件"
+
+#: includes/class-config.php:379
+msgid "Whether to send the user an email when his account needs admin review"
+msgstr "當他的帳號需要管理員審查時是否向會員發送電子郵件"
+
+#: includes/class-config.php:366
+msgid "Whether to send the user an email when his account needs e-mail activation"
+msgstr "是否在帳號需要電子郵件啟用時向會員發送電子郵件"
+
+#: includes/class-config.php:358
+msgid "Account Activation Email"
+msgstr "帳號啟用電子郵件"
+
+#: includes/admin/core/class-admin-settings.php:2616
+msgid "Message Body"
+msgstr "郵件正文"
+
+#: includes/admin/core/class-admin-settings.php:2611
+msgid "This is the subject line of the e-mail"
+msgstr "這是電子郵件的標題"
+
+#: includes/admin/core/class-admin-settings.php:2609
+msgid "Subject Line"
+msgstr "標題列"
+
+#: includes/class-config.php:352
+msgid "Whether to send the user an email when his account is automatically approved"
+msgstr "是否在自動批准帳號時向會員發送電子郵件"
+
+#: includes/class-config.php:341
+msgid "Account Welcome Email"
+msgstr "帳號歡迎電子郵件"
+
+#: includes/admin/core/class-admin-settings.php:1299
+msgid "Use HTML for E-mails?"
+msgstr "使用HTML電子郵件？"
+
+#: includes/admin/core/class-admin-settings.php:1282
+#: includes/admin/core/class-admin-settings.php:1294
+msgid "e.g. admin@companyname.com"
+msgstr "例如：admin@companyname.com"
+
+#: includes/admin/core/class-admin-settings.php:1293
+msgid "Mail appears from address"
+msgstr "自郵件地址中出現"
+
+#: includes/admin/core/class-admin-settings.php:1288
+msgid "e.g. Site Name"
+msgstr "例如：網站名稱"
+
+#: includes/admin/core/class-admin-settings.php:1287
+msgid "Mail appears from"
+msgstr "自郵件中出現"
+
+#: includes/admin/core/class-admin-settings.php:1276
+#: includes/admin/core/list-tables/emails-list-table.php:309
+msgid "Email"
+msgstr "Email"
+
+#: includes/admin/core/class-admin-settings.php:1269
+msgid "This option lets you specify blacklist of words to prevent anyone from signing up with such a word as their username"
+msgstr "透過此選項，您可以指定字詞黑名單，以防止任何人使用這些字詞來註冊他們的會員名。"
+
+#: includes/admin/core/class-admin-settings.php:1268
+msgid "Blacklist Words"
+msgstr "黑名單字詞"
+
+#: includes/admin/core/class-admin-settings.php:1263
+msgid "This will block the specified e-mail addresses from being able to sign up or sign in to your site. To block an entire domain, use something like *@domain.com"
+msgstr "這將封鎖特定的電子郵件地址，到您的網站註冊或登入。 要封鎖整個域名，請使用類似 *@domain.com 的內容"
+
+#: includes/admin/core/class-admin-settings.php:1262
+msgid "Blocked Email Addresses"
+msgstr "黑名單電子郵件地址"
+
+#: includes/admin/core/class-admin-settings.php:1254
+msgid "Set the maximum reset password limit. If reached the maximum limit, user will be locked from using this."
+msgstr "設置最大重置密碼限制。 如果達到最大限制，會員將被禁止使用。"
+
+#: includes/admin/core/class-admin-settings.php:1253
+msgid "Reset Password Limit"
+msgstr "重置密碼限制"
+
+#: includes/admin/core/class-admin-settings.php:1248
+msgid "Enable the Reset Password Limit?"
+msgstr "啟用重設密碼限制？"
+
+#: includes/admin/core/class-admin-metabox.php:465
+#: includes/admin/core/class-admin-metabox.php:616
+#: includes/admin/templates/access/restrict_content.php:129
+msgid "Custom URL"
+msgstr "自定義網址"
+
+#: includes/admin/core/class-admin-settings.php:502
+msgid "Allow Category pages to be accessible"
+msgstr "允許分類頁面可訪問"
+
+#: includes/admin/core/class-admin-settings.php:496
+msgid "Allow Homepage to be accessible"
+msgstr "允許首頁可訪問"
+
+#: includes/admin/core/class-admin-settings.php:489
+msgid "Add New URL"
+msgstr "新增網址"
+
+#: includes/admin/core/class-admin-settings.php:488
+msgid "Here you can exclude URLs beside the redirect URI to be accessible to everyone"
+msgstr "在這裡可以排除網址和轉址網址，以供所有人使用"
+
+#: includes/admin/core/class-admin-settings.php:487
+msgid "Exclude the following URLs"
+msgstr "排除以下網址"
+
+#: includes/admin/core/class-admin-settings.php:481
+msgid "A logged out user will be redirected to this url If he is not permitted to access the site"
+msgstr "登出的會員將被轉址到此URL如果他不被允許訪問該網站"
+
+#: includes/admin/core/class-admin-settings.php:480
+msgid "Custom Redirect URL"
+msgstr "自定義轉址網址"
+
+#: includes/admin/core/class-admin-settings.php:469
+msgid "Global Site Access"
+msgstr "全域網站訪問"
+
+#: includes/admin/core/class-admin-settings.php:1236
+msgid "Access"
+msgstr "權限"
+
+#: includes/admin/core/class-admin-settings.php:1142
+msgid "Enable or disable a strong password rules on account page / change password tab"
+msgstr "在 帳號管理/變更密碼頁籤下, 啟用或停用強密碼規則"
+
+#: includes/admin/core/class-admin-settings.php:1141
+msgid "Require a strong password?"
+msgstr "必須使用強密碼？"
+
+#: includes/admin/core/class-admin-settings.php:1148
+msgid "Whether to allow users changing their profile visibility from member directory in account page."
+msgstr "是否允許會員在帳號頁面帳號隱私中更改會員列表其個人資料的可見性。"
+
+#: includes/admin/core/class-admin-settings.php:1147
+msgid "Allow users to hide their profiles from directory"
+msgstr "同意使用者在帳號列表中隱藏他們的個人檔案"
+
+#: includes/admin/core/class-admin-settings.php:1130
+msgid "Whether to allow users changing their email in account page."
+msgstr "是否允許會員在帳號頁面更改電子郵件。"
+
+#: includes/admin/core/class-admin-settings.php:1129
+msgid "Allow users to change e-mail"
+msgstr "同意使用者變更 E-Mail"
+
+#: includes/admin/core/class-admin-settings.php:1123
+msgid "Require first and last name?"
+msgstr "需求名字和姓氏?"
+
+#: includes/admin/core/class-admin-settings.php:1122
+msgid "Require First & Last Name"
+msgstr "必填姓名欄位"
+
+#: includes/admin/core/class-admin-settings.php:1116
+msgid "Whether to allow users changing their first and last name in account page."
+msgstr "是否允許會員在帳號頁面更改他們的名字和姓氏。"
+
+#: includes/admin/core/class-admin-settings.php:1115
+msgid "Disable First & Last Name fields"
+msgstr "禁用名字和姓氏欄位"
+
+#: includes/admin/core/class-admin-settings.php:1110
+msgid "Whether to enable these fields on the user account page by default or hide them."
+msgstr "是否預設在會員帳號頁面上啟用這些欄位或隱藏它們。"
+
+#: includes/admin/core/class-admin-settings.php:1109
+msgid "Add a First & Last Name fields"
+msgstr "新增名字和姓氏欄位"
+
+#: includes/admin/core/class-admin-settings.php:1091
+msgid "Account Deletion Custom Text"
+msgstr "自訂刪除帳號的提示訊息"
+
+#: includes/admin/core/class-admin-settings.php:1086
+msgid "Enable/disable the Delete account tab in account page"
+msgstr "在帳號頁面啟用/禁用帳號刪除選項卡"
+
+#: includes/admin/core/class-admin-settings.php:1085
+msgid "Delete Account Tab"
+msgstr "刪除帳號頁籤"
+
+#: includes/admin/core/class-admin-settings.php:1080
+msgid "Enable/disable the Notifications account tab in account page"
+msgstr "在帳號管理頁 啟用/停用 帳號通知頁籤"
+
+#: includes/admin/core/class-admin-settings.php:1079
+msgid "Notifications Account Tab"
+msgstr "帳號通知頁籤"
+
+#: includes/admin/core/class-admin-settings.php:1074
+msgid "Enable/disable the Privacy account tab in account page"
+msgstr "在帳號管理頁面啟用或停用帳號隱私設定頁籤"
+
+#: includes/admin/core/class-admin-settings.php:1073
+msgid "Privacy Account Tab"
+msgstr "帳號隱私頁籤"
+
+#: includes/admin/core/class-admin-settings.php:1067
+msgid "Password Account Tab"
+msgstr "密碼管理頁籤"
+
+#: includes/admin/core/class-admin-settings.php:1039
+msgid "Enable or disable a strong password rules on password reset and change procedure"
+msgstr "啟用或禁用密碼重置和更改過程中的強密碼規則"
+
+#: includes/admin/core/class-admin-settings.php:1038
+msgid "Require a strong password? (when user resets password only)"
+msgstr "必須使用強密碼？(當使用者重置密碼時)"
+
+#: includes/admin/core/class-admin-settings.php:1032
+msgid "Do you want to use the plugin default avatar instead of the gravatar default photo (If the user did not upload a custom profile photo / avatar)"
+msgstr "你想使用插件的預設頭像，而不是gravatar預設的照片（如果會員沒有上傳自定義個人資料照片/頭像）"
+
+#: includes/admin/core/class-admin-settings.php:1031
+msgid "Use Default plugin avatar as Gravatar's Default avatar"
+msgstr "使用預設插件頭像作為Gravatar的預設頭像"
+
+#: includes/admin/core/class-admin-settings.php:1023
+msgid "Blank ( a transparent PNG image )"
+msgstr "空白（一個透明的PNG圖像）"
+
+#: includes/admin/core/class-admin-settings.php:1022
+msgid "Retro"
+msgstr "復古"
+
+#: includes/admin/core/class-admin-settings.php:1021
+msgid "Wavatar"
+msgstr "Wavatar(色塊圖像)"
+
+#: includes/admin/core/class-admin-settings.php:1020
+msgid "Monsterid"
+msgstr "Monsterid(怪物圖像)"
+
+#: includes/admin/core/class-admin-settings.php:1019
+msgid "Identicon"
+msgstr "Identicon(雜湊圖像)"
+
+#: includes/admin/core/class-admin-settings.php:1018
+msgid "Mystery Man"
+msgstr "神秘人"
+
+#: includes/admin/core/class-admin-settings.php:1017
+msgid "404 ( File Not Found response )"
+msgstr "404（文件沒有回應）"
+
+#: includes/admin/core/class-admin-settings.php:1014
+msgid "Gravatar has a number of built in options which you can also use as defaults"
+msgstr "Gravatar 有一些內建的選項，你也可以使用預設值"
+
+#: includes/admin/core/class-admin-settings.php:1013
+msgid "Use Gravatar builtin image"
+msgstr "使用 Gravatar 內建的圖像"
+
+#: includes/admin/core/class-admin-settings.php:1008
+msgid "Do you want to use gravatars instead of the default plugin profile photo (If the user did not upload a custom profile photo / avatar)"
+msgstr "你想使用 Gravatars 而不是預設的插件個人資料照片（如果會員沒有上傳自定義個人資料照片/頭像）"
+
+#: includes/admin/core/class-admin-settings.php:1007
+msgid "Use Gravatars?"
+msgstr "使用 Gravatars？"
+
+#: includes/admin/core/class-admin-settings.php:1002
+msgid "Control whether to enable or disable member directories on this site"
+msgstr "控制是否啟用或停用網站上的會員列表"
+
+#: includes/admin/core/class-admin-settings.php:1001
+msgid "Enable Members Directory"
+msgstr "啟用會員列表功能"
+
+#: includes/admin/core/class-admin-settings.php:996
+msgid "If enabled, author pages will automatically redirect to the user's profile page"
+msgstr "如果啟用，作者頁面將自動轉址到會員的個人資料頁面"
+
+#: includes/admin/core/class-admin-settings.php:995
+msgid "Automatically redirect author page to their profile?"
+msgstr "自動轉址作者頁面到他們的個人頁面？"
+
+#: includes/admin/core/class-admin-settings.php:989
+msgid "Specify the custom field meta key or custom fields seperated by comma that you want to use to display users name on the frontend of your site"
+msgstr "指定要用於在網站前端顯示會員名稱的用逗號分隔的自定義欄位元鍵或自定義欄位"
+
+#: includes/admin/core/class-admin-settings.php:988
+msgid "Display Name Custom Field(s)"
+msgstr "顯示名稱自定義欄位"
+
+#: includes/admin/core/class-admin-settings.php:981
+msgid "Custom field(s)"
+msgstr "自定義欄位"
+
+#: includes/admin/core/class-admin-settings.php:980
+msgid "First name only"
+msgstr "只有名字"
+
+#: includes/admin/core/class-admin-settings.php:979
+msgid "First initial of first name & last name"
+msgstr "名字的第一個字母 & 姓氏"
+
+#: includes/admin/core/class-admin-settings.php:978
+msgid "First name & first initial of last name"
+msgstr "名字 & 姓氏的第一個字母"
+
+#: includes/admin/core/class-admin-settings.php:977
+msgid "Last name & first name"
+msgstr "姓氏 & 名字"
+
+#: includes/admin/core/class-admin-settings.php:976
+msgid "First name & last name"
+msgstr "名字 & 姓氏"
+
+#: includes/admin/core/class-admin-settings.php:973
+msgid "Default WP Display Name"
+msgstr "預設WP顯示名稱"
+
+#: includes/admin/core/class-admin-settings.php:971
+msgid "This is the name that will be displayed for users on the front end of your site. Default setting uses first/last name as display name if it exists"
+msgstr "這是將在您的網站前端為會員顯示的名稱。 預設設置使用名/姓作為顯示名稱（如果存在）"
+
+#: includes/admin/core/class-admin-settings.php:970
+msgid "User Display Name"
+msgstr "使用者名稱顯示設定"
+
+#: includes/admin/core/class-admin-settings.php:964
+#: includes/admin/core/class-admin-settings.php:983
+msgid "Select..."
+msgstr "選擇..."
+
+#: includes/admin/core/class-admin-settings.php:962
+msgid "User ID"
+msgstr "會員ID"
+
+#: includes/admin/core/class-admin-settings.php:961
+msgid "First and Last Name with '+'"
+msgstr "名字和姓氏使用 '+'"
+
+#: includes/admin/core/class-admin-settings.php:960
+msgid "First and Last Name with '-'"
+msgstr "名字和姓氏使用 '-'"
+
+#: includes/admin/core/class-admin-settings.php:959
+msgid "First and Last Name with '.'"
+msgstr "名字和姓氏使用 '.'"
+
+#: includes/admin/core/class-admin-settings.php:954
+msgid "Profile Permalink Base"
+msgstr "個人檔案固定連結設定"
+
+#: includes/admin/core/class-admin-settings.php:282
+msgid "Choose a page..."
+msgstr "選擇一個頁面..."
+
+#. translators: %s: Page title
+#: includes/admin/core/class-admin-settings.php:271
+msgid "Add page ID"
+msgstr "新增頁面ID"
+
+#: includes/admin/core/class-admin-metabox.php:464
+#: includes/admin/core/class-admin-metabox.php:615
+#: includes/admin/templates/access/restrict_content.php:128
+msgid "Login page"
+msgstr "登入頁面"
+
+#: templates/searchform.php:9
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "搜尋&hellip;"
+
+#: templates/searchform.php:8 templates/searchform.php:9
+msgctxt "label"
+msgid "Search for:"
+msgstr "搜尋關鍵字:"
+
+#: templates/profile/posts.php:37
+msgid "This user has not created any posts."
+msgstr "此會員尚未新增任何文章。"
+
+#: templates/profile/posts.php:35
+msgid "You have not created any posts."
+msgstr "尚未新增任何文章。"
+
+#: templates/profile/posts.php:23
+msgid "load more posts"
+msgstr "載入更多的文章"
+
+#: templates/profile/posts-single.php:34
+msgid "%s comments"
+msgstr "%s 留言"
+
+#: templates/profile/posts-single.php:36
+msgid "1 comment"
+msgstr "1 則留言"
+
+#: templates/profile/posts-single.php:32
+msgid "no comments"
+msgstr "無留言"
+
+#: templates/profile/posts-single.php:26
+msgid "in"
+msgstr "在"
+
+#: templates/profile/posts-single.php:23
+msgid "%s ago"
+msgstr "%s 之前"
+
+#: templates/profile/comments.php:38
+msgid "This user has not made any comments."
+msgstr "此會員尚未發表任何留言。"
+
+#: templates/profile/comments.php:36
+msgid "You have not made any comments."
+msgstr "尚未發表任何留言。"
+
+#: templates/profile/comments.php:24
+msgid "load more comments"
+msgstr "載入更多留言"
+
+#: templates/profile/comments-single.php:14
+msgid "On <a href=\"%1$s\">%2$s</a>"
+msgstr "於 <a href=\"%1$s\">%2$s</a>"
+
+#: templates/password-reset.php:12
+msgid "We have sent you a password reset link to your e-mail. Please check your inbox."
+msgstr "已發送一個重置密碼的連結到您的電子郵件信箱，請到您的電子郵件收件夾確認。"
+
+#: includes/widgets/class-um-search-widget.php:81
+msgid "Search Users"
+msgstr "搜尋會員"
+
+#: includes/widgets/class-um-search-widget.php:27
+msgid "Ultimate Member - Search"
+msgstr "Ultimate Member - 搜尋"
+
+#: includes/core/class-user.php:1000
+msgid "Membership Inactive"
+msgstr "會員資格無效"
+
+#: includes/core/class-user.php:996
+msgid "Membership Rejected"
+msgstr "會員資格已拒絕"
+
+#: includes/core/class-profile.php:155
+msgid "Comments"
+msgstr "留言"
+
+#: includes/core/class-profile.php:151
+msgid "Posts"
+msgstr "文章"
+
+#: includes/core/class-common.php:95
+msgid "Search Member Directories"
+msgstr "搜尋用戶目錄"
+
+#: includes/core/class-common.php:93
+msgid "You did not create any member directories yet"
+msgstr "您尚未新增任何用戶目錄"
+
+#: includes/core/class-common.php:92
+msgid "Edit Member Directory"
+msgstr "編輯用戶目錄"
+
+#: includes/core/class-common.php:91
+msgid "Add New Member Directory"
+msgstr "新增用戶目錄"
+
+#: includes/core/class-common.php:89
+#: includes/admin/assets/js/um-admin-blocks-shortcode.js:136
+msgid "Member Directory"
+msgstr "用戶目錄"
+
+#: includes/admin/core/packages/2.0-beta1/user_roles.php:19
+msgid "Search User Roles"
+msgstr "搜尋用戶角色"
+
+#: includes/admin/core/packages/2.0-beta1/user_roles.php:17
+msgid "You did not create any user roles yet"
+msgstr "您還沒有新增任何用戶角色"
+
+#: includes/admin/core/packages/2.0-beta1/user_roles.php:16
+msgid "Edit User Role"
+msgstr "編輯用戶角色"
+
+#: includes/admin/core/packages/2.0-beta1/user_roles.php:15
+msgid "Add New User Role"
+msgstr "新增用戶角色"
+
+#: includes/admin/core/packages/2.0-beta1/user_roles.php:13
+msgid "User Role"
+msgstr "用戶角色"
+
+#: includes/core/class-common.php:65
+msgid "Search Forms"
+msgstr "搜尋表單"
+
+#: includes/admin/core/packages/2.0-beta1/user_roles.php:18
+#: includes/core/class-common.php:64 includes/core/class-common.php:94
+msgid "Nothing found in Trash"
+msgstr "垃圾桶裡沒有東西"
+
+#: includes/core/class-common.php:63
+msgid "You did not create any forms yet"
+msgstr "您尚未新增任何表單"
+
+#: includes/core/class-common.php:62
+msgid "Edit Form"
+msgstr "編輯表單"
+
+#: includes/core/class-common.php:61
+msgid "Add New Form"
+msgstr "新增表單"
+
+#: includes/admin/core/list-tables/roles-list-table.php:492
+#: includes/admin/core/packages/2.0-beta1/user_roles.php:14
+#: includes/admin/core/packages/2.1.17-alpha/functions.php:39
+#: includes/admin/templates/role/role-edit.php:170
+#: includes/core/class-common.php:60 includes/core/class-common.php:90
+msgid "Add New"
+msgstr "新增"
+
+#: includes/core/class-common.php:59 includes/um-short-functions.php:690
+#: includes/um-short-functions.php:705
+#: includes/admin/assets/js/um-admin-blocks-shortcode.js:6
+msgid "Form"
+msgstr "表單"
+
+#: includes/core/class-shortcodes.php:941
+msgid "Default Template"
+msgstr "預設主題"
+
+#: includes/core/class-shortcodes.php:361
+msgid "This content has been restricted to logged in users only. Please <a href=\"{login_referrer}\">login</a> to view this content."
+msgstr "此內容僅限於登入會員。 請<a href=\"{login_referrer}\">登入</a>查看此內容。"
+
+#: includes/um-deprecated-functions.php:671 includes/um-short-functions.php:865
+#: includes/um-short-functions.php:903
+msgid "(empty)"
+msgstr "(空)"
+
+#: includes/um-deprecated-functions.php:665
+msgid "date submitted"
+msgstr "提交日期"
+
+#: includes/class-config.php:132 includes/class-config.php:264
+#: includes/class-config.php:272 includes/class-config.php:795
+#: includes/core/class-form.php:632
+msgid "Login"
+msgstr "登入"
+
+#: includes/class-config.php:133 includes/class-config.php:262
+#: includes/class-config.php:276 includes/class-config.php:796
+#: includes/core/class-form.php:638
+msgid "Register"
+msgstr "註冊"
+
+#: includes/core/class-permalinks.php:187
+msgid "This activation link is expired or have already been used."
+msgstr "此啟用連結已過期或已被使用。"
+
+#: includes/admin/core/class-admin-navmenu.php:88
+#: includes/admin/core/class-admin-navmenu.php:254
+msgid "Select the member roles that can see this link"
+msgstr "選擇可以查看這個連結的會員角色"
+
+#: includes/admin/core/class-admin-navmenu.php:79
+#: includes/admin/core/class-admin-navmenu.php:238
+msgid "Who can see this menu link?"
+msgstr "誰可以看到這個選單連結？"
+
+#: includes/admin/core/class-admin-navmenu.php:29
+msgid "By Role"
+msgstr "依照角色"
+
+#: includes/admin/core/class-admin-navmenu.php:28
+msgid "Display Mode"
+msgstr "顯示模式"
+
+#: includes/core/um-filters-user.php:52
+msgid "Login as this user"
+msgstr "以此會員身份登入"
+
+#: includes/core/um-filters-user.php:48
+msgid "Delete this user"
+msgstr "刪除此會員"
+
+#: includes/core/um-filters-user.php:42
+msgid "Reactivate this account"
+msgstr "重新啟用此帳號"
+
+#: includes/core/um-filters-user.php:38
+msgid "Deactivate this account"
+msgstr "取消啟用此帳號"
+
+#: includes/admin/core/class-admin-users.php:220
+msgid "Reactivate"
+msgstr "重新啟用"
+
+#: includes/admin/core/class-admin-users.php:217
+msgid "Deactivate"
+msgstr "停用"
+
+#: includes/admin/core/class-admin-users.php:214
+#: includes/core/um-filters-user.php:34
+msgid "Resend Activation E-mail"
+msgstr "重新寄送電子郵件確認信"
+
+#: includes/admin/core/class-admin-users.php:211
+#: includes/core/um-filters-user.php:30
+msgid "Put as Pending Review"
+msgstr "視為待審核"
+
+#: includes/admin/core/class-admin-users.php:208
+#: includes/core/um-filters-user.php:22
+msgid "Reject Membership"
+msgstr "拒絕會員資格"
+
+#: includes/admin/core/class-admin-users.php:205
+#: includes/core/um-filters-user.php:21 includes/core/um-filters-user.php:26
+msgid "Approve Membership"
+msgstr "批准會員資格"
+
+#: includes/core/um-filters-profile.php:135
+#: includes/core/um-filters-profile.php:156
+msgid "max"
+msgstr "最大"
+
+#: includes/core/class-profile.php:147
+msgid "About"
+msgstr "關於"
+
+#: includes/core/um-filters-fields.php:303
+msgid "Untitled photo"
+msgstr "無標題照片"
+
+#: includes/core/class-fields.php:2773 includes/core/um-filters-fields.php:269
+msgid "This file has been removed."
+msgstr "該文件已被刪除。"
+
+#: includes/core/um-filters-fields.php:126
+msgid "Joined %s"
+msgstr "加入於 %s"
+
+#: includes/core/um-filters-fields.php:36
+msgid "Invalid soundcloud track ID"
+msgstr "無效的 soundcloud 追蹤 ID"
+
+#: includes/admin/core/class-admin-forms.php:318
+#: includes/core/um-filters-fields.php:17
+msgid "Required"
+msgstr "必填"
+
+#: includes/admin/core/class-admin-settings.php:1706
+msgid "Licenses"
+msgstr "授權"
+
+#: includes/admin/core/class-admin-settings.php:2920
+msgid "Activate"
+msgstr "啟用"
+
+#: includes/core/class-uploader.php:794 includes/core/class-uploader.php:796
+msgid "Your photo is too small. It must be at least %spx wide."
+msgstr "你的照片太小了。 它必須至少有%spx的寬度。"
+
+#: includes/core/class-uploader.php:788
+msgid "Your image is invalid or too large!"
+msgstr "您的圖片無效或太大！"
+
+#: includes/core/class-uploader.php:740
+msgid "This media type is not recognized."
+msgstr "此媒體類型無法識別。"
+
+#: includes/core/class-fields.php:4369
+msgid "This user has not added any information to their profile yet."
+msgstr "此會員還沒有在他們的個人檔案中新增任何資訊。"
+
+#: includes/core/class-fields.php:4367
+msgid "Your profile is looking a little empty. Why not <a href=\"%s\">add</a> some information!"
+msgstr "你的個人檔案看起來有點空。為什麼不<a href=\"%s\">增加</a>一些訊息，讓更多人認識你呢？"
+
+#: includes/core/class-fields.php:2806
+msgid "Save"
+msgstr "儲存"
+
+#: includes/core/class-fields.php:2776 includes/core/class-fields.php:2806
+msgid "Change file"
+msgstr "變更檔案"
+
+#: includes/core/class-fields.php:2707 includes/core/class-fields.php:2806
+msgid "Processing..."
+msgstr "處理..."
+
+#: includes/core/class-fields.php:2661
+msgid "Upload Photo"
+msgstr "上傳照片"
+
+#: includes/core/class-fields.php:2396 includes/core/class-fields.php:2415
+#: includes/core/class-fields.php:2417
+msgid "Confirm %s"
+msgstr "確認 %s"
+
+#: includes/core/class-fields.php:2353
+msgid "New Password"
+msgstr "新密碼"
+
+#: includes/core/class-fields.php:2322
+msgid "Current Password"
+msgstr "目前密碼"
+
+#: includes/core/class-fields.php:1793
+msgid "You can only upload one file"
+msgstr "您只可以上傳一個檔案"
+
+#: includes/core/class-fields.php:1790
+msgid "This file is too small!"
+msgstr "這個檔案太小！"
+
+#: includes/core/class-fields.php:1787
+msgid "This file is too large!"
+msgstr "這個檔案太大！"
+
+#: includes/core/class-fields.php:1784
+msgid "Sorry this is not a valid file."
+msgstr "抱歉，這不是有效的檔案。"
+
+#: includes/core/class-fields.php:1752
+msgid "You can only upload one image"
+msgstr "您只能上傳一張圖片"
+
+#: includes/core/class-fields.php:1749
+msgid "This image is too small!"
+msgstr "這張圖片太小了！"
+
+#: includes/core/class-fields.php:1746
+msgid "This image is too large!"
+msgstr "這張圖片太大了！"
+
+#: includes/core/class-fields.php:1743
+msgid "Sorry this is not a valid image."
+msgstr "對不起，這張圖片不符合規範。"
+
+#: includes/core/class-fields.php:1729
+msgid "Please upload a valid image!"
+msgstr "請上傳有效的圖片！"
+
+#: includes/core/class-fields.php:1382
+msgid "Custom Field"
+msgstr "自定義欄位"
+
+#: includes/core/class-date-time.php:152
+msgid "Less than 1 year old"
+msgstr "不到1歲"
+
+#: includes/core/class-date-time.php:149
+msgid "%s years old"
+msgstr "%s 歲"
+
+#: includes/core/class-date-time.php:146
+msgid "%s year old"
+msgstr "%s 歲"
+
+#: includes/core/class-date-time.php:84 includes/core/class-date-time.php:89
+#: includes/core/class-date-time.php:93 includes/core/class-date-time.php:97
+msgid "%s at %s"
+msgstr "%s at %s"
+
+#: includes/core/class-date-time.php:82
+msgid "Yesterday at %s"
+msgstr "昨天在 %s"
+
+#: includes/core/class-date-time.php:72
+msgid "%s hr"
+msgid_plural "%s hrs"
+msgstr[0] "%s 小時"
+
+#: includes/core/class-date-time.php:63
+msgid "%s min"
+msgid_plural "%s mins"
+msgstr[0] "%s 分鐘"
+
+#: includes/core/class-date-time.php:54
+msgid "just now"
+msgstr "現在"
+
+#: includes/core/class-cron.php:62
+msgid "Once Weekly"
+msgstr "每週一次"
+
+#: includes/core/class-builtin.php:1886
+msgid "Zimbabwe"
+msgstr "辛巴威"
+
+#: includes/core/class-builtin.php:1885
+msgid "Zambia"
+msgstr "尚比亞"
+
+#: includes/core/class-builtin.php:1884
+msgid "Yemen"
+msgstr "葉門"
+
+#: includes/core/class-builtin.php:1883
+msgid "Western Sahara"
+msgstr "西撒哈拉"
+
+#: includes/core/class-builtin.php:1882
+msgid "Wallis and Futuna"
+msgstr "瓦利斯及福杜納"
+
+#: includes/core/class-builtin.php:1881
+msgid "Virgin Islands, U.S."
+msgstr "美屬維京群島"
+
+#: includes/core/class-builtin.php:1880
+msgid "Virgin Islands, British"
+msgstr "英屬維京群島"
+
+#: includes/core/class-builtin.php:1879
+msgid "Viet Nam"
+msgstr "越南"
+
+#: includes/core/class-builtin.php:1878
+msgid "Venezuela, Bolivarian Republic of"
+msgstr "委內瑞拉玻利瓦爾共和國"
+
+#: includes/core/class-builtin.php:1877
+msgid "Vanuatu"
+msgstr "萬那杜"
+
+#: includes/core/class-builtin.php:1876
+msgid "Uzbekistan"
+msgstr "烏茲別克斯坦"
+
+#: includes/core/class-builtin.php:1875
+msgid "Uruguay"
+msgstr "烏拉圭"
+
+#: includes/core/class-builtin.php:1874
+msgid "United States Minor Outlying Islands"
+msgstr "美國外島"
+
+#: includes/core/class-builtin.php:1873
+msgid "United States"
+msgstr "美國"
+
+#: includes/core/class-builtin.php:1872
+msgid "United Kingdom"
+msgstr "英國"
+
+#: includes/core/class-builtin.php:1871
+msgid "United Arab Emirates"
+msgstr "阿拉伯聯合大公國"
+
+#: includes/core/class-builtin.php:1870
+msgid "Ukraine"
+msgstr "烏克蘭"
+
+#: includes/core/class-builtin.php:1869
+msgid "Uganda"
+msgstr "烏干達"
+
+#: includes/core/class-builtin.php:1868
+msgid "Tuvalu"
+msgstr "吐瓦魯"
+
+#: includes/core/class-builtin.php:1867
+msgid "Turks and Caicos Islands"
+msgstr "土克斯及開科斯群島"
+
+#: includes/core/class-builtin.php:1866
+msgid "Turkmenistan"
+msgstr "土庫曼"
+
+#: includes/core/class-builtin.php:1865
+msgid "Turkey"
+msgstr "土耳其"
+
+#: includes/core/class-builtin.php:1864
+msgid "Tunisia"
+msgstr "突尼西亞"
+
+#: includes/core/class-builtin.php:1863
+msgid "Trinidad and Tobago"
+msgstr "千里達及托巴哥"
+
+#: includes/core/class-builtin.php:1861
+msgid "Tokelau"
+msgstr "托克勞群島"
+
+#: includes/core/class-builtin.php:1860
+msgid "Togo"
+msgstr "多哥"
+
+#: includes/core/class-builtin.php:1859
+msgid "Timor-Leste"
+msgstr "東帝汶"
+
+#: includes/core/class-builtin.php:1858
+msgid "Thailand"
+msgstr "泰國"
+
+#: includes/core/class-builtin.php:1857
+msgid "Tanzania, United Republic of"
+msgstr "坦尚尼亞"
+
+#: includes/core/class-builtin.php:1856
+msgid "Tajikistan"
+msgstr "塔吉克"
+
+#: includes/core/class-builtin.php:1855
+msgid "Taiwan, Province of China"
+msgstr "台灣"
+
+#: includes/core/class-builtin.php:1854
+msgid "Syrian Arab Republic"
+msgstr "敘利亞"
+
+#: includes/core/class-builtin.php:1853
+msgid "Switzerland"
+msgstr "瑞士"
+
+#: includes/core/class-builtin.php:1852
+msgid "Sweden"
+msgstr "瑞典"
+
+#: includes/core/class-builtin.php:1851
+msgid "Swaziland"
+msgstr "史瓦濟蘭"
+
+#: includes/core/class-builtin.php:1850
+msgid "Svalbard and Jan Mayen"
+msgstr "冷岸及央棉"
+
+#: includes/core/class-builtin.php:1849
+msgid "Suriname"
+msgstr "蘇利南"
+
+#: includes/core/class-builtin.php:1848
+msgid "Sudan"
+msgstr "蘇丹"
+
+#: includes/core/class-builtin.php:1847
+msgid "Sri Lanka"
+msgstr "斯里蘭卡"
+
+#: includes/core/class-builtin.php:1846
+msgid "Spain"
+msgstr "西班牙"
+
+#: includes/core/class-builtin.php:1845
+msgid "South Sudan"
+msgstr "南蘇丹"
+
+#: includes/core/class-builtin.php:1844
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "南喬治亞與南桑威奇"
+
+#: includes/core/class-builtin.php:1843
+msgid "South Africa"
+msgstr "南非"
+
+#: includes/core/class-builtin.php:1842
+msgid "Somalia"
+msgstr "索馬利亞"
+
+#: includes/core/class-builtin.php:1841
+msgid "Solomon Islands"
+msgstr "索羅門群島"
+
+#: includes/core/class-builtin.php:1840
+msgid "Slovenia"
+msgstr "斯洛維尼亞"
+
+#: includes/core/class-builtin.php:1839
+msgid "Slovakia"
+msgstr "斯洛伐克"
+
+#: includes/core/class-builtin.php:1838
+msgid "Singapore"
+msgstr "新加坡"
+
+#: includes/core/class-builtin.php:1837
+msgid "Sierra Leone"
+msgstr "獅子山"
+
+#: includes/core/class-builtin.php:1836
+msgid "Seychelles"
+msgstr "塞席爾"
+
+#: includes/core/class-builtin.php:1835
+msgid "Serbia"
+msgstr "塞爾維亞"
+
+#: includes/core/class-builtin.php:1834
+msgid "Senegal"
+msgstr "塞內加爾"
+
+#: includes/core/class-builtin.php:1833
+msgid "Saudi Arabia"
+msgstr "沙烏地阿拉伯"
+
+#: includes/core/class-builtin.php:1832
+msgid "Sao Tome and Principe"
+msgstr "聖多美普林西比"
+
+#: includes/core/class-builtin.php:1831
+msgid "San Marino"
+msgstr "聖馬利諾"
+
+#: includes/core/class-builtin.php:1830
+msgid "Samoa"
+msgstr "薩摩亞"
+
+#: includes/core/class-builtin.php:1829
+msgid "Saint Vincent and the Grenadines"
+msgstr "聖文森及格瑞那丁"
+
+#: includes/core/class-builtin.php:1828
+msgid "Saint Pierre and Miquelon"
+msgstr "聖匹島"
+
+#: includes/core/class-builtin.php:1827
+msgid "Saint Martin (French part)"
+msgstr "聖馬丁島(法屬)"
+
+#: includes/core/class-builtin.php:1826
+msgid "Saint Lucia"
+msgstr "聖露西亞"
+
+#: includes/core/class-builtin.php:1825
+msgid "Saint Kitts and Nevis"
+msgstr "聖克里斯多福及尼維斯"
+
+#: includes/core/class-builtin.php:1824
+msgid "Saint Helena"
+msgstr "聖赫勒拿島"
+
+#: includes/core/class-builtin.php:1823
+msgid "Saint Barthélemy"
+msgstr "聖巴瑟米"
+
+#: includes/core/class-builtin.php:1822
+msgid "Rwanda"
+msgstr "盧安達"
+
+#: includes/core/class-builtin.php:1821
+msgid "Russian Federation"
+msgstr "俄羅斯"
+
+#: includes/core/class-builtin.php:1820
+msgid "Romania"
+msgstr "羅馬尼亞"
+
+#: includes/core/class-builtin.php:1819
+msgid "Réunion"
+msgstr "留尼旺"
+
+#: includes/core/class-builtin.php:1818
+msgid "Qatar"
+msgstr "卡達"
+
+#: includes/core/class-builtin.php:1817
+msgid "Puerto Rico"
+msgstr "波多黎各"
+
+#: includes/core/class-builtin.php:1816
+msgid "Portugal"
+msgstr "葡萄牙"
+
+#: includes/core/class-builtin.php:1815
+msgid "Poland"
+msgstr "波蘭"
+
+#: includes/core/class-builtin.php:1814
+msgid "Pitcairn"
+msgstr "皮特康群島"
+
+#: includes/core/class-builtin.php:1813
+msgid "Philippines"
+msgstr "菲律賓"
+
+#: includes/core/class-builtin.php:1812
+msgid "Peru"
+msgstr "祕魯"
+
+#: includes/core/class-builtin.php:1811
+msgid "Paraguay"
+msgstr "巴拉圭"
+
+#: includes/core/class-builtin.php:1810
+msgid "Papua New Guinea"
+msgstr "巴布亞紐幾內亞"
+
+#: includes/core/class-builtin.php:1809
+msgid "Panama"
+msgstr "巴拿馬"
+
+#: includes/core/class-builtin.php:1808
+msgid "Palestine"
+msgstr "巴勒斯坦"
+
+#: includes/core/class-builtin.php:1807
+msgid "Palau"
+msgstr "帛琉"
+
+#: includes/core/class-builtin.php:1806
+msgid "Pakistan"
+msgstr "巴基斯坦"
+
+#: includes/core/class-builtin.php:1805
+msgid "Oman"
+msgstr "阿曼"
+
+#: includes/core/class-builtin.php:1804
+msgid "Norway"
+msgstr "挪威"
+
+#: includes/core/class-builtin.php:1803
+msgid "Northern Mariana Islands"
+msgstr "北馬里安納群島"
+
+#: includes/core/class-builtin.php:1802
+msgid "Norfolk Island"
+msgstr "諾福克島"
+
+#: includes/core/class-builtin.php:1801
+msgid "Niue"
+msgstr "紐威島"
+
+#: includes/core/class-builtin.php:1800
+msgid "Nigeria"
+msgstr "奈及利亞"
+
+#: includes/core/class-builtin.php:1799
+msgid "Niger"
+msgstr "尼日"
+
+#: includes/core/class-builtin.php:1798
+msgid "Nicaragua"
+msgstr "尼加拉瓜"
+
+#: includes/core/class-builtin.php:1797
+msgid "New Zealand"
+msgstr "紐西蘭"
+
+#: includes/core/class-builtin.php:1796
+msgid "New Caledonia"
+msgstr "新喀里多尼亞群島"
+
+#: includes/core/class-builtin.php:1795
+msgid "Netherlands Antilles"
+msgstr "荷屬安地列斯"
+
+#: includes/core/class-builtin.php:1794
+msgid "Netherlands"
+msgstr "荷蘭"
+
+#: includes/core/class-builtin.php:1793
+msgid "Nepal"
+msgstr "尼泊爾"
+
+#: includes/core/class-builtin.php:1791
+msgid "Namibia"
+msgstr "納米比亞"
+
+#: includes/core/class-builtin.php:1790
+msgid "Myanmar"
+msgstr "緬甸"
+
+#: includes/core/class-builtin.php:1789
+msgid "Mozambique"
+msgstr "莫三比克"
+
+#: includes/core/class-builtin.php:1788
+msgid "Morocco"
+msgstr "摩洛哥"
+
+#: includes/core/class-builtin.php:1787
+msgid "Montserrat"
+msgstr "蒙特色拉特島"
+
+#: includes/core/class-builtin.php:1786
+msgid "Montenegro"
+msgstr "蒙特內哥羅"
+
+#: includes/core/class-builtin.php:1785
+msgid "Mongolia"
+msgstr "蒙古"
+
+#: includes/core/class-builtin.php:1784
+msgid "Monaco"
+msgstr "摩納哥"
+
+#: includes/core/class-builtin.php:1783
+msgid "Moldova, Republic of"
+msgstr "摩爾多瓦"
+
+#: includes/core/class-builtin.php:1782
+msgid "Micronesia, Federated States of"
+msgstr "密克羅尼西亞聯邦"
+
+#: includes/core/class-builtin.php:1781
+msgid "Mexico"
+msgstr "墨西哥"
+
+#: includes/core/class-builtin.php:1780
+msgid "Mayotte"
+msgstr "馬約特島"
+
+#: includes/core/class-builtin.php:1779
+msgid "Mauritius"
+msgstr "模里西斯"
+
+#: includes/core/class-builtin.php:1778
+msgid "Mauritania"
+msgstr "茅利塔尼亞"
+
+#: includes/core/class-builtin.php:1777
+msgid "Martinique"
+msgstr "馬丁尼克"
+
+#: includes/core/class-builtin.php:1776
+msgid "Marshall Islands"
+msgstr "馬紹爾群島"
+
+#: includes/core/class-builtin.php:1775
+msgid "Malta"
+msgstr "馬爾他"
+
+#: includes/core/class-builtin.php:1774
+msgid "Mali"
+msgstr "馬利"
+
+#: includes/core/class-builtin.php:1773
+msgid "Maldives"
+msgstr "馬爾地夫"
+
+#: includes/core/class-builtin.php:1772
+msgid "Malaysia"
+msgstr "馬來西亞"
+
+#: includes/core/class-builtin.php:1771
+msgid "Malawi"
+msgstr "馬拉威"
+
+#: includes/core/class-builtin.php:1770
+msgid "Madagascar"
+msgstr "馬達加斯加"
+
+#: includes/core/class-builtin.php:1769
+msgid "Macedonia, the former Yugoslav Republic of"
+msgstr "馬其頓共和國"
+
+#: includes/core/class-builtin.php:1768
+msgid "Macao"
+msgstr "澳門"
+
+#: includes/core/class-builtin.php:1767
+msgid "Luxembourg"
+msgstr "盧森堡"
+
+#: includes/core/class-builtin.php:1766
+msgid "Lithuania"
+msgstr "立陶宛"
+
+#: includes/core/class-builtin.php:1765
+msgid "Liechtenstein"
+msgstr "列支敦斯登"
+
+#: includes/core/class-builtin.php:1764
+msgid "Libyan Arab Jamahiriya"
+msgstr "利比亞"
+
+#: includes/core/class-builtin.php:1763
+msgid "Liberia"
+msgstr "賴比瑞亞"
+
+#: includes/core/class-builtin.php:1762
+msgid "Lesotho"
+msgstr "賴索托"
+
+#: includes/core/class-builtin.php:1761
+msgid "Lebanon"
+msgstr "黎巴嫩"
+
+#: includes/core/class-builtin.php:1760
+msgid "Latvia"
+msgstr "拉脫維亞"
+
+#: includes/core/class-builtin.php:1759
+msgid "Lao People's Democratic Republic"
+msgstr "寮國"
+
+#: includes/core/class-builtin.php:1758
+msgid "Kyrgyzstan"
+msgstr "吉爾吉斯"
+
+#: includes/core/class-builtin.php:1757
+msgid "Kuwait"
+msgstr "科威特"
+
+#: includes/core/class-builtin.php:1756
+msgid "Korea, Republic of"
+msgstr "南韓"
+
+#: includes/core/class-builtin.php:1755
+msgid "Korea, Democratic People's Republic of"
+msgstr "北韓"
+
+#: includes/core/class-builtin.php:1754
+msgid "Kiribati"
+msgstr "吉里巴斯"
+
+#: includes/core/class-builtin.php:1753
+msgid "Kenya"
+msgstr "肯亞"
+
+#: includes/core/class-builtin.php:1752
+msgid "Kazakhstan"
+msgstr "哈薩克"
+
+#: includes/core/class-builtin.php:1751
+msgid "Jordan"
+msgstr "約旦"
+
+#: includes/core/class-builtin.php:1750
+msgid "Jersey"
+msgstr "澤西島"
+
+#: includes/core/class-builtin.php:1749
+msgid "Japan"
+msgstr "日本"
+
+#: includes/core/class-builtin.php:1748
+msgid "Jamaica"
+msgstr "牙買加"
+
+#: includes/core/class-builtin.php:1747
+msgid "Italy"
+msgstr "義大利"
+
+#: includes/core/class-builtin.php:1746
+msgid "Israel"
+msgstr "以色列"
+
+#: includes/core/class-builtin.php:1745
+msgid "Isle of Man"
+msgstr "曼島"
+
+#: includes/core/class-builtin.php:1744
+msgid "Ireland"
+msgstr "愛爾蘭島"
+
+#: includes/core/class-builtin.php:1743
+msgid "Iraq"
+msgstr "伊拉克"
+
+#: includes/core/class-builtin.php:1742
+msgid "Iran, Islamic Republic of"
+msgstr "伊朗"
+
+#: includes/core/class-builtin.php:1741
+msgid "Indonesia"
+msgstr "印尼"
+
+#: includes/core/class-builtin.php:1740
+msgid "India"
+msgstr "印度"
+
+#: includes/core/class-builtin.php:1739
+msgid "Iceland"
+msgstr "冰島"
+
+#: includes/core/class-builtin.php:1738
+msgid "Hungary"
+msgstr "匈牙利"
+
+#: includes/core/class-builtin.php:1737
+msgid "Hong Kong"
+msgstr "香港"
+
+#: includes/core/class-builtin.php:1736
+msgid "Honduras"
+msgstr "宏都拉斯"
+
+#: includes/core/class-builtin.php:1735
+msgid "Holy See (Vatican City State)"
+msgstr "梵蒂岡"
+
+#: includes/core/class-builtin.php:1734
+msgid "Heard Island and McDonald Islands"
+msgstr "赫德島及麥當勞群島"
+
+#: includes/core/class-builtin.php:1733
+msgid "Haiti"
+msgstr "海地"
+
+#: includes/core/class-builtin.php:1732
+msgid "Guyana"
+msgstr "蓋亞那"
+
+#: includes/core/class-builtin.php:1731
+msgid "Guinea-Bissau"
+msgstr "幾內亞比索"
+
+#: includes/core/class-builtin.php:1730
+msgid "Guinea"
+msgstr "幾內亞"
+
+#: includes/core/class-builtin.php:1729
+msgid "Guernsey"
+msgstr "根西島"
+
+#: includes/core/class-builtin.php:1728
+msgid "Guatemala"
+msgstr "瓜地馬拉"
+
+#: includes/core/class-builtin.php:1727
+msgid "Guam"
+msgstr "關島"
+
+#: includes/core/class-builtin.php:1726
+msgid "Guadeloupe"
+msgstr "瓜地洛普"
+
+#: includes/core/class-builtin.php:1725
+msgid "Grenada"
+msgstr "格瑞那達"
+
+#: includes/core/class-builtin.php:1724
+msgid "Greenland"
+msgstr "格陵蘭"
+
+#: includes/core/class-builtin.php:1723
+msgid "Greece"
+msgstr "希臘"
+
+#: includes/core/class-builtin.php:1722
+msgid "Gibraltar"
+msgstr "直布羅陀"
+
+#: includes/core/class-builtin.php:1721
+msgid "Ghana"
+msgstr "迦納"
+
+#: includes/core/class-builtin.php:1720
+msgid "Germany"
+msgstr "德國"
+
+#: includes/core/class-builtin.php:1719
+msgid "Georgia"
+msgstr "喬治亞"
+
+#: includes/core/class-builtin.php:1718
+msgid "Gambia"
+msgstr "甘比亞"
+
+#: includes/core/class-builtin.php:1717
+msgid "Gabon"
+msgstr "加彭"
+
+#: includes/core/class-builtin.php:1716
+msgid "French Southern Territories"
+msgstr "法屬南部和南極領地"
+
+#: includes/core/class-builtin.php:1715
+msgid "French Polynesia"
+msgstr "法屬玻里尼西亞"
+
+#: includes/core/class-builtin.php:1714
+msgid "French Guiana"
+msgstr "法屬圭亞那"
+
+#: includes/core/class-builtin.php:1713
+msgid "France"
+msgstr "法國"
+
+#: includes/core/class-builtin.php:1712
+msgid "Finland"
+msgstr "芬蘭"
+
+#: includes/core/class-builtin.php:1711
+msgid "Fiji"
+msgstr "斐濟"
+
+#: includes/core/class-builtin.php:1710
+msgid "Faroe Islands"
+msgstr "法羅群島"
+
+#: includes/core/class-builtin.php:1709
+msgid "Falkland Islands (Malvinas)"
+msgstr "福克蘭群島"
+
+#: includes/core/class-builtin.php:1708
+msgid "Ethiopia"
+msgstr "衣索比亞"
+
+#: includes/core/class-builtin.php:1707
+msgid "Estonia"
+msgstr "愛沙尼亞"
+
+#: includes/core/class-builtin.php:1706
+msgid "Eritrea"
+msgstr "厄利垂亞"
+
+#: includes/core/class-builtin.php:1705
+msgid "Equatorial Guinea"
+msgstr "赤道幾內亞"
+
+#: includes/core/class-builtin.php:1704
+msgid "El Salvador"
+msgstr "薩爾瓦多"
+
+#: includes/core/class-builtin.php:1703
+msgid "Egypt"
+msgstr "埃及"
+
+#: includes/core/class-builtin.php:1702
+msgid "Ecuador"
+msgstr "厄瓜多爾"
+
+#: includes/core/class-builtin.php:1701
+msgid "Dominican Republic"
+msgstr "多明尼加共和國"
+
+#: includes/core/class-builtin.php:1700
+msgid "Dominica"
+msgstr "多明尼加"
+
+#: includes/core/class-builtin.php:1699
+msgid "Djibouti"
+msgstr "吉布地"
+
+#: includes/core/class-builtin.php:1698
+msgid "Denmark"
+msgstr "丹麥"
+
+#: includes/core/class-builtin.php:1697
+msgid "Czech Republic"
+msgstr "捷克共和國"
+
+#: includes/core/class-builtin.php:1696
+msgid "Cyprus"
+msgstr "賽普勒斯"
+
+#: includes/core/class-builtin.php:1695
+msgid "Cuba"
+msgstr "古巴"
+
+#: includes/core/class-builtin.php:1694
+msgid "Croatia"
+msgstr "克羅埃西亞"
+
+#: includes/core/class-builtin.php:1693
+msgid "Côte d'Ivoire"
+msgstr "象牙海岸"
+
+#: includes/core/class-builtin.php:1692
+msgid "Costa Rica"
+msgstr "哥斯大黎加"
+
+#: includes/core/class-builtin.php:1691
+msgid "Cook Islands"
+msgstr "柯克群島"
+
+#: includes/core/class-builtin.php:1690
+msgid "Congo, the Democratic Republic of the"
+msgstr "剛果民主共和國"
+
+#: includes/core/class-builtin.php:1689
+msgid "Congo"
+msgstr "剛果"
+
+#: includes/core/class-builtin.php:1688
+msgid "Comoros"
+msgstr "葛摩"
+
+#: includes/core/class-builtin.php:1687
+msgid "Colombia"
+msgstr "哥倫比亞"
+
+#: includes/core/class-builtin.php:1686
+msgid "Cocos (Keeling) Islands"
+msgstr "可可斯 (基林) 群島"
+
+#: includes/core/class-builtin.php:1685
+msgid "Christmas Island"
+msgstr "聖誕島"
+
+#: includes/core/class-builtin.php:1684
+msgid "China"
+msgstr "中國"
+
+#: includes/core/class-builtin.php:1683
+msgid "Chile"
+msgstr "智利"
+
+#: includes/core/class-builtin.php:1682
+msgid "Chad"
+msgstr "查德"
+
+#: includes/core/class-builtin.php:1681
+msgid "Central African Republic"
+msgstr "中非共和國"
+
+#: includes/core/class-builtin.php:1680
+msgid "Cayman Islands"
+msgstr "開曼群島"
+
+#: includes/core/class-builtin.php:1679
+msgid "Cape Verde"
+msgstr "維德角"
+
+#: includes/core/class-builtin.php:1678
+msgid "Canada"
+msgstr "加拿大"
+
+#: includes/core/class-builtin.php:1677
+msgid "Cameroon"
+msgstr "喀麥隆"
+
+#: includes/core/class-builtin.php:1676
+msgid "Cambodia"
+msgstr "柬埔寨"
+
+#: includes/core/class-builtin.php:1675
+msgid "Burundi"
+msgstr "蒲隆地"
+
+#: includes/core/class-builtin.php:1674
+msgid "Burkina Faso"
+msgstr "布吉納法索"
+
+#: includes/core/class-builtin.php:1673
+msgid "Bulgaria"
+msgstr "保加利亞"
+
+#: includes/core/class-builtin.php:1672
+msgid "Brunei Darussalam"
+msgstr "汶萊"
+
+#: includes/core/class-builtin.php:1671
+msgid "British Indian Ocean Territory"
+msgstr "英屬印度洋領土"
+
+#: includes/core/class-builtin.php:1670
+msgid "Brazil"
+msgstr "巴西"
+
+#: includes/core/class-builtin.php:1669
+msgid "Bouvet Island"
+msgstr "布威島"
+
+#: includes/core/class-builtin.php:1668
+msgid "Botswana"
+msgstr "波札那"
+
+#: includes/core/class-builtin.php:1667
+msgid "Bosnia and Herzegovina"
+msgstr "波士尼亞與赫塞哥維納"
+
+#: includes/core/class-builtin.php:1666
+msgid "Bolivia, Plurinational State of"
+msgstr "玻利維亞"
+
+#: includes/core/class-builtin.php:1665
+msgid "Bhutan"
+msgstr "不丹"
+
+#: includes/core/class-builtin.php:1664
+msgid "Bermuda"
+msgstr "百慕達"
+
+#: includes/core/class-builtin.php:1663
+msgid "Benin"
+msgstr "貝南"
+
+#: includes/core/class-builtin.php:1662
+msgid "Belize"
+msgstr "貝里斯"
+
+#: includes/core/class-builtin.php:1661
+msgid "Belgium"
+msgstr "比利時"
+
+#: includes/core/class-builtin.php:1660
+msgid "Belarus"
+msgstr "白羅斯"
+
+#: includes/core/class-builtin.php:1659
+msgid "Barbados"
+msgstr "巴貝多"
+
+#: includes/core/class-builtin.php:1658
+msgid "Bangladesh"
+msgstr "孟加拉"
+
+#: includes/core/class-builtin.php:1657
+msgid "Bahrain"
+msgstr "巴林"
+
+#: includes/core/class-builtin.php:1656
+msgid "Bahamas"
+msgstr "巴哈馬"
+
+#: includes/core/class-builtin.php:1655
+msgid "Azerbaijan"
+msgstr "亞塞拜然"
+
+#: includes/core/class-builtin.php:1654
+msgid "Austria"
+msgstr "奧地利"
+
+#: includes/core/class-builtin.php:1653
+msgid "Australia"
+msgstr "澳洲"
+
+#: includes/core/class-builtin.php:1652
+msgid "Aruba"
+msgstr "阿路巴"
+
+#: includes/core/class-builtin.php:1651
+msgid "Armenia"
+msgstr "亞美尼亞"
+
+#: includes/core/class-builtin.php:1650
+msgid "Argentina"
+msgstr "阿根廷"
+
+#: includes/core/class-builtin.php:1649
+msgid "Antigua and Barbuda"
+msgstr "安地卡及巴布達"
+
+#: includes/core/class-builtin.php:1648
+msgid "Antarctica"
+msgstr "南極洲"
+
+#: includes/core/class-builtin.php:1647
+msgid "Anguilla"
+msgstr "安圭拉"
+
+#: includes/core/class-builtin.php:1646
+msgid "Angola"
+msgstr "安哥拉"
+
+#: includes/core/class-builtin.php:1645
+msgid "Andorra"
+msgstr "安道爾"
+
+#: includes/core/class-builtin.php:1644
+msgid "American Samoa"
+msgstr "美屬薩摩亞"
+
+#: includes/core/class-builtin.php:1643
+msgid "Algeria"
+msgstr "阿爾及利亞"
+
+#: includes/core/class-builtin.php:1642
+msgid "Albania"
+msgstr "阿爾巴尼亞"
+
+#: includes/core/class-builtin.php:1641
+msgid "Åland Islands"
+msgstr "奧蘭群島"
+
+#: includes/core/class-builtin.php:1640
+msgid "Afghanistan"
+msgstr "阿富汗"
+
+#: includes/core/class-builtin.php:1634
+msgid "Zulu"
+msgstr "祖魯"
+
+#: includes/core/class-builtin.php:1625
+msgid "Vietnamese"
+msgstr "越南文"
+
+#: includes/core/class-builtin.php:1623
+msgid "Uzbek"
+msgstr "烏茲別克文"
+
+#: includes/core/class-builtin.php:1622
+msgid "Urdu"
+msgstr "烏都文"
+
+#: includes/core/class-builtin.php:1621
+msgid "Ukrainian"
+msgstr "烏克蘭文"
+
+#: includes/core/class-builtin.php:1620
+msgid "Uighur"
+msgstr "維吾爾文"
+
+#: includes/core/class-builtin.php:1619
+msgid "Tahitian"
+msgstr "大溪地文"
+
+#: includes/core/class-builtin.php:1617
+msgid "Tatar"
+msgstr "韃靼文"
+
+#: includes/core/class-builtin.php:1615
+msgid "Turkish"
+msgstr "土耳其文"
+
+#: includes/core/class-builtin.php:1614 includes/core/class-builtin.php:1862
+msgid "Tonga"
+msgstr "東加"
+
+#: includes/core/class-builtin.php:1612
+msgid "Tagalog"
+msgstr "塔加拉族文"
+
+#: includes/core/class-builtin.php:1609
+msgid "Thai"
+msgstr "泰文"
+
+#: includes/core/class-builtin.php:1608
+msgid "Tajik"
+msgstr "塔吉克文"
+
+#: includes/core/class-builtin.php:1607
+msgid "Telugu"
+msgstr "特拉古文"
+
+#: includes/core/class-builtin.php:1606
+msgid "Tamil"
+msgstr "坦米爾文"
+
+#: includes/core/class-builtin.php:1605
+msgid "Swahili"
+msgstr "斯瓦希里文"
+
+#: includes/core/class-builtin.php:1604
+msgid "Swedish"
+msgstr "瑞典文"
+
+#: includes/core/class-builtin.php:1603
+msgid "Sundanese"
+msgstr "巽丹文"
+
+#: includes/core/class-builtin.php:1600
+msgid "Serbian"
+msgstr "塞爾維亞文"
+
+#: includes/core/class-builtin.php:1599
+msgid "Albanian"
+msgstr "阿爾巴尼亞文"
+
+#: includes/core/class-builtin.php:1598
+msgid "Somali"
+msgstr "索馬利亞文"
+
+#: includes/core/class-builtin.php:1595
+msgid "Slovenian"
+msgstr "斯洛維尼亞文"
+
+#: includes/core/class-builtin.php:1594
+msgid "Slovak"
+msgstr "斯洛伐克文"
+
+#: includes/core/class-builtin.php:1593
+msgid "Sinhala"
+msgstr "僧伽羅文"
+
+#: includes/core/class-builtin.php:1590
+msgid "Sindhi"
+msgstr "信德文"
+
+#: includes/core/class-builtin.php:1588
+msgid "Sanskrit"
+msgstr "梵文"
+
+#: includes/core/class-builtin.php:1586
+msgid "Russian"
+msgstr "俄文"
+
+#: includes/core/class-builtin.php:1585
+msgid "Romanian"
+msgstr "羅馬尼亞文"
+
+#: includes/core/class-builtin.php:1580
+msgid "Pashto"
+msgstr "普什圖文"
+
+#: includes/core/class-builtin.php:1579
+msgid "Polish"
+msgstr "波蘭文"
+
+#: includes/core/class-builtin.php:1572
+msgid "Occitan"
+msgstr "奧西坦文"
+
+#: includes/core/class-builtin.php:1566
+msgid "Dutch"
+msgstr "荷蘭文"
+
+#: includes/core/class-builtin.php:1564
+msgid "Nepali"
+msgstr "尼泊爾文"
+
+#: includes/core/class-builtin.php:1561 includes/core/class-builtin.php:1792
+msgid "Nauru"
+msgstr "諾魯"
+
+#: includes/core/class-builtin.php:1560
+msgid "Burmese"
+msgstr "緬甸文"
+
+#: includes/core/class-builtin.php:1559
+msgid "Maltese"
+msgstr "馬爾他文"
+
+#: includes/core/class-builtin.php:1558
+msgid "Malay"
+msgstr "馬來文"
+
+#: includes/core/class-builtin.php:1557
+msgid "Marathi"
+msgstr "馬拉提文"
+
+#: includes/core/class-builtin.php:1556
+msgid "Mongolian"
+msgstr "蒙古文"
+
+#: includes/core/class-builtin.php:1555
+msgid "Malayalam"
+msgstr "馬來亞拉姆文"
+
+#: includes/core/class-builtin.php:1554
+msgid "Macedonian"
+msgstr "馬其頓文"
+
+#: includes/core/class-builtin.php:1551
+msgid "Malagasy"
+msgstr "馬達加斯加文"
+
+#: includes/core/class-builtin.php:1550
+msgid "Latvian"
+msgstr "拉脫維亞文"
+
+#: includes/core/class-builtin.php:1548
+msgid "Lithuanian"
+msgstr "立陶宛文"
+
+#: includes/core/class-builtin.php:1547
+msgid "Lao"
+msgstr "寮文"
+
+#: includes/core/class-builtin.php:1545
+msgid "Limburgish"
+msgstr "林堡文"
+
+#: includes/core/class-builtin.php:1535
+msgid "Korean"
+msgstr "韓文"
+
+#: includes/core/class-builtin.php:1534
+msgid "Kannada"
+msgstr "坎那達文"
+
+#: includes/core/class-builtin.php:1533
+msgid "Khmer"
+msgstr "高棉文"
+
+#: includes/core/class-builtin.php:1531
+msgid "Kazakh"
+msgstr "哈薩克文"
+
+#: includes/core/class-builtin.php:1530
+msgid "Kwanyama"
+msgstr "Kwanyama"
+
+#: includes/core/class-builtin.php:1527
+msgid "Georgian"
+msgstr "喬治亞文"
+
+#: includes/core/class-builtin.php:1526
+msgid "Javanese"
+msgstr "爪哇文"
+
+#: includes/core/class-builtin.php:1525
+msgid "Japanese"
+msgstr "日文"
+
+#: includes/core/class-builtin.php:1523
+msgid "Italian"
+msgstr "義大利文"
+
+#: includes/core/class-builtin.php:1522
+msgid "Icelandic"
+msgstr "冰島文"
+
+#: includes/core/class-builtin.php:1516
+msgid "Indonesian"
+msgstr "印尼文"
+
+#: includes/core/class-builtin.php:1513
+msgid "Armenian"
+msgstr "亞美尼亞文"
+
+#: includes/core/class-builtin.php:1512
+msgid "Hungarian"
+msgstr "匈牙利文"
+
+#: includes/core/class-builtin.php:1511
+msgid "Haitian"
+msgstr "海地克裏奧爾文"
+
+#: includes/core/class-builtin.php:1510
+msgid "Croatian"
+msgstr "克羅埃西亞文"
+
+#: includes/core/class-builtin.php:1508
+msgid "Hindi"
+msgstr "印度文"
+
+#: includes/core/class-builtin.php:1507
+msgid "Hebrew"
+msgstr "希伯來文"
+
+#: includes/core/class-builtin.php:1504
+msgid "Gujarati"
+msgstr "古吉拉特文"
+
+#: includes/core/class-builtin.php:1502
+msgid "Galician"
+msgstr "加里西亞文"
+
+#: includes/core/class-builtin.php:1501
+msgid "Scottish Gaelic"
+msgstr "蘇格蘭蓋爾文"
+
+#: includes/core/class-builtin.php:1500
+msgid "Irish"
+msgstr "愛爾蘭文"
+
+#: includes/core/class-builtin.php:1497
+msgid "Faroese"
+msgstr "法羅文"
+
+#: includes/core/class-builtin.php:1495
+msgid "Finnish"
+msgstr "芬蘭文"
+
+#: includes/core/class-builtin.php:1493
+msgid "Persian"
+msgstr "波斯文"
+
+#: includes/core/class-builtin.php:1492
+msgid "Basque"
+msgstr "巴斯克文"
+
+#: includes/core/class-builtin.php:1491
+msgid "Estonian"
+msgstr "愛沙尼亞文"
+
+#: includes/core/class-builtin.php:1489
+msgid "Esperanto"
+msgstr "世界文"
+
+#: includes/core/class-builtin.php:1487
+msgid "Greek"
+msgstr "希臘文"
+
+#: includes/core/class-builtin.php:1485
+msgid "Dzongkha"
+msgstr "宗卡文"
+
+#: includes/core/class-builtin.php:1483
+msgid "German"
+msgstr "德文"
+
+#: includes/core/class-builtin.php:1482
+msgid "Danish"
+msgstr "丹麥文"
+
+#: includes/core/class-builtin.php:1481
+msgid "Welsh"
+msgstr "威爾斯文"
+
+#: includes/core/class-builtin.php:1478
+msgid "Czech"
+msgstr "捷克文"
+
+#: includes/core/class-builtin.php:1476
+msgid "Corsican"
+msgstr "科西嘉文"
+
+#: includes/core/class-builtin.php:1473
+msgid "Catalan"
+msgstr "加泰羅尼亞文"
+
+#: includes/core/class-builtin.php:1472
+msgid "Bosnian"
+msgstr "波士尼亞文"
+
+#: includes/core/class-builtin.php:1470
+msgid "Tibetan"
+msgstr "藏文"
+
+#: includes/core/class-builtin.php:1465
+msgid "Bulgarian"
+msgstr "保加利亞文"
+
+#: includes/core/class-builtin.php:1464
+msgid "Belarusian"
+msgstr "白羅斯文"
+
+#: includes/core/class-builtin.php:1462
+msgid "Azerbaijani"
+msgstr "亞塞拜然文"
+
+#: includes/core/class-builtin.php:1459
+msgid "Assamese"
+msgstr "阿薩姆文"
+
+#: includes/core/class-builtin.php:1458
+msgid "Arabic"
+msgstr "阿拉伯文"
+
+#: includes/core/class-builtin.php:1457
+msgid "Aragonese"
+msgstr "亞拉岡文"
+
+#: includes/core/class-builtin.php:1456
+msgid "Amharic"
+msgstr "阿姆哈拉文"
+
+#: includes/core/class-builtin.php:1454
+msgid "Afrikaans"
+msgstr "南非荷蘭文"
+
+#: includes/core/class-builtin.php:1452
+msgid "Abkhazian"
+msgstr "阿布哈茲"
+
+#: includes/core/class-builtin.php:1412
+msgid "Custom Validation"
+msgstr "自定義驗證"
+
+#: includes/core/class-builtin.php:1411
+msgid "YouTube Profile"
+msgstr "YouTube個人資料"
+
+#: includes/core/class-builtin.php:777 includes/core/class-builtin.php:780
+#: includes/core/class-builtin.php:1410
+msgid "Website URL"
+msgstr "個人網站網址"
+
+#: includes/core/class-builtin.php:1409
+msgid "Unique Username/E-mail"
+msgstr "唯一的會員名 / 電子郵件"
+
+#: includes/core/class-builtin.php:1408
+msgid "Unique Username"
+msgstr "唯一的會員名"
+
+#: includes/core/class-builtin.php:1407
+msgid "Unique Metakey value"
+msgstr "唯一的MetaKey值"
+
+#: includes/core/class-builtin.php:1406
+msgid "Unique E-mail"
+msgstr "唯一的電子郵件"
+
+#: includes/core/class-builtin.php:1404
+msgid "Twitter URL"
+msgstr "Twitter 網址"
+
+#: includes/core/class-builtin.php:1403
+msgid "SoundCloud Profile"
+msgstr "SoundCloud 個人資料"
+
+#: includes/core/class-builtin.php:1400
+msgid "Numeric value only"
+msgstr "僅限數值"
+
+#: includes/core/class-builtin.php:1399
+msgid "Lowercase only"
+msgstr "僅限小寫英文"
+
+#: includes/core/class-builtin.php:1398
+msgid "VKontakte URL"
+msgstr "VKontakte 網址"
+
+#: includes/core/class-builtin.php:1397
+msgid "LinkedIn URL"
+msgstr "LinkedIn 網址"
+
+#: includes/core/class-builtin.php:1396
+msgid "Instagram URL"
+msgstr "Instagram 網址"
+
+#: includes/core/class-builtin.php:1395
+msgid "Google+ URL"
+msgstr "Google+ 網址"
+
+#: includes/core/class-builtin.php:1394
+msgid "Facebook URL"
+msgstr "Facebook 網址"
+
+#: includes/core/class-builtin.php:1393
+msgid "English letters only"
+msgstr "僅限英文字"
+
+#: includes/core/class-builtin.php:1392
+msgid "Alpha-numeric value"
+msgstr "字母數字值"
+
+#: includes/core/class-builtin.php:1391
+msgid "Alphabetic value only"
+msgstr "僅字母值"
+
+#: includes/core/class-builtin.php:1202
+msgid "If you confirm, everything related to your profile will be deleted permanently from the site"
+msgstr "如果您確認，與您的個人資料相關的所有內容都將從網站上永久刪除"
+
+#: includes/core/class-builtin.php:1184
+msgid "Here you can hide yourself from appearing in public directory"
+msgstr "在這裡可以控制自己的個人資料是否在會員列表中隱藏"
+
+#: includes/core/class-builtin.php:1180 includes/core/class-builtin.php:1183
+msgid "Hide my profile from directory"
+msgstr "從會員列表隱藏我的個人資料"
+
+#: includes/core/class-builtin.php:1149
+msgid "Who can see your public profile?"
+msgstr "誰可以看到你公開的個人資料?"
+
+#: includes/core/class-builtin.php:1145 includes/core/class-builtin.php:1148
+msgid "Profile Privacy"
+msgstr "個人資料隱私設定"
+
+#: includes/core/class-builtin.php:1135
+msgid "Enter your username or email"
+msgstr "輸入您的會員名或電子郵件"
+
+#: templates/password-reset.php:58
+msgid "To reset your password, please enter your email address or username below"
+msgstr "要重置您的密碼，請在下面輸入您的電子郵件地址或會員名"
+
+#: includes/class-config.php:137 includes/class-config.php:800
+#: includes/admin/assets/js/um-admin-blocks-shortcode.js:262
+#: includes/admin/assets/js/um-admin-blocks-shortcode.js:283
+msgid "Password Reset"
+msgstr "重置密碼"
+
+#: includes/core/class-builtin.php:1121
+msgid "Upload profile cover here"
+msgstr "上傳個人資料封面"
+
+#: includes/core/class-builtin.php:1117
+msgid "Cover Photo"
+msgstr "封面圖片"
+
+#: includes/core/class-builtin.php:1107
+msgid "Upload your photo here"
+msgstr "上傳你的照片"
+
+#: includes/core/class-builtin.php:1106
+msgid "Change your profile photo"
+msgstr "更改您的個人資料照片"
+
+#: includes/core/class-builtin.php:1103
+msgid "Profile Photo"
+msgstr "個人資料照片"
+
+#: includes/core/class-builtin.php:1089 includes/core/class-builtin.php:1092
+#: includes/core/class-member-directory.php:328
+msgid "Mobile Number"
+msgstr "手機號碼"
+
+#: includes/core/class-builtin.php:1077 includes/core/class-builtin.php:1080
+#: includes/core/class-builtin.php:1401
+#: includes/core/class-member-directory.php:327
+msgid "Phone Number"
+msgstr "電話號碼"
+
+#: includes/core/class-builtin.php:1069
+msgid "Select languages"
+msgstr "選擇語言"
+
+#: includes/core/class-builtin.php:1068
+msgid "Languages Spoken"
+msgstr "使用的語言"
+
+#: includes/core/class-builtin.php:1065
+#: includes/core/class-member-directory.php:317
+msgid "Languages"
+msgstr "語言"
+
+#: includes/core/class-builtin.php:1054
+msgid "Roles (Radio)"
+msgstr "角色 (Radio)"
+
+#: includes/core/class-builtin.php:1045 includes/core/class-builtin.php:1057
+msgid "Account Type"
+msgstr "帳號類型"
+
+#: includes/core/class-builtin.php:1042
+msgid "Roles (Dropdown)"
+msgstr "角色 (下拉)"
+
+#: includes/core/class-builtin.php:1024 includes/core/class-builtin.php:1027
+msgid "VKontakte"
+msgstr "VKontakte"
+
+#: includes/core/class-builtin.php:1006 includes/core/class-builtin.php:1009
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: includes/core/class-builtin.php:988 includes/core/class-builtin.php:991
+msgid "YouTube"
+msgstr "Youtube"
+
+#: includes/core/class-builtin.php:973 includes/core/class-builtin.php:976
+#: includes/core/class-builtin.php:1402
+msgid "Skype ID"
+msgstr "Skype ID"
+
+#: includes/core/class-builtin.php:955 includes/core/class-builtin.php:958
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/core/class-builtin.php:937 includes/core/class-builtin.php:940
+msgid "Google+"
+msgstr "Google+"
+
+#: includes/core/class-builtin.php:919 includes/core/class-builtin.php:922
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: includes/core/class-builtin.php:901 includes/core/class-builtin.php:904
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/core/class-builtin.php:883 includes/core/class-builtin.php:886
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/core/class-builtin.php:875
+msgid "Choose a Country"
+msgstr "選擇一個國家"
+
+#: includes/core/class-builtin.php:871 includes/core/class-builtin.php:874
+#: includes/core/class-member-directory.php:315
+msgid "Country"
+msgstr "國家"
+
+#: includes/core/class-builtin.php:867
+msgid "Female"
+msgstr "女"
+
+#: includes/core/class-builtin.php:867
+msgid "Male"
+msgstr "男"
+
+#: includes/core/class-builtin.php:860 includes/core/class-builtin.php:863
+#: includes/core/class-member-directory.php:316
+msgid "Gender"
+msgstr "性別"
+
+#: includes/core/class-builtin.php:846 includes/core/class-builtin.php:849
+msgid "Birth Date"
+msgstr "生日"
+
+#: includes/core/class-builtin.php:833 includes/core/class-builtin.php:836
+#: includes/core/class-member-directory.php:326
+msgid "Biography"
+msgstr "個人簡介"
+
+#: includes/core/class-builtin.php:821 includes/core/class-builtin.php:824
+#: includes/core/class-member-directory.php:325
+msgid "Secondary E-mail Address"
+msgstr "第二個郵箱地址"
+
+#: includes/core/class-builtin.php:810 includes/core/class-builtin.php:813
+msgid "E-mail Address"
+msgstr "電子郵件地址"
+
+#: includes/core/class-builtin.php:799 includes/core/class-builtin.php:802
+#: includes/core/class-member-directory.php:320
+msgid "Last Login"
+msgstr "上次登入"
+
+#: includes/core/class-builtin.php:788 includes/core/class-builtin.php:791
+msgid "Registration Date"
+msgstr "註冊日期"
+
+#: includes/admin/core/class-admin-settings.php:974
+#: includes/core/class-builtin.php:767 includes/core/class-builtin.php:770
+#: includes/core/class-member-directory.php:295
+#: includes/core/class-member-directory.php:324
+msgid "Nickname"
+msgstr "暱稱"
+
+#: includes/core/class-builtin.php:721 includes/core/class-builtin.php:724
+#: includes/core/class-builtin.php:1132
+msgid "Username or E-mail"
+msgstr "會員名或電子郵件"
+
+#: includes/core/class-builtin.php:697 includes/core/class-user.php:1785
+msgid "Only me"
+msgstr "只限自己"
+
+#: includes/admin/core/class-admin-metabox.php:401
+#: includes/admin/core/class-admin-metabox.php:552
+#: includes/admin/core/class-admin-metabox.php:2294
+#: includes/admin/core/class-admin-navmenu.php:81
+#: includes/admin/core/class-admin-navmenu.php:242
+#: includes/admin/templates/access/restrict_content.php:65
+#: includes/core/class-builtin.php:696
+#: includes/admin/assets/js/um-admin-blocks.js:100
+msgid "Everyone"
+msgstr "所有人"
+
+#: includes/core/class-builtin.php:516
+msgid "You must add a shortcode to the content area"
+msgstr "您必須將短碼新增到內容區域"
+
+#: includes/core/class-builtin.php:447
+msgid "Number of years is not valid"
+msgstr "年數是無效的"
+
+#: includes/core/class-builtin.php:407 includes/core/class-builtin.php:427
+msgid "Please enter a valid size"
+msgstr "請輸入一個有效的大小"
+
+#: includes/core/class-builtin.php:295 includes/core/class-builtin.php:315
+#: includes/core/class-builtin.php:335 includes/core/class-builtin.php:355
+msgid "You have not added any choices yet."
+msgstr "你還沒有新增任何選擇。"
+
+#: includes/core/class-builtin.php:249
+msgid "Number"
+msgstr "數字"
+
+#: includes/core/class-builtin.php:240 includes/core/class-builtin.php:256
+#: includes/core/class-builtin.php:272 includes/core/class-builtin.php:288
+#: includes/core/class-builtin.php:308 includes/core/class-builtin.php:328
+#: includes/core/class-builtin.php:348 includes/core/class-builtin.php:368
+#: includes/core/class-builtin.php:384 includes/core/class-builtin.php:400
+#: includes/core/class-builtin.php:420 includes/core/class-builtin.php:440
+#: includes/core/class-builtin.php:466 includes/core/class-builtin.php:482
+#: includes/core/class-builtin.php:499 includes/core/class-builtin.php:512
+#: includes/core/class-builtin.php:529 includes/core/class-builtin.php:542
+#: includes/core/class-builtin.php:555 includes/core/class-builtin.php:571
+#: includes/core/class-builtin.php:587 includes/core/class-builtin.php:603
+msgid "You must provide a title"
+msgstr "你必須提供一個標題"
+
+#: includes/core/class-builtin.php:197
+msgid "The end of date range must be greater than the start of date range"
+msgstr "日期範圍的結束時間必須大於日期範圍的開始時間"
+
+#: includes/core/class-builtin.php:194
+msgid "Please enter a valid end date in the date range"
+msgstr "請在日期範圍內輸入有效的結束日期"
+
+#: includes/core/class-builtin.php:191
+msgid "Please provide a date range end"
+msgstr "請設定日期範圍的結束日期"
+
+#: includes/core/class-builtin.php:174
+msgid "Please enter a valid start date in the date range"
+msgstr "請在日期範圍內輸入有效的開始日期"
+
+#: includes/core/class-builtin.php:171
+msgid "Please provide a date range beginning"
+msgstr "請設定日期範圍的開始日期"
+
+#: includes/core/class-builtin.php:155
+msgid "Your meta key contains illegal characters. Please correct it."
+msgstr "您的meta key包含非法字符。 請更正它。"
+
+#: includes/core/class-builtin.php:152
+msgid "Your meta key already exists in your fields list"
+msgstr "您的meta key已經存在於您的欄位列表中"
+
+#: includes/core/class-builtin.php:149
+msgid "Your meta key is a predefined reserved key and cannot be used"
+msgstr "您的meta key是一個預定義的保留鍵，不能使用"
+
+#: includes/core/class-builtin.php:146
+msgid "Your meta key is a reserved core field and cannot be used"
+msgstr "您的meta key是一個保留的核心欄位，不能使用"
+
+#: includes/core/rest/class-api.php:434
+msgid "Invalid query!"
+msgstr "無效的查詢！"
+
+#: includes/core/rest/class-api-v1.php:341
+#: includes/core/rest/class-api-v2.php:341
+msgid "User has been successfully deleted."
+msgstr "會員已成功刪除。"
+
+#: includes/core/rest/class-api-v1.php:334
+#: includes/core/rest/class-api-v1.php:371
+#: includes/core/rest/class-api-v2.php:334
+#: includes/core/rest/class-api-v2.php:371
+msgid "Invalid user specified"
+msgstr "指定的會員無效"
+
+#: includes/core/rest/class-api-v1.php:303
+#: includes/core/rest/class-api-v2.php:303
+msgid "User meta has been changed."
+msgstr "會員 meta 已更改。"
+
+#: includes/core/rest/class-api-v1.php:299
+#: includes/core/rest/class-api-v2.php:299
+msgid "User role has been changed."
+msgstr "會員角色已更改。"
+
+#: includes/core/rest/class-api-v1.php:270
+#: includes/core/rest/class-api-v2.php:270
+msgid "User status has been changed."
+msgstr "會員狀態已更改。"
+
+#: includes/core/rest/class-api-v1.php:261
+#: includes/core/rest/class-api-v2.php:261
+msgid "You need to provide data to update"
+msgstr "你需要提供資料來更新"
+
+#: includes/core/rest/class-api-v1.php:256
+#: includes/core/rest/class-api-v1.php:328
+#: includes/core/rest/class-api-v1.php:365
+#: includes/core/rest/class-api-v2.php:256
+#: includes/core/rest/class-api-v2.php:328
+#: includes/core/rest/class-api-v2.php:365
+msgid "You must provide a user ID"
+msgstr "您必須提供一個使用者ID"
+
+#: includes/core/rest/class-api.php:277
+msgid "Invalid API key"
+msgstr "API密鑰 無效"
+
+#: includes/core/rest/class-api.php:265
+msgid "Your request could not be authenticated"
+msgstr "您的請求無法通過身份驗證"
+
+#: includes/core/rest/class-api.php:253
+msgid "You must specify both a token and API key!"
+msgstr "您必須同時指定 Token 和 API密鑰！"
+
+#: includes/core/um-actions-user.php:14
+msgid "Your account"
+msgstr "你的帳號"
+
+#: includes/class-config.php:135 includes/class-config.php:798
+#: includes/core/class-member-directory.php:2207
+#: includes/core/um-actions-profile.php:1399
+#: includes/core/um-actions-user.php:19
+msgid "Logout"
+msgstr "登出"
+
+#: includes/core/class-member-directory.php:2202
+#: includes/core/um-actions-profile.php:1398
+msgid "My Account"
+msgstr "帳號管理"
+
+#: includes/core/class-member-directory.php:2152
+#: includes/core/class-member-directory.php:2196
+#: includes/core/um-actions-profile.php:1366
+#: includes/core/um-actions-profile.php:1397
+msgid "Edit Profile"
+msgstr "編輯個人資料"
+
+#: includes/core/um-actions-profile.php:1227
+msgid "This user account status is %s"
+msgstr "此會員的帳號狀態是 %s"
+
+#: includes/core/um-actions-profile.php:1212
+msgid "Tell us a bit about yourself..."
+msgstr "告訴我們一些關於你自己的事情..."
+
+#: includes/core/um-actions-profile.php:1049
+msgid "Remove photo"
+msgstr "移除照片"
+
+#: includes/core/class-fields.php:2683 includes/core/class-fields.php:2707
+#: includes/core/um-actions-profile.php:1048
+msgid "Change photo"
+msgstr "更改照片"
+
+#: includes/core/um-actions-profile.php:1016
+msgid "Upload photo"
+msgstr "上傳照片"
+
+#: includes/core/um-actions-profile.php:812
+#: includes/core/um-actions-profile.php:828
+#: includes/core/um-actions-profile.php:899
+msgid "Upload a cover photo"
+msgstr "上傳封面圖片"
+
+#: includes/core/um-actions-profile.php:812
+msgid "Change cover photo"
+msgstr "更改封面圖片"
+
+#: includes/core/class-builtin.php:1120
+#: includes/core/um-actions-profile.php:777
+msgid "Change your cover photo"
+msgstr "更改你的封面圖片"
+
+#: includes/core/um-actions-profile.php:204
+msgid "You are not allowed to edit this user."
+msgstr "你不能編輯這個會員。"
+
+#: templates/password-change.php:47
+msgid "Change my password"
+msgstr "修改我的密碼"
+
+#: templates/password-reset.php:96
+msgid "Reset my password"
+msgstr "重置我的密碼"
+
+#: includes/core/class-password.php:560
+msgid "You must confirm your new password"
+msgstr "您必須確認您的新密碼"
+
+#: includes/core/class-password.php:534
+msgid "You must enter a new password"
+msgstr "您必須輸入一個新的密碼"
+
+#: includes/core/class-password.php:479
+msgid "You have reached the limit for requesting password change for this user already. Contact support if you cannot open the email"
+msgstr "您已達到為該會員請求更改密碼的限制。 如果您無法打開電子郵件，請聯繫客服人員"
+
+#: includes/core/class-password.php:461
+msgid "We can't find an account registered with that address or username"
+msgstr "我們無法找到使用該地址或會員名登入的帳號"
+
+#: includes/core/class-password.php:457
+msgid "Please provide your username or email"
+msgstr "請提供您的會員名或電子郵件"
+
+#: includes/core/class-form.php:386 includes/core/class-password.php:445
+#: includes/core/class-password.php:525
+msgid "Hello, spam bot!"
+msgstr "垃圾郵件機器人！"
+
+#: includes/core/um-actions-misc.php:186 includes/core/um-filters-login.php:108
+msgid "Your membership request has been rejected."
+msgstr "您的會員資格請求已被拒絕。"
+
+#: includes/core/um-actions-misc.php:182 includes/core/um-filters-login.php:105
+msgid "Your account is awaiting e-mail verification."
+msgstr "您的帳號正在等待電子郵件驗證。"
+
+#: includes/core/um-actions-misc.php:178 includes/core/um-filters-login.php:102
+msgid "Your account has not been approved yet."
+msgstr "您的帳號尚未獲得批准。"
+
+#: includes/core/um-actions-misc.php:174 includes/core/um-filters-login.php:99
+msgid "Your account has been disabled."
+msgstr "您的帳號已禁用。"
+
+#: includes/core/um-actions-misc.php:170 includes/core/um-filters-login.php:47
+msgid "Your IP address has been blocked."
+msgstr "您的IP地址已被封鎖。"
+
+#: includes/core/um-actions-misc.php:166
+msgid "We do not accept registrations from that domain."
+msgstr "我們不接受該域名的註冊。"
+
+#: includes/core/um-actions-misc.php:162 includes/core/um-filters-login.php:44
+msgid "This email address has been blocked."
+msgstr "此電子郵件地址已被封鎖。"
+
+#: includes/core/um-actions-misc.php:153
+msgid "An error has been encountered"
+msgstr "遇到錯誤"
+
+#: includes/core/um-actions-misc.php:119
+msgid "Your account is now active! You can login."
+msgstr "您的帳號現在處於啟用狀態! 你可以登入。"
+
+#: includes/core/um-actions-misc.php:115
+msgid "You have successfully changed your password."
+msgstr "您已成功更改了密碼。"
+
+#: includes/core/um-actions-misc.php:111
+msgid "Your account was updated successfully."
+msgstr "您的帳號已成功更新。"
+
+#: includes/core/um-actions-misc.php:158
+msgid "Registration is currently disabled"
+msgstr "註冊功能目前未開放"
+
+#: templates/members-pagination.php:7
+msgid "Jump to page:"
+msgstr "跳轉到頁面："
+
+#: templates/members.php:229 templates/members.php:231
+msgid "Search"
+msgstr "搜尋"
+
+#: includes/core/um-actions-login.php:461
+msgid "Forgot your password?"
+msgstr "忘記密碼？"
+
+#: includes/core/um-actions-login.php:417
+msgid "Keep me signed in"
+msgstr "保持登入狀態"
+
+#: includes/core/um-actions-login.php:189
+msgid "This action has been prevented for security measures."
+msgstr "安全措施已經阻止了這一行動。"
+
+#: includes/core/um-actions-login.php:59
+msgid "Password is incorrect. Please try again."
+msgstr "密碼不正確。 請再試一次。"
+
+#: includes/core/um-actions-login.php:52
+msgid "Please enter your password"
+msgstr "請輸入您的密碼"
+
+#: includes/core/um-actions-login.php:26
+msgid "Please enter your email"
+msgstr "請輸入您的電子郵件"
+
+#: includes/core/um-actions-login.php:22
+msgid "Please enter your username"
+msgstr "請輸入您的會員名"
+
+#: includes/core/um-actions-login.php:18
+msgid "Please enter your username or email"
+msgstr "請輸入您的會員名或電子郵件"
+
+#: includes/core/um-actions-global.php:28
+msgid "Only fill in if you are not human"
+msgstr "只有在你不是人的時候才填寫"
+
+#: includes/core/um-actions-form.php:899
+msgid "Your user description must contain less than %s characters"
+msgstr "您的會員描述必須少於%s個字"
+
+#: includes/core/um-actions-form.php:881
+msgid "You must provide lowercase letters."
+msgstr "您必須提供小寫字母。"
+
+#: includes/core/um-actions-form.php:869
+msgid "You must provide alphabetic letters"
+msgstr "您必須提供字母"
+
+#: includes/core/um-actions-form.php:859
+msgid "You must provide a unique value"
+msgstr "您必須提供一個唯一值"
+
+#: includes/core/um-actions-form.php:810
+msgid "Your email contains invalid characters"
+msgstr "您的電子郵件包含無效字符"
+
+#: includes/core/um-actions-form.php:808 includes/core/um-actions-form.php:816
+#: includes/core/um-actions-form.php:840
+msgid "This is not a valid email"
+msgstr "這不是一個有效的電子郵件"
+
+#: includes/core/um-actions-form.php:802
+msgid "You must provide your email"
+msgstr "您必須提供您的電子郵件"
+
+#: includes/core/um-actions-form.php:782 includes/core/um-actions-form.php:804
+#: includes/core/um-actions-form.php:806 includes/core/um-actions-form.php:818
+#: includes/core/um-actions-form.php:825
+msgid "This email is already linked to an existing account"
+msgstr "此電子郵件已經有其他帳號使用"
+
+#: includes/core/um-actions-form.php:770 includes/core/um-actions-form.php:784
+msgid "Your username contains invalid characters"
+msgstr "您的會員名包含無效字符"
+
+#: includes/core/um-actions-form.php:768
+msgid "Username cannot be an email"
+msgstr "會員名不能是電子郵件"
+
+#: includes/core/um-actions-form.php:766 includes/core/um-actions-form.php:780
+msgid "Your username is already taken"
+msgstr "您輸入的會員名已使用"
+
+#: includes/core/um-actions-form.php:764 includes/core/um-actions-form.php:778
+msgid "You must provide a username"
+msgstr "您必須提供一個會員名"
+
+#: includes/core/um-actions-form.php:757
+msgid "Please enter a valid URL"
+msgstr "請輸入有效網址"
+
+#: includes/core/um-actions-form.php:708 includes/core/um-actions-form.php:714
+#: includes/core/um-actions-form.php:720 includes/core/um-actions-form.php:726
+#: includes/core/um-actions-form.php:739 includes/core/um-actions-form.php:745
+#: includes/core/um-actions-form.php:751
+msgid "Please enter a valid %s username or profile URL"
+msgstr "請輸入有效的%s會員名或個人資料網址"
+
+#: includes/core/um-actions-form.php:702
+msgid "Please enter a valid phone number"
+msgstr "請輸入一個有效的電話號碼"
+
+#: includes/core/um-actions-form.php:696
+msgid "Please enter numbers only in this field"
+msgstr "請僅在該欄位中輸入數字"
+
+#: includes/core/um-actions-form.php:660
+msgid "Maximum number limit is %s"
+msgstr "最大數量限制是%s"
+
+#: includes/core/um-actions-form.php:654
+msgid "Minimum number limit is %s"
+msgstr "最小數量限制是%s"
+
+#: includes/core/um-actions-form.php:648
+msgid "You can only select up to %s choices"
+msgstr "您只能選擇 %s 選項"
+
+#: includes/core/um-actions-form.php:642
+msgid "Please select at least %s choices"
+msgstr "請至少選擇 %s 選項"
+
+#: includes/core/class-password.php:564 includes/core/um-actions-form.php:636
+msgid "Your passwords do not match"
+msgstr "您的密碼不匹配"
+
+#: includes/core/um-actions-form.php:633
+msgid "Please confirm your password"
+msgstr "請確認您的密碼"
+
+#: includes/core/um-actions-form.php:620
+msgid "You can not use HTML tags here"
+msgstr "你不能在這裡使用HTML標籤"
+
+#: includes/core/um-actions-form.php:612
+msgid "Your %s must contain less than %s characters"
+msgstr "您的 %s 必須少於 %s 個字"
+
+#: includes/core/um-actions-form.php:602
+msgid "Your %s must contain at least %s characters"
+msgstr "您的 %s 必須至少 %s 個字"
+
+#: includes/core/um-actions-form.php:593
+msgid "You are only allowed to enter a maximum of %s words"
+msgstr "您只能輸入最多%s的單詞"
+
+#: includes/core/um-actions-form.php:584
+msgid "%s is required"
+msgstr "%s 是必填的"
+
+#: includes/core/um-actions-form.php:552
+msgid "Please specify account type."
+msgstr "請指定帳號類型。"
+
+#: includes/core/um-actions-form.php:539 includes/core/um-actions-form.php:543
+#: includes/core/um-actions-form.php:547
+msgid "%s is required."
+msgstr "%s 是必填的。"
+
+#: includes/core/um-actions-form.php:94
+msgid "You are not allowed to use this word as your username."
+msgstr "您不能使用這個字詞作為你的會員名。"
+
+#: includes/core/um-actions-core.php:146
+msgid "You do not have permission to delete this user."
+msgstr "您沒有權限可刪除此會員。"
+
+#: includes/core/um-actions-core.php:34
+msgid "Super administrators can not be modified."
+msgstr "超級管理員不能修改。"
+
+#: includes/core/class-files.php:324
+msgid "Invalid coordinates"
+msgstr "無效的座標"
+
+#: includes/core/class-files.php:319
+msgid "Invalid parameters"
+msgstr "無效的參數"
+
+#: includes/core/class-form.php:74 includes/core/class-profile.php:68
+#: includes/core/class-profile.php:88
+msgid "You can not edit this user"
+msgstr "您無法編輯此用戶"
+
+#: includes/core/class-account.php:116
+msgid "Update Notifications"
+msgstr "更新通知"
+
+#: includes/core/class-account.php:104
+msgid "Update Password"
+msgstr "更新密碼"
+
+#: includes/core/class-account.php:98
+msgid "Update Account"
+msgstr "更新帳號"
+
+#: includes/core/class-account.php:110
+msgid "Update Privacy"
+msgstr "更新隱私設定"
+
+#: includes/core/um-actions-account.php:29
+#: includes/core/um-actions-account.php:154
+msgid "You must enter your password"
+msgstr "您必須輸入您的密碼"
+
+#: includes/core/um-actions-account.php:124
+msgid "Your username is invalid"
+msgstr "您的會員名無效"
+
+#: includes/core/class-password.php:555 includes/core/um-actions-account.php:94
+#: includes/core/um-actions-form.php:627
+msgid "Your password must contain at least one lowercase letter, one capital letter and one number"
+msgstr "您的密碼必須至少包含一個小寫字母，一個大寫字母和一個數字"
+
+#: includes/core/class-password.php:551 includes/core/um-actions-account.php:90
+msgid "Your password must contain less than 30 characters"
+msgstr "您的密碼必須在30個字以內"
+
+#: includes/core/class-password.php:547 includes/core/um-actions-account.php:86
+msgid "Your password must contain at least 8 characters"
+msgstr "您的密碼必須至少8個字以上"
+
+#: includes/core/um-actions-account.php:80
+msgid "Your new password does not match"
+msgstr "您的新密碼不符"
+
+#: includes/core/um-actions-account.php:32
+#: includes/core/um-actions-account.php:69
+#: includes/core/um-actions-account.php:73
+#: includes/core/um-actions-account.php:157
+msgid "This is not your password"
+msgstr "這不是你的密碼"
+
+#: includes/core/um-actions-account.php:147
+msgid "Email already linked to another account"
+msgstr "此電子郵件已經有其他帳號使用"
+
+#: includes/core/um-actions-account.php:143
+msgid "Please provide a valid e-mail"
+msgstr "請提供有效的電子郵件"
+
+#: includes/core/um-actions-account.php:139
+msgid "You must provide your e-mail"
+msgstr "您必須提供您的電子郵件"
+
+#: includes/core/um-actions-account.php:133
+msgid "You must provide your last name"
+msgstr "你必須提供你的姓氏"
+
+#: includes/core/um-actions-account.php:129
+msgid "You must provide your first name"
+msgstr "你必須提供你的名字"
+
+#: includes/core/class-account.php:124 includes/core/class-account.php:125
+#: includes/core/class-builtin.php:1198 includes/core/class-builtin.php:1201
+msgid "Delete Account"
+msgstr "刪除帳號"
+
+#: includes/admin/core/class-admin-enqueue.php:500
+#: includes/core/class-account.php:115
+msgid "Notifications"
+msgstr "電子郵件通知"
+
+#: includes/admin/core/class-admin-enqueue.php:496
+#: includes/admin/core/class-admin-metabox.php:2304
+#: includes/core/class-account.php:109
+msgid "Privacy"
+msgstr "隱私設定"
+
+#: includes/core/class-account.php:103
+msgid "Change Password"
+msgstr "更改密碼"
+
+#: includes/admin/core/class-admin-settings.php:1062
+#: includes/class-config.php:136 includes/class-config.php:799
+#: includes/core/class-account.php:97
+#: includes/admin/assets/js/um-admin-blocks-shortcode.js:305
+#: includes/admin/assets/js/um-admin-blocks-shortcode.js:365
+msgid "Account"
+msgstr "帳號管理"
+
+#: includes/core/class-files.php:423 includes/core/class-files.php:509
+msgid "A theme or plugin compatibility issue"
+msgstr "主題或插件兼容性問題"
+
+#: includes/admin/templates/role/register.php:100
+msgid "Thank you for applying for membership to our site. We will review your details and send you an email letting you know whether your application has been successful or not."
+msgstr "感謝您申請加入我們的網站。 我們會審查您的詳細資料，並向您發送一封電子郵件，讓您知道您的申請是否成功。"
+
+#: includes/admin/templates/role/register.php:80
+msgid "If you want users to go to a specific page other than login page after e-mail activation, enter the URL here."
+msgstr "如果您希望會員在電子郵件啟用後轉到登入頁面以外的特定頁面，請在此處輸入URL。"
+
+#: includes/admin/templates/role/register.php:79
+msgid "URL redirect after e-mail activation"
+msgstr "電子郵件啟用後的URL轉址"
+
+#: includes/admin/templates/role/register.php:66
+msgid "Thank you for registering. Before you can login we need you to activate your account by clicking the activation link in the email we just sent you."
+msgstr "非常開心您成為我們的一份子。在您登入之前，需要請您檢查系統剛剛寄給您的電子郵件，並點擊信中的「驗證連結」來啟用您的 Kiwi LIFE 帳號。"
+
+#: includes/admin/templates/role/register.php:65
+#: includes/admin/templates/role/register.php:99
+msgid "Personalize the custom message"
+msgstr "個性化自定義訊息"
+
+#: includes/admin/templates/role/register.php:57
+#: includes/admin/templates/role/register.php:91
+#: includes/admin/assets/js/um-admin-blocks.js:160
+msgid "Show custom message"
+msgstr "顯示自定義訊息"
+
+#: includes/admin/templates/role/register.php:46
+msgid "Login the user after validating the activation link"
+msgstr "驗證啟用連結後登入會員"
+
+#: includes/admin/templates/role/register.php:45
+msgid "Login user after validating the activation link?"
+msgstr "驗證啟用連結後登入會員?"
+
+#: includes/admin/templates/role/register.php:27
+#: includes/admin/templates/role/register.php:54
+#: includes/admin/templates/role/register.php:88
+msgid "Select what action is taken after a person registers on your site. Depending on the status you can redirect them to their profile, a custom url or show a custom message"
+msgstr "選擇一個人在您的網站上註冊後採取的行動。 根據狀態，您可以將其轉址到他們的個人資料，自定義網址或顯示自定義訊息"
+
+#: includes/admin/templates/role/register.php:26
+#: includes/admin/templates/role/register.php:53
+#: includes/admin/templates/role/register.php:87
+msgid "Action to be taken after registration"
+msgstr "註冊後採取的行動"
+
+#: includes/admin/templates/role/register.php:20
+msgid "Require Admin Review"
+msgstr "需要管理員審查"
+
+#: includes/admin/templates/role/register.php:19
+msgid "Require Email Activation"
+msgstr "需要電子郵件驗證"
+
+#: includes/admin/templates/role/register.php:18
+msgid "Auto Approve"
+msgstr "自動批准"
+
+#: includes/admin/templates/role/register.php:15
+msgid "Select the status you would like this user role to have after they register on your site"
+msgstr "選擇您希望此會員角色在您的網站上註冊後的狀態"
+
+#: includes/admin/templates/role/register.php:14
+msgid "Registration Status"
+msgstr "註冊狀態"
+
+#: includes/admin/templates/role/profile.php:41
+msgid "Can this role view private profiles?"
+msgstr "該角色可以查看私人個人資料嗎？"
+
+#: includes/admin/templates/role/profile.php:40
+msgid "Can view/access private profiles?"
+msgstr "可以 查看/訪問 私人個人資料？"
+
+#: includes/admin/templates/role/profile.php:33
+msgid "Can this role make their profile private?"
+msgstr "這個角色可以設定他們的個人資料為不公開的？"
+
+#: includes/admin/templates/role/profile.php:32
+msgid "Can make their profile private?"
+msgstr "可以設定他們的個人資料為不公開？"
+
+#: includes/admin/templates/role/profile.php:22
+msgid "Which roles that role can view, choose none to allow role to view all member roles"
+msgstr "此角色可以查看哪些角色，選擇none以允許此角色查看所有會員角色"
+
+#: includes/admin/templates/role/profile.php:21
+msgid "Can view these user roles only"
+msgstr "只能查看這些會員角色"
+
+#: includes/admin/templates/role/profile.php:15
+msgid "Can this role view all member profiles?"
+msgstr "該角色是否可以查看所有會員個人資料？"
+
+#: includes/admin/templates/role/profile.php:14
+msgid "Can view other member profiles?"
+msgstr "可以查看其他會員個人資料嗎？"
+
+#: includes/admin/templates/role/logout.php:27
+msgid "Set a url to redirect this user role to after they logout from site"
+msgstr "設置一個url來轉址這個會員角色在從站點登出後"
+
+#: includes/admin/templates/role/logout.php:16
+msgid "Select what happens when a user with this role logouts of your site"
+msgstr "選擇具有此角色的會員登出您的網站時會發生什麼情況"
+
+#: includes/admin/templates/role/logout.php:15
+msgid "Action to be taken after logout"
+msgstr "登出後需要採取的措施"
+
+#: includes/admin/templates/role/login.php:29
+msgid "Set a url to redirect this user role to after they login with their account"
+msgstr "設置一個網址，以會員帳號登入後將該會員角色轉址到"
+
+#: includes/admin/templates/form/login_settings.php:23
+#: includes/admin/templates/role/login.php:22
+msgid "Redirect to WordPress Admin"
+msgstr "轉址到 WordPress 管理員"
+
+#: includes/admin/templates/form/login_settings.php:22
+#: includes/admin/templates/role/login.php:21
+msgid "Refresh active page"
+msgstr "重整此頁面"
+
+#: includes/admin/templates/form/login_settings.php:21
+#: includes/admin/templates/role/login.php:20
+#: includes/admin/templates/role/register.php:31
+#: includes/admin/templates/role/register.php:58
+#: includes/admin/templates/role/register.php:92
+msgid "Redirect to URL"
+msgstr "轉址到URL"
+
+#: includes/admin/templates/form/login_settings.php:20
+#: includes/admin/templates/role/login.php:19
+#: includes/admin/templates/role/register.php:30
+msgid "Redirect to profile"
+msgstr "轉址到個人資料"
+
+#: includes/admin/templates/role/login.php:16
+msgid "Select what happens when a user with this role logins to your site"
+msgstr "選擇具有此角色的會員登入到您的網站時發生的情況"
+
+#: includes/admin/templates/role/login.php:15
+msgid "Action to be taken after login"
+msgstr "登入後要採取的行動"
+
+#: includes/admin/templates/role/home.php:23
+msgid "Set a url to redirect this user role to if they try to view your site's homepage"
+msgstr "設定網址以將此會員角色轉址到他們嘗試查看您網站的首頁位置"
+
+#: includes/admin/templates/role/home.php:22
+msgid "Custom Homepage Redirect"
+msgstr "自定義首頁轉址"
+
+#: includes/admin/templates/role/home.php:16
+msgid "Allow this user role to view your site's homepage"
+msgstr "允許此會員角色查看網站的首頁"
+
+#: includes/admin/templates/role/home.php:15
+msgid "Can view default homepage?"
+msgstr "可以查看預設首頁?"
+
+#: includes/admin/templates/role/general.php:22
+msgid "Allow this role to delete their account and end their membership on your site"
+msgstr "允許此角色刪除其帳號，並在您的網站上結束其會員身份"
+
+#: includes/admin/templates/role/general.php:21
+msgid "Can delete their account?"
+msgstr "可以刪除自己的帳號?"
+
+#: includes/admin/templates/role/general.php:15
+msgid "Can this role edit his own profile?"
+msgstr "這個角色可以編輯自己的個人資料?"
+
+#: includes/admin/templates/role/general.php:14
+msgid "Can edit their profile?"
+msgstr "可以編輯自己的個人資料?"
+
+#: includes/admin/templates/role/delete.php:27
+msgid "Set a url to redirect this user role to after they delete account"
+msgstr "設置一個url來轉址這個會員角色在他們刪除帳號之後"
+
+#: includes/admin/templates/role/delete.php:20
+#: includes/admin/templates/role/logout.php:20
+msgid "Go to Custom URL"
+msgstr "轉到自定義網址"
+
+#: includes/admin/templates/role/delete.php:19
+#: includes/admin/templates/role/logout.php:19
+msgid "Go to Homepage"
+msgstr "回到首頁"
+
+#: includes/admin/templates/role/delete.php:16
+msgid "Select what happens when a user with this role deletes their own account"
+msgstr "選擇具有此角色的會員刪除自己的帳號時會發生什麼情況"
+
+#: includes/admin/templates/role/delete.php:15
+msgid "Action to be taken after account is deleted"
+msgstr "帳號被刪除後採取的行動"
+
+#: includes/admin/templates/role/admin-permissions.php:52
+msgid "Can delete these user roles only"
+msgstr "只能刪除這些會員角色"
+
+#: includes/admin/templates/role/admin-permissions.php:45
+msgid "Can delete other member accounts?"
+msgstr "可以刪除其他會員帳號嗎？"
+
+#: includes/admin/templates/role/admin-permissions.php:36
+#: includes/admin/templates/role/admin-permissions.php:53
+msgid "Which roles that role can edit, choose none to allow role to edit all member roles"
+msgstr "此角色可以編輯哪些角色，選擇none以允許此角色編輯所有會員角色"
+
+#: includes/admin/templates/role/admin-permissions.php:35
+msgid "Can edit these user roles only"
+msgstr "只能編輯這些會員角色"
+
+#: includes/admin/templates/role/admin-permissions.php:29
+#: includes/admin/templates/role/admin-permissions.php:46
+msgid "Allow this role to edit accounts of other members"
+msgstr "允許此角色編輯其他會員的帳號"
+
+#: includes/admin/templates/role/admin-permissions.php:28
+msgid "Can edit other member accounts?"
+msgstr "可以編輯其他會員帳號嗎？"
+
+#: includes/admin/templates/role/admin-permissions.php:21
+msgid "Force hiding adminbar in frontend?"
+msgstr "在前台強制隱藏工具列？"
+
+#: includes/admin/templates/role/admin-permissions.php:15
+msgid "The core admin role must always have access to wp-admin / WordPress backend"
+msgstr "核心管理員角色必須永遠能夠訪問 wp-admin / WordPress 後台"
+
+#: includes/admin/templates/role/admin-permissions.php:14
+msgid "Can access wp-admin?"
+msgstr "可以訪問 wp-admin？"
+
+#: includes/admin/templates/modal/forms/fonticons.php:7
+msgid "Choose from %s available icons"
+msgstr "從 %s 可用的圖示中選擇"
+
+#: includes/admin/templates/modal/forms/fields.php:7
+msgid "Fields Manager"
+msgstr "欄位管理"
+
+#: includes/admin/templates/modal/dynamic_registration_preview.php:7
+msgid "Review Registration Details"
+msgstr "查看註冊詳情"
+
+#: includes/admin/templates/modal/forms/dynamic_new_group.php:9
+msgid "Add a New Field Group"
+msgstr "新增一個新的欄位群組"
+
+#: includes/admin/templates/modal/forms/dynamic_new_field.php:9
+msgid "Add a New Field"
+msgstr "新增一個新欄位"
+
+#: includes/admin/templates/modal/forms/dynamic_new_divider.php:15
+#: includes/admin/templates/modal/forms/dynamic_new_field.php:15
+#: includes/admin/templates/modal/forms/dynamic_new_group.php:15
+msgid "Add"
+msgstr "新增"
+
+#: includes/admin/templates/modal/forms/dynamic_new_divider.php:9
+msgid "Add a New Divider"
+msgstr "新增一個新的分隔線"
+
+#: includes/admin/templates/modal/forms/dynamic_form_preview.php:13
+msgid "Continue editing"
+msgstr "繼續編輯"
+
+#: includes/admin/templates/modal/forms/dynamic_form_preview.php:7
+msgid "Live Form Preview"
+msgstr "即時表單預覽"
+
+#: includes/admin/templates/modal/forms/dynamic_edit_row.php:9
+msgid "Edit Row Settings"
+msgstr "編輯列設置"
+
+#: includes/admin/templates/modal/forms/dynamic_edit_field.php:18
+#: includes/admin/templates/modal/forms/dynamic_edit_row.php:18
+#: includes/admin/templates/modal/forms/dynamic_new_divider.php:18
+#: includes/admin/templates/modal/forms/dynamic_new_field.php:18
+#: includes/admin/templates/modal/forms/dynamic_new_group.php:18
+#: includes/admin/templates/modal/forms/fonticons.php:14
+#: includes/admin/templates/role/publish.php:30 includes/class-config.php:254
+#: includes/core/class-fields.php:2708 includes/core/class-fields.php:2807
+#: includes/core/um-actions-profile.php:817
+#: includes/core/um-actions-profile.php:829
+#: includes/core/um-actions-profile.php:1017
+#: includes/core/um-actions-profile.php:1050
+#: includes/core/um-actions-profile.php:1393
+#: includes/core/um-actions-profile.php:1400
+msgid "Cancel"
+msgstr "取消"
+
+#: includes/admin/templates/modal/forms/dynamic_edit_field.php:15
+#: includes/admin/templates/modal/forms/dynamic_edit_row.php:15
+msgid "Update"
+msgstr "更新"
+
+#: includes/admin/templates/modal/forms/dynamic_edit_field.php:9
+msgid "Edit Field"
+msgstr "編輯欄位"
+
+#: includes/admin/templates/form/login_customize.php:64
+#: includes/admin/templates/form/login_customize.php:83
+#: includes/admin/templates/form/profile_customize.php:97
+#: includes/admin/templates/form/profile_customize.php:116
+#: includes/admin/templates/form/register_customize.php:78
+#: includes/admin/templates/form/register_customize.php:97
+msgid "Customize the button text"
+msgstr "自定義按鈕文字"
+
+#: includes/admin/templates/form/login_customize.php:51
+#: includes/admin/templates/form/profile_customize.php:84
+#: includes/admin/templates/form/register_customize.php:65
+msgid "Whether to show field icons and where to show them relative to the field"
+msgstr "是否顯示欄位圖示以及相對於欄位的顯示位置"
+
+#: includes/admin/core/class-admin-settings.php:1539
+#: includes/admin/core/class-admin-settings.php:1629
+#: includes/admin/templates/form/profile_customize.php:144
+msgid "The shortcode is centered by default unless you specify otherwise here"
+msgstr "短碼預設置中，除非您在此指定"
+
+#: includes/admin/templates/form/register_customize.php:40
+msgid "Assign role to form"
+msgstr "分配角色到表單"
+
+#: includes/admin/templates/form/login_customize.php:24
+#: includes/admin/templates/form/profile_customize.php:39
+#: includes/admin/templates/form/register_customize.php:30
+msgid "Switch to yes if you want to customize this form settings, styling &amp; appearance"
+msgstr "如果要自訂此表單設定，請在「樣式 &amp; 外觀」處切換回是"
+
+#: includes/admin/templates/form/profile_settings.php:25
+msgid "Field(s) to show in user meta"
+msgstr "在user meta中顯示欄位"
+
+#: includes/admin/templates/form/profile_customize.php:212
+msgid "Show user description in profile header?"
+msgstr "在個人資料頁首中顯示會員描述?"
+
+#: includes/admin/templates/form/profile_customize.php:201
+msgid "Show social links in profile header?"
+msgstr "在個人資料頁首中顯示社群連結?"
+
+#: includes/admin/templates/form/profile_customize.php:190
+msgid "Show display name in profile header?"
+msgstr "在個人資料頁首中顯示名稱?"
+
+#: includes/admin/templates/form/profile_customize.php:178
+msgid "Make Profile Photo Required"
+msgstr "使個人資料照片為必填"
+
+#: includes/admin/core/class-admin-settings.php:1401
+#: includes/admin/templates/form/profile_customize.php:169
+msgid "Profile Photo Size"
+msgstr "頭像尺寸"
+
+#: includes/admin/templates/form/profile_customize.php:143
+msgid "Cover photo ratio"
+msgstr "封面圖片比例"
+
+#: includes/admin/templates/form/profile_customize.php:123
+msgid "Enable Cover Photos"
+msgstr "啟用封面圖片"
+
+#: includes/admin/templates/form/profile_customize.php:75
+msgid "Profile Area Max. Width (px)"
+msgstr "個人資料區最大寬度 (px)"
+
+#: includes/admin/templates/form/profile_customize.php:50
+msgid "Make this profile form role-specific"
+msgstr "讓特定角色使用此個人檔案"
+
+#: includes/admin/core/class-admin-settings.php:1606
+#: includes/admin/templates/form/mode.php:24
+msgid "Login Form"
+msgstr "登入表單"
+
+#: includes/admin/templates/form/mode.php:20
+msgid "Profile Form"
+msgstr "個人資料表單"
+
+#: includes/admin/core/class-admin-settings.php:1516
+#: includes/admin/templates/form/mode.php:16
+msgid "Registration Form"
+msgstr "註冊表單"
+
+#: includes/admin/templates/form/login_settings.php:29
+#: includes/admin/templates/role/delete.php:26
+#: includes/admin/templates/role/login.php:28
+#: includes/admin/templates/role/logout.php:26
+#: includes/admin/templates/role/register.php:38
+#: includes/admin/templates/role/register.php:72
+#: includes/admin/templates/role/register.php:106
+msgid "Set Custom Redirect URL"
+msgstr "設置自定義轉址網址"
+
+#: includes/admin/templates/form/login_settings.php:15
+msgid "Redirection after Login"
+msgstr "登入後轉址"
+
+#: includes/admin/templates/form/login_customize.php:101
+msgid "Show \"Remember Me\"?"
+msgstr "顯示\"記住我\"？"
+
+#: includes/admin/templates/form/login_customize.php:90
+msgid "Show Forgot Password Link?"
+msgstr "顯示忘記密碼連結？"
+
+#: includes/admin/templates/form/login_customize.php:82
+#: includes/admin/templates/form/profile_customize.php:115
+#: includes/admin/templates/form/register_customize.php:96
+msgid "Secondary Button Text"
+msgstr "次要按鈕文字"
+
+#: includes/admin/templates/form/login_customize.php:71
+#: includes/admin/templates/form/profile_customize.php:104
+#: includes/admin/templates/form/register_customize.php:85
+msgid "Show Secondary Button"
+msgstr "顯示次要按鈕"
+
+#: includes/admin/templates/form/login_customize.php:63
+#: includes/admin/templates/form/profile_customize.php:96
+#: includes/admin/templates/form/register_customize.php:77
+msgid "Primary Button Text"
+msgstr "主要按鈕文字"
+
+#: includes/admin/templates/form/login_customize.php:50
+#: includes/admin/templates/form/profile_customize.php:83
+#: includes/admin/templates/form/register_customize.php:64
+msgid "Field Icons"
+msgstr "欄位圖示"
+
+#: includes/admin/templates/form/login_customize.php:42
+#: includes/admin/templates/form/profile_customize.php:67
+#: includes/admin/templates/form/register_customize.php:56
+msgid "Max. Width (px)"
+msgstr "最大寬度 (px)"
+
+#: includes/admin/templates/form/builder.php:28
+msgid "Add Master Row"
+msgstr "新增主列"
+
+#: includes/admin/templates/form/builder.php:15
+msgid "Live Preview"
+msgstr "即時預覽"
+
+#: includes/class-config.php:183
+msgid "We are sorry. We cannot find any users who match your search criteria."
+msgstr "很抱歉，找不到符合您搜尋條件的會員。"
+
+#: includes/admin/templates/directory/pagination.php:65
+msgid "Custom text if no users were found"
+msgstr "自定義文字，如果沒有會員被發現"
+
+#: includes/class-config.php:182 includes/class-config.php:282
+msgid "{total_users} Member"
+msgstr "{total_users} 個會員"
+
+#: includes/admin/templates/directory/pagination.php:58
+msgid "Same as above but in case of 1 user found only"
+msgstr "同上，但只有一個會員找到的情況下"
+
+#: includes/admin/templates/directory/pagination.php:57
+msgid "Single Result Text"
+msgstr "單一結果文字"
+
+#: includes/class-config.php:181 includes/class-config.php:281
+msgid "{total_users} Members"
+msgstr "{total_users} 個會員"
+
+#: includes/admin/templates/directory/pagination.php:50
+msgid "Customize the search result text . e.g. Found 3,000 Members. Leave this blank to not show result text"
+msgstr "自定義搜尋結果文字。 例如 發現了3000個會員。 留空不顯示結果文字"
+
+#: includes/admin/templates/directory/pagination.php:49
+msgid "Results Text"
+msgstr "結果文字"
+
+#: includes/admin/templates/directory/search.php:34
+msgid "User Roles that can use search"
+msgstr "可以使用搜尋的會員角色"
+
+#: includes/admin/templates/directory/search.php:27
+msgid "Enable Search feature"
+msgstr "啟用搜尋功能"
+
+#: includes/admin/templates/directory/profile.php:55
+msgid "Show extra user information below tagline?"
+msgstr "在標語下顯示額外的會員信息？"
+
+#: includes/admin/templates/directory/profile.php:44
+msgid "Choose field(s) to display in tagline"
+msgstr "選擇要在標語中顯示的欄位"
+
+#: includes/admin/templates/directory/profile.php:38
+msgid "Show tagline below profile name"
+msgstr "在個人資料名稱下顯示標語"
+
+#: includes/admin/templates/directory/profile.php:32
+msgid "Show display name"
+msgstr "顯示名稱"
+
+#: includes/admin/templates/directory/profile.php:25
+msgid "Enable Cover Photo"
+msgstr "啟用封面圖片"
+
+#: includes/admin/templates/directory/profile.php:19
+msgid "Enable Profile Photo"
+msgstr "啟用個人資料照片"
+
+#: includes/admin/templates/directory/pagination.php:26
+msgid "Use this setting to control the maximum number of profiles to appear in this directory. Leave blank to disable this limit"
+msgstr "使用此設置可控制出現在此目錄中的個人資料的最大數量。 留空以禁用此限制"
+
+#: includes/admin/templates/directory/pagination.php:25
+msgid "Maximum number of profiles"
+msgstr "最大個人資料數"
+
+#: includes/admin/templates/directory/pagination.php:42
+msgid "Number of profiles to appear on page for mobile users"
+msgstr "對手機會員每頁顯示的個人資料數量"
+
+#: includes/admin/templates/directory/pagination.php:41
+msgid "Number of profiles per page (for Mobiles & Tablets)"
+msgstr "每個頁面的個人資料數量（手機和平板電腦）"
+
+#: includes/admin/templates/directory/pagination.php:34
+msgid "Number of profiles to appear on page for standard users"
+msgstr "對標準會員每頁顯示的個人資料數量"
+
+#: includes/admin/templates/directory/pagination.php:33
+msgid "Number of profiles per page"
+msgstr "每個頁面的個人資料數量"
+
+#: includes/admin/templates/directory/general.php:88
+msgid "Only show specific users (Enter one username per line)"
+msgstr "只顯示特定的會員（每行輸入一個會員名）"
+
+#: includes/admin/core/class-admin-forms.php:1541
+#: includes/admin/core/class-admin-forms.php:1563
+#: includes/admin/templates/directory/sorting.php:22
+#: includes/admin/assets/js/um-admin-forms.js:203
+msgid "Meta key"
+msgstr "Meta key"
+
+#: includes/core/class-member-directory.php:307 templates/members.php:88
+msgid "Random"
+msgstr "隨機"
+
+#: includes/core/class-builtin.php:757 includes/core/class-builtin.php:760
+#: includes/core/class-member-directory.php:323
+msgid "Last Name"
+msgstr "姓氏"
+
+#: includes/core/class-builtin.php:747 includes/core/class-builtin.php:750
+#: includes/core/class-member-directory.php:322
+msgid "First Name"
+msgstr "名字"
+
+#: includes/core/class-member-directory.php:300
+msgid "Last login"
+msgstr "上次登入"
+
+#: includes/core/class-member-directory.php:293
+msgid "Old users first"
+msgstr "舊會員優先"
+
+#: includes/core/class-member-directory.php:292
+msgid "New users first"
+msgstr "新會員優先"
+
+#: includes/admin/templates/directory/general.php:82
+msgid "Only show members who have uploaded a cover photo"
+msgstr "只顯示已上傳封面圖片的會員"
+
+#: includes/admin/templates/directory/general.php:75
+msgid "Only show members who have uploaded a profile photo"
+msgstr "只顯示已上傳個人資料照片的會員"
+
+#: includes/admin/templates/directory/general.php:66
+msgid "User Roles to Display"
+msgstr "顯示會員角色"
+
+#: includes/admin/templates/dashboard/users.php:73
+#: includes/core/class-user.php:988
+msgid "Awaiting E-mail Confirmation"
+msgstr "等待電子郵件確認"
+
+#: includes/admin/templates/dashboard/users.php:60
+#: includes/core/class-user.php:992
+msgid "Pending Review"
+msgstr "待審核"
+
+#: includes/admin/core/class-admin-settings.php:948
+#: includes/admin/templates/dashboard/users.php:15
+msgid "Users"
+msgstr "使用者管理"
+
+#: includes/admin/core/class-admin-metabox.php:471
+#: includes/admin/core/class-admin-metabox.php:623
+#: includes/admin/templates/access/restrict_content.php:136
+msgid "Redirect URL"
+msgstr "轉址網址"
+
+#: includes/admin/core/class-admin-users.php:163
+#: includes/core/class-fields.php:2707
+msgid "Apply"
+msgstr "套用"
+
+#: includes/admin/core/class-admin-users.php:156
+#: includes/admin/core/class-admin-users.php:159
+msgid "UM Action"
+msgstr "UM 操作"
+
+#: includes/admin/core/class-admin-users.php:457
+msgid "You do not have enough permissions to do that."
+msgstr "您沒有足夠的權限來執行此操作。"
+
+#: includes/admin/core/class-admin-users.php:381
+#: includes/admin/templates/dashboard/users.php:41
+msgid "Rejected"
+msgstr "已拒絕"
+
+#: includes/admin/core/class-admin-users.php:380
+#: includes/admin/templates/dashboard/users.php:86
+msgid "Inactive"
+msgstr "無效"
+
+#: includes/admin/core/class-admin-users.php:379
+msgid "Waiting e-mail confirmation"
+msgstr "等待電子郵件確認"
+
+#: includes/admin/core/class-admin-users.php:378
+msgid "Pending review"
+msgstr "待審核"
+
+#: includes/admin/core/class-admin-users.php:377
+#: includes/admin/templates/dashboard/users.php:28
+#: includes/core/class-user.php:984
+msgid "Approved"
+msgstr "已批准"
+
+#: includes/admin/core/class-admin-users.php:247
+msgid "Info"
+msgstr "資訊"
+
+#: includes/admin/core/class-admin-users.php:242 templates/account.php:43
+#: templates/account.php:84
+msgid "View profile"
+msgstr "查看個人檔案"
+
+#: includes/admin/core/list-tables/roles-list-table.php:425
+msgid "WP-Admin Access"
+msgstr "WP-Admin訪問"
+
+#: includes/admin/core/list-tables/roles-list-table.php:423
+msgid "No.of Members"
+msgstr "所屬會員數"
+
+#: includes/admin/core/list-tables/roles-list-table.php:421
+msgid "Role Title"
+msgstr "角色名稱"
+
+#: includes/admin/class-admin.php:1825
+#: includes/admin/core/class-admin-settings.php:1848
+msgid "Settings"
+msgstr "設置"
+
+#: includes/admin/core/class-admin-notices.php:442
+msgid "Other users have been updated."
+msgstr "其他會員已更新。"
+
+#: includes/admin/core/class-admin-notices.php:441
+msgid "Super administrators cannot be modified."
+msgstr "超級管理員不能修改。"
+
+#: includes/admin/core/class-admin-notices.php:437
+msgid "Changed roles."
+msgstr "角色已變更。"
+
+#: includes/admin/core/class-admin-notices.php:433
+msgid "Users have been updated."
+msgstr "會員已更新。"
+
+#: includes/admin/core/class-admin-notices.php:429
+msgid "User has been updated."
+msgstr "會員已更新。"
+
+#: includes/admin/core/class-admin-notices.php:425
+msgid "The form has been duplicated successfully."
+msgstr "此表單已成功複製。"
+
+#: includes/admin/core/class-admin-notices.php:413
+msgid "Your user cache is now removed."
+msgstr "您的會員快取現在被刪除。"
+
+#: includes/admin/core/class-admin-notices.php:409
+msgid "Your temp uploads directory is now clean."
+msgstr "您的臨時上傳目錄現在是乾淨的。"
+
+#: includes/admin/core/class-admin-notices.php:405
+msgid "Your translation files have been updated successfully."
+msgstr "您的翻譯文件已成功更新。"
+
+#: includes/admin/core/class-admin-notices.php:400
+msgid "Undo"
+msgstr "復原"
+
+#: includes/admin/core/class-admin-notices.php:399
+msgid "Are you sure you want to delete the selected user(s)? The following users will be deleted: <p>%s</p> <strong>This cannot be undone!</strong>"
+msgstr "您確定要刪除所選會員嗎？ 以下會員將被刪除：<p>%s</p> <strong>這項作業無法復原！</strong>"
+
+#: includes/admin/core/class-admin-notices.php:344
+msgid "Ultimate Member Setup Error: Account page can not be a child page."
+msgstr "Ultimate Member 設置錯誤：帳號頁面不能是子頁面。"
+
+#: includes/admin/core/class-admin-notices.php:334
+msgid "Ultimate Member Setup Error: User page can not be a child page."
+msgstr "Ultimate Member 設置錯誤：會員頁面不能成為子頁面。"
+
+#: includes/admin/core/class-admin-notices.php:362
+msgid "Exif is not enabled on your server. Mobile photo uploads will not be rotated correctly until you enable the exif extension. <a href=\"%s\">Hide this notice</a>"
+msgstr "您的服務器上未啟用Exif。 移動照片上傳不會正確旋轉，直到您啟用exif擴展名。 <a href=\"%s\">隱藏此通知</a>"
+
+#: includes/admin/core/class-admin-metabox.php:2116
+msgid "Maximum number that can be entered in this field"
+msgstr "可以在此欄位中輸入的最大字數"
+
+#: includes/admin/core/class-admin-metabox.php:2106
+msgid "Minimum number that can be entered in this field"
+msgstr "可以在此欄位中輸入的最小字數"
+
+#: includes/admin/core/class-admin-metabox.php:1737
+msgid "Turn on to add a confirm password field. If turned on the confirm password field will only show on register forms and not on login forms."
+msgstr "打開以新增確認密碼欄位。 如果打開確認密碼欄位只會顯示在註冊表單上，而不是登入表單上。"
+
+#: includes/admin/core/class-admin-metabox.php:1727
+msgid "Turn on to force users to create a strong password (A combination of one lowercase letter, one uppercase letter, and one number). If turned on this option is only applied to register forms and not to login forms."
+msgstr "打開以強制會員新增一個強密碼（一個小寫字母，一個大寫字母和一個數字的組合）。 如果打開此選項僅適用於註冊表單而不是登入表單。"
+
+#: includes/admin/core/class-admin-metabox.php:1536
+msgid "Optional text to include with the divider"
+msgstr "包含分隔符的可選文字"
+
+#: includes/admin/core/class-admin-metabox.php:1393
+msgid "Value"
+msgstr "值"
+
+#: includes/admin/core/class-admin-metabox.php:1316
+msgid "If"
+msgstr "如果"
+
+#: includes/admin/core/class-admin-metabox.php:1284
+msgid "Select where this field should appear. This option should only be changed on the profile form and allows you to show a field in one mode only (edit or view) or in both modes."
+msgstr "選擇此欄位應顯示的位置。 此選項只能在個人資料表單上更改，並允許您僅在一種模式（編輯或查看）或兩種模式下顯示一個欄位。"
+
+#: includes/admin/core/class-admin-metabox.php:999
+msgid "User Meta"
+msgstr "會員 Meta"
+
+#: includes/admin/core/class-admin-metabox.php:977
+#: includes/admin/core/class-admin-metabox.php:998
+#: includes/admin/core/class-admin-metabox.php:1020
+msgid "Customize this form"
+msgstr "客製化此表單"
+
+#: includes/admin/core/class-admin-metabox.php:974
+msgid "Form Builder"
+msgstr "表單產生器"
+
+#: includes/admin/core/class-admin-metabox.php:973
+msgid "Select Form Type"
+msgstr "選擇表單類型"
+
+#: includes/admin/core/class-admin-metabox.php:889
+msgid "Delete Options"
+msgstr "刪除選項"
+
+#: includes/admin/core/class-admin-metabox.php:881
+msgid "Logout Options"
+msgstr "登出選項"
+
+#: includes/admin/core/class-admin-metabox.php:873
+msgid "Login Options"
+msgstr "登入選項"
+
+#: includes/admin/core/class-admin-metabox.php:865
+msgid "Registration Options"
+msgstr "註冊選項"
+
+#: includes/admin/core/class-admin-metabox.php:854
+msgid "Homepage Options"
+msgstr "首頁選項"
+
+#: includes/admin/core/class-admin-metabox.php:843
+msgid "Profile Access"
+msgstr "個人資料訪問"
+
+#: includes/admin/core/class-admin-metabox.php:835
+msgid "General Permissions"
+msgstr "一般權限"
+
+#: includes/admin/core/class-admin-metabox.php:827
+msgid "Administrative Permissions"
+msgstr "管理者權限"
+
+#: includes/admin/core/class-admin-metabox.php:814
+msgid "Styling: General"
+msgstr "樣式：一般"
+
+#: includes/admin/core/class-admin-metabox.php:812
+msgid "Results &amp; Pagination"
+msgstr "結果 &amp; 分頁"
+
+#: includes/admin/core/class-admin-metabox.php:811
+msgid "Search Options"
+msgstr "搜尋選項"
+
+#: includes/admin/core/class-admin-metabox.php:810
+msgid "Profile Card"
+msgstr "個人資料卡"
+
+#: includes/admin/core/class-admin-metabox.php:808
+msgid "General Options"
+msgstr "一般選項"
+
+#: includes/admin/core/class-admin-columns.php:186
+#: includes/admin/core/class-admin-columns.php:219
+#: includes/admin/core/class-admin-settings.php:1048
+#: includes/admin/core/class-admin-settings.php:1157
+#: includes/admin/core/list-tables/roles-list-table.php:378
+#: includes/admin/core/list-tables/roles-list-table.php:386
+#: includes/admin/templates/form/login_customize.php:27
+#: includes/admin/templates/form/login_customize.php:75
+#: includes/admin/templates/form/login_customize.php:94
+#: includes/admin/templates/form/login_customize.php:105
+#: includes/admin/templates/form/profile_customize.php:42
+#: includes/admin/templates/form/profile_customize.php:108
+#: includes/admin/templates/form/profile_customize.php:127
+#: includes/admin/templates/form/profile_customize.php:162
+#: includes/admin/templates/form/profile_customize.php:183
+#: includes/admin/templates/form/profile_customize.php:194
+#: includes/admin/templates/form/profile_customize.php:205
+#: includes/admin/templates/form/profile_customize.php:216
+#: includes/admin/templates/form/register_customize.php:33
+#: includes/admin/templates/form/register_customize.php:89
+#: includes/admin/templates/form/register_gdpr.php:31
+#: includes/admin/templates/role/profile.php:53
+#: includes/core/class-builtin.php:1171 includes/core/class-builtin.php:1190
+#: includes/core/class-builtin.php:1206 includes/core/class-builtin.php:1209
+#: includes/core/um-actions-account.php:334
+msgid "No"
+msgstr "否"
+
+#: includes/admin/core/class-admin-columns.php:186
+#: includes/admin/core/class-admin-columns.php:219
+#: includes/admin/core/class-admin-settings.php:1049
+#: includes/admin/core/class-admin-settings.php:1158
+#: includes/admin/core/list-tables/roles-list-table.php:378
+#: includes/admin/core/list-tables/roles-list-table.php:386
+#: includes/admin/core/packages/2.1.3-beta3/functions.php:75
+#: includes/admin/core/packages/2.1.3-beta3/functions.php:76
+#: includes/admin/templates/form/login_customize.php:28
+#: includes/admin/templates/form/login_customize.php:76
+#: includes/admin/templates/form/login_customize.php:95
+#: includes/admin/templates/form/login_customize.php:106
+#: includes/admin/templates/form/profile_customize.php:43
+#: includes/admin/templates/form/profile_customize.php:109
+#: includes/admin/templates/form/profile_customize.php:128
+#: includes/admin/templates/form/profile_customize.php:163
+#: includes/admin/templates/form/profile_customize.php:184
+#: includes/admin/templates/form/profile_customize.php:195
+#: includes/admin/templates/form/profile_customize.php:206
+#: includes/admin/templates/form/profile_customize.php:217
+#: includes/admin/templates/form/register_customize.php:34
+#: includes/admin/templates/form/register_customize.php:90
+#: includes/admin/templates/form/register_gdpr.php:32
+#: includes/admin/templates/role/profile.php:54
+#: includes/core/class-builtin.php:1172 includes/core/class-builtin.php:1191
+#: includes/core/class-builtin.php:1208 includes/core/class-user.php:215
+#: includes/core/class-user.php:216 includes/core/um-actions-account.php:329
+msgid "Yes"
+msgstr "是"
+
+#: includes/admin/class-admin.php:1909
+msgid "Form draft updated."
+msgstr "表單草稿已更新。"
+
+#: includes/admin/class-admin.php:1908
+msgid "Form scheduled."
+msgstr "表單已排程。"
+
+#: includes/admin/class-admin.php:1907
+msgid "Form submitted."
+msgstr "表單已提交。"
+
+#: includes/admin/class-admin.php:1906
+msgid "Form saved."
+msgstr "表單已儲存。"
+
+#: includes/admin/class-admin.php:1905
+msgid "Form created."
+msgstr "表單已建立。"
+
+#: includes/admin/class-admin.php:1904
+msgid "Form restored to revision."
+msgstr "表單已恢復到修訂。"
+
+#: includes/admin/class-admin.php:1902
+msgid "Custom field deleted."
+msgstr "自定義欄位已刪除。"
+
+#: includes/admin/class-admin.php:1901
+msgid "Custom field updated."
+msgstr "自定義欄位已更新。"
+
+#: includes/admin/class-admin.php:1900 includes/admin/class-admin.php:1903
+msgid "Form updated."
+msgstr "表單已更新。"
+
+#: includes/admin/core/class-admin-menu.php:223
+msgid "User Cache"
+msgstr "會員快取"
+
+#: includes/admin/core/class-admin-menu.php:221
+msgid "Purge Temp Files"
+msgstr "清除暫存檔案"
+
+#: includes/admin/core/class-admin-menu.php:219
+msgid "Users Overview"
+msgstr "會員概述"
+
+#: includes/admin/core/class-admin-menu.php:164
+#: includes/core/class-common.php:88
+msgid "Member Directories"
+msgstr "會員列表"
+
+#: includes/admin/core/class-admin-menu.php:161
+#: includes/admin/core/list-tables/roles-list-table.php:490
+#: includes/admin/core/packages/2.0-beta1/user_roles.php:12
+msgid "User Roles"
+msgstr "會員角色"
+
+#: includes/admin/core/class-admin-menu.php:159
+#: includes/admin/templates/gdpr.php:7 includes/core/class-common.php:58
+msgid "Forms"
+msgstr "表單"
+
+#: includes/admin/core/class-admin-menu.php:151
+msgid "Dashboard"
+msgstr "儀表板"
+
+#: includes/admin/core/class-admin-menu.php:135
+msgctxt "Admin menu name"
+msgid "All Users"
+msgstr "所有用戶"
+
+#: includes/admin/core/class-admin-menu.php:127
+msgctxt "Admin menu name"
+msgid "Users"
+msgstr "用戶"
+
+#: includes/admin/core/class-admin-menu.php:65
+msgid "Thanks :)"
+msgstr "謝謝 :)"
+
+#: includes/admin/core/class-admin-columns.php:136
+#: includes/admin/core/class-admin-columns.php:155
+msgid "Date"
+msgstr "日期"
+
+#: includes/admin/core/class-admin-columns.php:135
+#: includes/admin/core/class-admin-columns.php:154
+#: includes/admin/core/class-admin-metabox.php:813
+#: includes/admin/core/class-admin-metabox.php:975
+msgid "Shortcode"
+msgstr "短碼"
+
+#: includes/admin/core/class-admin-columns.php:133
+msgid "Type"
+msgstr "類型"
+
+#: includes/admin/core/class-admin-columns.php:132
+#: includes/admin/core/class-admin-columns.php:152
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin/core/class-admin-builder.php:553
+#: includes/admin/core/class-admin-columns.php:102
+msgid "Duplicate"
+msgstr "複製"
+
+#: includes/admin/core/class-admin-builder.php:473
+#: includes/admin/core/class-admin-dragdrop.php:179
+#: includes/admin/core/class-admin-dragdrop.php:194
+#: includes/admin/core/class-admin-dragdrop.php:219
+msgid "Delete Row"
+msgstr "刪除列"
+
+#: includes/admin/core/class-admin-builder.php:400
+#: includes/admin/core/class-admin-builder.php:470
+#: includes/admin/core/class-admin-dragdrop.php:177
+msgid "Edit Row"
+msgstr "編輯列"
+
+#: includes/admin/core/class-admin-builder.php:399
+#: includes/admin/core/class-admin-builder.php:469
+#: includes/admin/core/class-admin-dragdrop.php:176
+msgid "Add Row"
+msgstr "新增列"
+
+#: includes/admin/class-admin.php:1704
+msgid "Duplicate of %s"
+msgstr "重複的 %s"
+
+#: includes/admin/core/class-admin-gdpr.php:64
+msgid "Community Role"
+msgstr "社區角色"
+
+#: includes/admin/core/class-admin-builder.php:954
+#: includes/admin/core/class-admin-builder.php:1028
+msgid "This field type is not setup correcty."
+msgstr "該欄位類型設定不正確。"
+
+#: includes/admin/core/class-admin-builder.php:922
+msgid "You did not create any custom fields"
+msgstr "您沒有新增任何自定義欄位"
+
+#: includes/admin/core/class-admin-builder.php:908
+msgid "Custom Fields"
+msgstr "自定義欄位"
+
+#: includes/admin/core/class-admin-builder.php:903
+#: includes/core/class-builtin.php:1390
+msgid "None"
+msgstr "無"
+
+#: includes/admin/core/class-admin-builder.php:891
+msgid "Predefined Fields"
+msgstr "預設欄位"
+
+#: includes/admin/core/class-admin-builder.php:874
+msgid "Setup New Field"
+msgstr "設置新欄位"
+
+#: includes/admin/core/class-admin-builder.php:854
+msgid "Search Icons..."
+msgstr "搜尋圖示..."
+
+#: includes/admin/core/class-admin-builder.php:238
+msgid "Reset all rules"
+msgstr "重置所有規則"
+
+#: includes/admin/core/class-admin-builder.php:215
+msgid "Add conditional fields support"
+msgstr "新增有條件的欄位支持"
+
+#: includes/admin/core/class-admin-builder.php:213
+msgid "Manage conditional fields support"
+msgstr "管理有條件的欄位支持"
+
+#: includes/admin/core/class-admin-builder.php:1207
+#: includes/core/class-form.php:190 includes/core/class-form.php:441
+#: includes/core/class-password.php:530
+#: includes/core/um-actions-profile.php:582
+msgid "This is not possible for security reasons."
+msgstr "基於安全考量，這是不允許的。"
+
+#: includes/admin/core/class-admin-builder.php:292
+#: includes/admin/core/class-admin-builder.php:612
+#: includes/admin/core/class-admin-builder.php:776
+#: includes/admin/core/class-admin-dragdrop.php:33
+#: includes/admin/core/class-admin-menu.php:106
+#: includes/core/class-fields.php:4638
+msgid "Please login as administrator"
+msgstr "請以管理員身份登入"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: includes/admin/core/class-admin-menu.php:147
+#: includes/core/class-user.php:715
+msgid "Ultimate Member"
+msgstr "Ultimate Member"
+
+#: includes/admin/class-admin.php:1824
+msgid "Docs"
+msgstr "文件"
+
+#: includes/admin/core/class-admin-settings.php:2012
+msgid "Save Changes"
+msgstr "儲存設定"
+
+#: includes/admin/core/class-admin-columns.php:50
+msgid "Status"
+msgstr "狀態"
+
+#: includes/admin/core/class-admin-menu.php:206
+#: includes/admin/core/class-admin-settings.php:1703
+msgid "Extensions"
+msgstr "擴充功能"
+
+#: includes/class-config.php:131 includes/class-config.php:794
+msgid "User"
+msgstr "會員"
+
+#: includes/admin/core/class-admin-metabox.php:1576
+#: includes/admin/core/class-admin-metabox.php:1747
+msgid "Style"
+msgstr "樣式"
+
+#: includes/admin/core/class-admin-builder.php:560
+#: includes/admin/core/class-admin-enqueue.php:504
+#: includes/admin/core/list-tables/roles-list-table.php:349
+#: includes/admin/core/list-tables/roles-list-table.php:417
+msgid "Delete"
+msgstr "刪除"
+
+#: includes/admin/core/class-admin-columns.php:131
+#: includes/admin/core/class-admin-columns.php:151
+#: includes/admin/core/class-admin-metabox.php:2173
+#: includes/admin/templates/role/role-edit.php:211
+#: includes/widgets/class-um-search-widget.php:94
+msgid "Title"
+msgstr "標題"
+
+#: includes/admin/core/class-admin-settings.php:958
+#: includes/admin/core/class-admin-settings.php:975
+#: includes/core/class-builtin.php:708 includes/core/class-builtin.php:711
+#: includes/core/class-member-directory.php:294
+msgid "Username"
+msgstr "會員名稱"
+
+#: includes/admin/core/class-admin-enqueue.php:492
+#: includes/core/class-builtin.php:732 includes/core/class-builtin.php:735
+#: includes/core/class-builtin.php:1215 includes/core/class-builtin.php:1218
+#: includes/core/um-actions-account.php:605
+#: includes/core/um-actions-account.php:677
+msgid "Password"
+msgstr "密碼"
+
+#: includes/admin/core/class-admin-users.php:371
+#: includes/admin/core/class-admin-users.php:373
+#: includes/admin/assets/js/um-admin-blocks-shortcode.js:326
+msgid "All"
+msgstr "全部"
+
+#: includes/admin/core/class-admin-forms.php:1035
+#: includes/admin/core/class-admin-forms.php:1054
+#: includes/admin/core/class-admin-forms.php:1181
+#: includes/admin/core/class-admin-forms.php:1190
+#: includes/admin/core/class-admin-forms.php:1430
+#: includes/admin/core/class-admin-forms.php:1444
+#: includes/admin/core/class-admin-forms.php:1540
+#: includes/admin/core/class-admin-forms.php:1562
+#: includes/admin/core/class-admin-notices.php:400
+#: includes/core/um-actions-profile.php:816
+#: includes/admin/assets/js/um-admin-forms.js:201
+#: includes/admin/assets/js/um-admin-forms.js:266
+#: includes/admin/assets/js/um-admin-forms.js:539
+#: includes/admin/assets/js/um-admin-forms.js:572
+msgid "Remove"
+msgstr "移除"
+
+#: includes/admin/core/class-admin-metabox.php:2017
+#: includes/core/class-fields.php:1740 includes/core/class-fields.php:1781
+#: includes/core/class-fields.php:2651 includes/core/class-fields.php:2726
+msgid "Upload"
+msgstr "上傳"
+
+#: includes/admin/core/class-admin-columns.php:134
+#: includes/admin/core/class-admin-columns.php:153
+#: includes/admin/core/class-admin-settings.php:1016
+#: includes/admin/core/class-admin-settings.php:1600
+#: includes/admin/templates/form/login_settings.php:19
+#: includes/admin/templates/form/register_customize.php:9
+#: includes/admin/templates/form/register_customize.php:42
+#: includes/admin/templates/role/profile.php:52
+msgid "Default"
+msgstr "預設"
+
+#: includes/admin/core/class-admin-metabox.php:1021
+msgid "Options"
+msgstr "選項"
+
+#: includes/admin/core/class-admin-settings.php:2974
+msgid "To copy the Install info, click below then press Ctrl + C (PC) or Cmd + C (Mac)."
+msgstr "如需複製安裝資訊, 點選下面區域並按下 Ctrl + C (PC) 或 Cmd +C (Mac)。"
