@@ -2,7 +2,7 @@
 	width: 50%;
 	min-width: 720px;
 	color: #050505;
-	background: #FFF url( '/path/wp-content/plugins/facebook-for-woocommerce/assets/images/background.png' ) no-repeat;
+	background: #FFF url( 'https://clancies.github.io/wordpress_static/wp-content/plugins/facebook-for-woocommerce/assets/images/background.png' ) no-repeat;
 	background-position: right 30px center;
 	padding: 10px 15px 20px;
 	box-shadow: 0 0 3px rgba( 0, 0, 0, 0.2 );
@@ -12,7 +12,7 @@
 #wc-facebook-connection-box .logo {
 	width: 40px;
 	height: 40px;
-	background-image: url( '/path/wp-content/plugins/facebook-for-woocommerce/assets/images/logo.png' );
+	background-image: url( 'https://clancies.github.io/wordpress_static/wp-content/plugins/facebook-for-woocommerce/assets/images/logo.png' );
 	background-size: 100%;
 	margin-bottom: 10px;
 }
@@ -42,15 +42,15 @@
 }
 
 #wc-facebook-connection-box .benefits .benefit-0 {
-	background-image: url( '/path/wp-content/plugins/facebook-for-woocommerce/assets/images/icon-0.png' );
+	background-image: url( 'https://clancies.github.io/wordpress_static/wp-content/plugins/facebook-for-woocommerce/assets/images/icon-0.png' );
 }
 
 #wc-facebook-connection-box .benefits .benefit-1 {
-	background-image: url( '/path/wp-content/plugins/facebook-for-woocommerce/assets/images/icon-1.png' );
+	background-image: url( 'https://clancies.github.io/wordpress_static/wp-content/plugins/facebook-for-woocommerce/assets/images/icon-1.png' );
 }
 
 #wc-facebook-connection-box .benefits .benefit-2 {
-	background-image: url( '/path/wp-content/plugins/facebook-for-woocommerce/assets/images/icon-2.png' );
+	background-image: url( 'https://clancies.github.io/wordpress_static/wp-content/plugins/facebook-for-woocommerce/assets/images/icon-2.png' );
 }
 
 #wc-facebook-connection-box .button {

@@ -68,7 +68,7 @@
 }
 
 .eael-call-to-action.bg-img {
-  background-image: url("/path/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/img/bg.jpg");
+  background-image: url("https://clancies.github.io/wordpress_static/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/img/bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;

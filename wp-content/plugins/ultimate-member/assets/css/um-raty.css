@@ -2,11 +2,11 @@
   font-family: "raty";
   font-style: normal;
   font-weight: normal;
-  src: url("/path/wp-content/plugins/ultimate-member/assets/font/raty.eot");
-  src: url("/path/wp-content/plugins/ultimate-member/assets/font/raty.eot#iefix") format("embedded-opentype");
-  src: url("/path/wp-content/plugins/ultimate-member/assets/font/raty.svg#raty") format("svg");
-  src: url("/path/wp-content/plugins/ultimate-member/assets/font/raty.ttf") format("truetype");
-  src: url("/path/wp-content/plugins/ultimate-member/assets/font/raty.woff") format("woff");
+  src: url("https://clancies.github.io/wordpress_static/wp-content/plugins/ultimate-member/assets/font/raty.eot");
+  src: url("https://clancies.github.io/wordpress_static/wp-content/plugins/ultimate-member/assets/font/raty.eot#iefix") format("embedded-opentype");
+  src: url("https://clancies.github.io/wordpress_static/wp-content/plugins/ultimate-member/assets/font/raty.svg#raty") format("svg");
+  src: url("https://clancies.github.io/wordpress_static/wp-content/plugins/ultimate-member/assets/font/raty.ttf") format("truetype");
+  src: url("https://clancies.github.io/wordpress_static/wp-content/plugins/ultimate-member/assets/font/raty.woff") format("woff");
 	font-display: swap;
 }
 

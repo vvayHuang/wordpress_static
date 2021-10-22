@@ -163,7 +163,7 @@ input:checked + .slider:before {
 .pa-swal.swal2-show {
     padding: 32px;
     padding-bottom: 50px;
-    background-image: url("/path/wp-content/plugins/premium-addons-for-elementor/admin/images/popup-pattern.jpg");
+    background-image: url("https://clancies.github.io/wordpress_static/wp-content/plugins/premium-addons-for-elementor/admin/images/popup-pattern.jpg");
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
@@ -1018,7 +1018,7 @@ input:checked + .slider:before {
     top: 200px;
     right: 200;
     width: 530px;
-    background-image: url("/path/wp-content/plugins/premium-addons-for-elementor/admin/images/popup-pattern.jpg");
+    background-image: url("https://clancies.github.io/wordpress_static/wp-content/plugins/premium-addons-for-elementor/admin/images/popup-pattern.jpg");
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
@@ -1249,7 +1249,7 @@ input:checked + .slider:before {
     -webkit-align-items: center;
     -moz-box-align: center;
     align-items: center;
-    background: url("/path/wp-content/plugins/premium-addons-for-elementor/admin/images/papro-banner.png");
+    background: url("https://clancies.github.io/wordpress_static/wp-content/plugins/premium-addons-for-elementor/admin/images/papro-banner.png");
     -webkit-background-size: cover;
     background-size: cover;
     background-repeat: no-repeat;

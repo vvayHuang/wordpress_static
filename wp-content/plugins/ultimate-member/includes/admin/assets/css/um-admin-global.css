@@ -43,7 +43,7 @@
 #um-admin-access-settings h3 {
 	padding: 10px 20px 10px 60px;
 	color: #fff;
-	background: #0085ba url(/path/wp-content/plugins/ultimate-member/includes/admin/assets/img/logo-small.png) no-repeat 12px center;
+	background: #0085ba url(https://clancies.github.io/wordpress_static/wp-content/plugins/ultimate-member/includes/admin/assets/img/logo-small.png) no-repeat 12px center;
 	font-weight: bold;
 	font-size: 14px !important;
 	-webkit-font-smoothing: antialiased !important;
@@ -76,7 +76,7 @@
 	margin: 14px 12px 0 0;
 	border-radius: 3px;
 	color: #fff;
-	background: #0085ba url(/path/wp-content/plugins/ultimate-member/includes/admin/assets/img/logo-small.png) no-repeat 12px center;
+	background: #0085ba url(https://clancies.github.io/wordpress_static/wp-content/plugins/ultimate-member/includes/admin/assets/img/logo-small.png) no-repeat 12px center;
 	font-weight: bold;
 }
 

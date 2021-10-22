@@ -20,7 +20,7 @@
 .um-badge {
 	color: #fff;
 	background: none !important;
-	background: #0085ba url(/path/wp-content/plugins/ultimate-member/includes/admin/assets/img/logo_small.png) no-repeat center 0px !important;
+	background: #0085ba url(https://clancies.github.io/wordpress_static/wp-content/plugins/ultimate-member/includes/admin/assets/img/logo_small.png) no-repeat center 0px !important;
 }
 
 .um-about-wrap .ultimatemember-actions a.button-primary,

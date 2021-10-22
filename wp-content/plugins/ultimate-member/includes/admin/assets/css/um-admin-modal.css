@@ -83,7 +83,7 @@
 
 .um-admin-modal.loading .um-admin-modal-body {
 	height: 200px;
-	background: url(/path/wp-content/plugins/ultimate-member/includes/admin/assets/img/ajax-loader.gif) no-repeat center;
+	background: url(https://clancies.github.io/wordpress_static/wp-content/plugins/ultimate-member/includes/admin/assets/img/ajax-loader.gif) no-repeat center;
 }
 
 .um-admin-modal-foot {

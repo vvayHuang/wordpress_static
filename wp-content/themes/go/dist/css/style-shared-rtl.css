@@ -554,15 +554,15 @@ input[type=radio]:checked+label:before {
             mask-repeat: no-repeat;
     position: absolute;
     width: 20px;
-    -webkit-mask-image: url(/path/wp-content/themes/go/dist/images/checkbox.svg);
-            mask-image: url(/path/wp-content/themes/go/dist/images/checkbox.svg);
+    -webkit-mask-image: url(https://clancies.github.io/wordpress_static/wp-content/themes/go/dist/images/checkbox.svg);
+            mask-image: url(https://clancies.github.io/wordpress_static/wp-content/themes/go/dist/images/checkbox.svg);
     top: 5px;
 }
 
 input[type=checkbox]:checked+br+label:before,
 input[type=checkbox]:checked+label:before {
-    -webkit-mask-image: url(/path/wp-content/themes/go/dist/images/checkbox-checked.svg);
-            mask-image: url(/path/wp-content/themes/go/dist/images/checkbox-checked.svg);
+    -webkit-mask-image: url(https://clancies.github.io/wordpress_static/wp-content/themes/go/dist/images/checkbox-checked.svg);
+            mask-image: url(https://clancies.github.io/wordpress_static/wp-content/themes/go/dist/images/checkbox-checked.svg);
 }
 
 textarea {
@@ -601,7 +601,7 @@ select {
             appearance: button;
     background-color: var(--go--color--white);
     background-color: var(--go-input--color--background, var(--go--color--white));
-    background-image: url(/path/wp-content/themes/go/images/arrow-down-solid.svg);
+    background-image: url(https://clancies.github.io/wordpress_static/wp-content/themes/go/images/arrow-down-solid.svg);
     background-position: calc(100% - (100% - 10px)) 50%;
     background-repeat: no-repeat;
     border: var(--go-input--border);
@@ -4358,7 +4358,7 @@ body.woocommerce-page .input-text, body.woocommerce .input-text {
 .select2-container--default .select2-selection--single {
     background-color: var(--go--color--white);
     background-color: var(--go-input--color--background, var(--go--color--white));
-    background-image: url(/path/wp-content/themes/go/dist/shared/images/arrow-down-solid.svg);
+    background-image: url(https://clancies.github.io/wordpress_static/wp-content/themes/go/dist/shared/images/arrow-down-solid.svg);
     background-position: calc(100% - (100% - 10px)) 50%;
     background-repeat: no-repeat;
     border: var(--go-input--border);
@@ -4467,13 +4467,13 @@ body.woocommerce-page .input-text, body.woocommerce .input-text {
             mask-repeat: no-repeat;
     position: absolute;
     width: 20px;
-    -webkit-mask-image: url(/path/wp-content/themes/go/dist/images/checkbox.svg);
-            mask-image: url(/path/wp-content/themes/go/dist/images/checkbox.svg);
+    -webkit-mask-image: url(https://clancies.github.io/wordpress_static/wp-content/themes/go/dist/images/checkbox.svg);
+            mask-image: url(https://clancies.github.io/wordpress_static/wp-content/themes/go/dist/images/checkbox.svg);
 }
 
 .comment-form-cookies-consent input[type=checkbox]:checked+label:before {
-    -webkit-mask-image: url(/path/wp-content/themes/go/dist/images/checkbox-checked.svg);
-            mask-image: url(/path/wp-content/themes/go/dist/images/checkbox-checked.svg);
+    -webkit-mask-image: url(https://clancies.github.io/wordpress_static/wp-content/themes/go/dist/images/checkbox-checked.svg);
+            mask-image: url(https://clancies.github.io/wordpress_static/wp-content/themes/go/dist/images/checkbox-checked.svg);
 }
 
 .woocommerce form .form-row.woocommerce-invalid .required,
@@ -4486,7 +4486,7 @@ body.woocommerce-page .input-text, body.woocommerce .input-text {
 .woocommerce form .form-row.woocommerce-invalid select {
     background-color: var(--go--color--white);
     background-color: var(--go-input--color--background, var(--go--color--white));
-    background-image: url(/path/wp-content/themes/go/dist/shared/images/error-icon.svg);
+    background-image: url(https://clancies.github.io/wordpress_static/wp-content/themes/go/dist/shared/images/error-icon.svg);
     background-position: calc(100% - (100% - 10px)) 50%;
     background-repeat: no-repeat;
     border-color: #d33131;
@@ -4812,7 +4812,7 @@ table.variations tbody tr:nth-child(odd) {
 
 .woocommerce nav.woocommerce-pagination .next:before,
 .woocommerce nav.woocommerce-pagination .prev:before {
-    background: url(/path/wp-content/themes/go/dist/images/arrow-paginator.svg) no-repeat 50%;
+    background: url(https://clancies.github.io/wordpress_static/wp-content/themes/go/dist/images/arrow-paginator.svg) no-repeat 50%;
     content: "";
     height: 100%;
     right: 0;
@@ -5665,7 +5665,7 @@ body .gform_wrapper .validation_message {
 body .gform_wrapper li.gfield_error input:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file]) {
     background-color: var(--go--color--white);
     background-color: var(--go-input--color--background, var(--go--color--white));
-    background-image: url(/path/wp-content/themes/go/dist/images/error-icon.svg);
+    background-image: url(https://clancies.github.io/wordpress_static/wp-content/themes/go/dist/images/error-icon.svg);
     background-position: calc(100% - (100% - 10px)) 50%;
     background-repeat: no-repeat;
     border: var(--go-input--border);
@@ -5766,13 +5766,13 @@ body .gform_wrapper .gfield_radio li input {
             mask-repeat: no-repeat;
     position: absolute;
     width: 20px;
-    -webkit-mask-image: url(/path/wp-content/themes/go/dist/images/checkbox.svg);
-            mask-image: url(/path/wp-content/themes/go/dist/images/checkbox.svg);
+    -webkit-mask-image: url(https://clancies.github.io/wordpress_static/wp-content/themes/go/dist/images/checkbox.svg);
+            mask-image: url(https://clancies.github.io/wordpress_static/wp-content/themes/go/dist/images/checkbox.svg);
 }
 
 .ginput_container_consent input[type=checkbox]:checked+label:before {
-    -webkit-mask-image: url(/path/wp-content/themes/go/dist/images/checkbox-checked.svg);
-            mask-image: url(/path/wp-content/themes/go/dist/images/checkbox-checked.svg);
+    -webkit-mask-image: url(https://clancies.github.io/wordpress_static/wp-content/themes/go/dist/images/checkbox-checked.svg);
+            mask-image: url(https://clancies.github.io/wordpress_static/wp-content/themes/go/dist/images/checkbox-checked.svg);
 }
 
 .gform_wrapper ul.gfield_checkbox li, .gform_wrapper ul.gfield_radio li {
@@ -5807,13 +5807,13 @@ body .gform_wrapper .gfield_radio li input {
             mask-repeat: no-repeat;
     position: absolute;
     width: 20px;
-    -webkit-mask-image: url(/path/wp-content/themes/go/dist/images/checkbox.svg);
-            mask-image: url(/path/wp-content/themes/go/dist/images/checkbox.svg);
+    -webkit-mask-image: url(https://clancies.github.io/wordpress_static/wp-content/themes/go/dist/images/checkbox.svg);
+            mask-image: url(https://clancies.github.io/wordpress_static/wp-content/themes/go/dist/images/checkbox.svg);
 }
 
 .gform_wrapper ul.gfield_checkbox li input[type=checkbox]:checked+label:before {
-    -webkit-mask-image: url(/path/wp-content/themes/go/dist/images/checkbox-checked.svg);
-            mask-image: url(/path/wp-content/themes/go/dist/images/checkbox-checked.svg);
+    -webkit-mask-image: url(https://clancies.github.io/wordpress_static/wp-content/themes/go/dist/images/checkbox-checked.svg);
+            mask-image: url(https://clancies.github.io/wordpress_static/wp-content/themes/go/dist/images/checkbox-checked.svg);
 }
 
 /*! Gravity Forms: Radio */

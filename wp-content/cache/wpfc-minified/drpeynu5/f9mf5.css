@@ -417,7 +417,7 @@ margin-top: 12px;
 padding-top: 30px;
 }
 .um-load-items.loading {
-background: url(/path/wp-content/plugins/ultimate-member/assets/img/loading-dots.gif) no-repeat top center;
+background: url(https://clancies.github.io/wordpress_static/wp-content/plugins/ultimate-member/assets/img/loading-dots.gif) no-repeat top center;
 }
 .um-load-items a {
 max-width: 250px;

@@ -123,8 +123,8 @@
     background-repeat: repeat-x;
     border: none;
     height: 9pt;
-    -webkit-mask-image: url(/path/wp-content/themes/go/dist/images/design-styles/playful/cross-stich-border.svg);
-            mask-image: url(/path/wp-content/themes/go/dist/images/design-styles/playful/cross-stich-border.svg);
+    -webkit-mask-image: url(https://clancies.github.io/wordpress_static/wp-content/themes/go/dist/images/design-styles/playful/cross-stich-border.svg);
+            mask-image: url(https://clancies.github.io/wordpress_static/wp-content/themes/go/dist/images/design-styles/playful/cross-stich-border.svg);
     max-width: 115px !important;
 }
 

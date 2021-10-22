@@ -1,10 +1,10 @@
 @font-face {
 	font-family: "eaicon";
-	src: url("/path/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/fonts/eaicon.eot?krajj6");
-	src: url("/path/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/fonts/eaicon.eot?krajj6#iefix") format("embedded-opentype"),
-		url("/path/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/fonts/eaicon.ttf?krajj6") format("truetype"),
-		url("/path/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/fonts/eaicon.woff?krajj6") format("woff"),
-		url("/path/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/fonts/eaicon.svg?krajj6#eaicon") format("svg");
+	src: url("https://clancies.github.io/wordpress_static/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/fonts/eaicon.eot?krajj6");
+	src: url("https://clancies.github.io/wordpress_static/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/fonts/eaicon.eot?krajj6#iefix") format("embedded-opentype"),
+		url("https://clancies.github.io/wordpress_static/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/fonts/eaicon.ttf?krajj6") format("truetype"),
+		url("https://clancies.github.io/wordpress_static/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/fonts/eaicon.woff?krajj6") format("woff"),
+		url("https://clancies.github.io/wordpress_static/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/fonts/eaicon.svg?krajj6#eaicon") format("svg");
 	font-weight: normal;
 	font-style: normal;
 	font-display: block;

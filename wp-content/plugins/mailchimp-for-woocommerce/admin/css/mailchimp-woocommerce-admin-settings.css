@@ -7,7 +7,7 @@
 	font-family: 'Proxima Nova Alt Light';
 	font-style: normal;
 	font-weight: normal;
-	src: local('Proxima Nova Alt Light'), url('/path/wp-content/plugins/mailchimp-for-woocommerce/admin/fonts/Mark Simonson - Proxima Nova Alt Light.woff') format('woff');
+	src: local('Proxima Nova Alt Light'), url('https://clancies.github.io/wordpress_static/wp-content/plugins/mailchimp-for-woocommerce/admin/fonts/Mark Simonson - Proxima Nova Alt Light.woff') format('woff');
 	}
 
 html {

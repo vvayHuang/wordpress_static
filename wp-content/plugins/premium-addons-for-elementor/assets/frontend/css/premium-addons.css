@@ -1,7 +1,7 @@
 @font-face {
   font-family: "pa-elements";
-  src: url("/path/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.eot?p2y7wv");
-  src: url("/path/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.eot?p2y7wv#iefix") format("embedded-opentype"), url("/path/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.ttf?p2y7wv") format("truetype"), url("/path/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.woff?p2y7wv") format("woff"), url("/path/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.svg?p2y7wv#pa-elements") format("svg");
+  src: url("https://clancies.github.io/wordpress_static/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.eot?p2y7wv");
+  src: url("https://clancies.github.io/wordpress_static/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.eot?p2y7wv#iefix") format("embedded-opentype"), url("https://clancies.github.io/wordpress_static/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.ttf?p2y7wv") format("truetype"), url("https://clancies.github.io/wordpress_static/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.woff?p2y7wv") format("woff"), url("https://clancies.github.io/wordpress_static/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.svg?p2y7wv#pa-elements") format("svg");
   font-weight: normal;
   font-style: normal; }
 

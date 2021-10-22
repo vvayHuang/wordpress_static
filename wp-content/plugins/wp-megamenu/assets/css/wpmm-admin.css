@@ -503,7 +503,7 @@ ul.wpmm-widget-lists li:first-child{
     color: #D0011B;
 }
 .wpmm-item-loading {
-    background-image: url("/path/wp-content/plugins/wp-megamenu/assets/images/loading.gif");
+    background-image: url("https://clancies.github.io/wordpress_static/wp-content/plugins/wp-megamenu/assets/images/loading.gif");
     height: 20px;
     width: 20px;
     margin: 100px auto;

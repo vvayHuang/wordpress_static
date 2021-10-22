@@ -9,8 +9,8 @@
 
 <channel>
 	<title>銀河boyz</title>
-	<atom:link href="/path/feed/" rel="self" type="application/rss+xml" />
-	<link>/path</link>
+	<atom:link href="https://clancies.github.io/wordpress_static/feed/" rel="self" type="application/rss+xml" />
+	<link>https://clancies.github.io/wordpress_static</link>
 	<description>ZZZ</description>
 	<lastBuildDate>Wed, 21 Jul 2021 16:16:47 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -21,27 +21,27 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>/path/wp-content/uploads/2021/07/工作區域-3-100x100.png</url>
+	<url>https://clancies.github.io/wordpress_static/wp-content/uploads/2021/07/工作區域-3-100x100.png</url>
 	<title>銀河boyz</title>
-	<link>/path</link>
+	<link>https://clancies.github.io/wordpress_static</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>這是我的第三篇文章</title>
-		<link>/path/third/</link>
-					<comments>/path/third/#respond</comments>
+		<link>https://clancies.github.io/wordpress_static/third/</link>
+					<comments>https://clancies.github.io/wordpress_static/third/#respond</comments>
 		
 		<dc:creator><![CDATA[你哪邊]]></dc:creator>
 		<pubDate>Wed, 21 Jul 2021 15:36:27 +0000</pubDate>
 				<category><![CDATA[未分類]]></category>
-		<guid isPermaLink="false">/path/?p=1137</guid>
+		<guid isPermaLink="false">https://clancies.github.io/wordpress_static/?p=1137</guid>
 
-					<description><![CDATA[<p>我們不得不面對一個非常尷尬的事實，那就是，回過神才發現，思考拉麵的存在意義，已讓我廢寢忘食。可是，即使是這樣， ... <a title="這是我的第三篇文章" class="read-more" href="/path/third/" aria-label="更多關於 這是我的第三篇文章">閱讀更多</a></p>
-<p>這篇文章 <a rel="nofollow" href="/path/third/">這是我的第三篇文章</a> 最早出現於 <a rel="nofollow" href="/path">銀河boyz</a>。</p>
+					<description><![CDATA[<p>我們不得不面對一個非常尷尬的事實，那就是，回過神才發現，思考拉麵的存在意義，已讓我廢寢忘食。可是，即使是這樣， ... <a title="這是我的第三篇文章" class="read-more" href="https://clancies.github.io/wordpress_static/third/" aria-label="更多關於 這是我的第三篇文章">閱讀更多</a></p>
+<p>這篇文章 <a rel="nofollow" href="https://clancies.github.io/wordpress_static/third/">這是我的第三篇文章</a> 最早出現於 <a rel="nofollow" href="https://clancies.github.io/wordpress_static">銀河boyz</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-image is-style-rounded"><figure class="aligncenter size-medium"><img loading="lazy" width="300" height="300" src="/path/wp-content/uploads/2021/07/New-Project-300x300.png" alt="article2" class="wp-image-260" srcset="/path/wp-content/uploads/2021/07/New-Project-300x300.png 300w, /path/wp-content/uploads/2021/07/New-Project-100x100.png 100w, /path/wp-content/uploads/2021/07/New-Project-600x600.png 600w, /path/wp-content/uploads/2021/07/New-Project-150x150.png 150w, /path/wp-content/uploads/2021/07/New-Project-768x768.png 768w, /path/wp-content/uploads/2021/07/New-Project.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></figure></div>
+<div class="wp-block-image is-style-rounded"><figure class="aligncenter size-medium"><img loading="lazy" width="300" height="300" src="https://clancies.github.io/wordpress_static/wp-content/uploads/2021/07/New-Project-300x300.png" alt="article2" class="wp-image-260" srcset="https://clancies.github.io/wordpress_static/wp-content/uploads/2021/07/New-Project-300x300.png 300w, https://clancies.github.io/wordpress_static/wp-content/uploads/2021/07/New-Project-100x100.png 100w, https://clancies.github.io/wordpress_static/wp-content/uploads/2021/07/New-Project-600x600.png 600w, https://clancies.github.io/wordpress_static/wp-content/uploads/2021/07/New-Project-150x150.png 150w, https://clancies.github.io/wordpress_static/wp-content/uploads/2021/07/New-Project-768x768.png 768w, https://clancies.github.io/wordpress_static/wp-content/uploads/2021/07/New-Project.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></figure></div>
 
 
 
@@ -50,26 +50,26 @@
 
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;蘭多曾說過，人可以由虛榮知道什麼是榮耀，可以由良心知道什麼是正義。希望大家實際感受一下這段話。在人類的歷史中，我們總是盡了一切努力想搞懂拉麵。</p>
-<p>這篇文章 <a rel="nofollow" href="/path/third/">這是我的第三篇文章</a> 最早出現於 <a rel="nofollow" href="/path">銀河boyz</a>。</p>
+<p>這篇文章 <a rel="nofollow" href="https://clancies.github.io/wordpress_static/third/">這是我的第三篇文章</a> 最早出現於 <a rel="nofollow" href="https://clancies.github.io/wordpress_static">銀河boyz</a>。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/path/third/feed/</wfw:commentRss>
+					<wfw:commentRss>https://clancies.github.io/wordpress_static/third/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>斜槓青年</title>
-		<link>/path/talent/</link>
-					<comments>/path/talent/#respond</comments>
+		<link>https://clancies.github.io/wordpress_static/talent/</link>
+					<comments>https://clancies.github.io/wordpress_static/talent/#respond</comments>
 		
 		<dc:creator><![CDATA[你哪邊]]></dc:creator>
 		<pubDate>Thu, 15 Jul 2021 14:38:26 +0000</pubDate>
 				<category><![CDATA[未分類]]></category>
-		<guid isPermaLink="false">/path/?p=641</guid>
+		<guid isPermaLink="false">https://clancies.github.io/wordpress_static/?p=641</guid>
 
-					<description><![CDATA[<p>下了兩天的大雨，出現可媲美冰島風景的台北噴泉 宇宙之力是不是在暗示著什麼呢？ 銀河系的直男將會遇到什麼困難呢？ ... <a title="斜槓青年" class="read-more" href="/path/talent/" aria-label="更多關於 斜槓青年">閱讀更多</a></p>
-<p>這篇文章 <a rel="nofollow" href="/path/talent/">斜槓青年</a> 最早出現於 <a rel="nofollow" href="/path">銀河boyz</a>。</p>
+					<description><![CDATA[<p>下了兩天的大雨，出現可媲美冰島風景的台北噴泉 宇宙之力是不是在暗示著什麼呢？ 銀河系的直男將會遇到什麼困難呢？ ... <a title="斜槓青年" class="read-more" href="https://clancies.github.io/wordpress_static/talent/" aria-label="更多關於 斜槓青年">閱讀更多</a></p>
+<p>這篇文章 <a rel="nofollow" href="https://clancies.github.io/wordpress_static/talent/">斜槓青年</a> 最早出現於 <a rel="nofollow" href="https://clancies.github.io/wordpress_static">銀河boyz</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="641" class="elementor elementor-641" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
@@ -100,25 +100,25 @@
 		</section>
 						</div>
 					</div>
-		<p>這篇文章 <a rel="nofollow" href="/path/talent/">斜槓青年</a> 最早出現於 <a rel="nofollow" href="/path">銀河boyz</a>。</p>
+		<p>這篇文章 <a rel="nofollow" href="https://clancies.github.io/wordpress_static/talent/">斜槓青年</a> 最早出現於 <a rel="nofollow" href="https://clancies.github.io/wordpress_static">銀河boyz</a>。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/path/talent/feed/</wfw:commentRss>
+					<wfw:commentRss>https://clancies.github.io/wordpress_static/talent/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>這才是我的第一篇文章</title>
-		<link>/path/hello-world-again/</link>
+		<link>https://clancies.github.io/wordpress_static/hello-world-again/</link>
 		
 		<dc:creator><![CDATA[你哪邊]]></dc:creator>
 		<pubDate>Thu, 15 Jul 2021 14:05:06 +0000</pubDate>
 				<category><![CDATA[未分類]]></category>
-		<guid isPermaLink="false">/path/?p=626</guid>
+		<guid isPermaLink="false">https://clancies.github.io/wordpress_static/?p=626</guid>
 
-					<description><![CDATA[<p>這才是我的第一篇文章。  這段話讓我的心境提高了一個層次。這必定是個前衛大膽的想法。深入的探討拉麵，是釐清一切 ... <a title="這才是我的第一篇文章" class="read-more" href="/path/hello-world-again/" aria-label="更多關於 這才是我的第一篇文章">閱讀更多</a></p>
-<p>這篇文章 <a rel="nofollow" href="/path/hello-world-again/">這才是我的第一篇文章</a> 最早出現於 <a rel="nofollow" href="/path">銀河boyz</a>。</p>
+					<description><![CDATA[<p>這才是我的第一篇文章。  這段話讓我的心境提高了一個層次。這必定是個前衛大膽的想法。深入的探討拉麵，是釐清一切 ... <a title="這才是我的第一篇文章" class="read-more" href="https://clancies.github.io/wordpress_static/hello-world-again/" aria-label="更多關於 這才是我的第一篇文章">閱讀更多</a></p>
+<p>這篇文章 <a rel="nofollow" href="https://clancies.github.io/wordpress_static/hello-world-again/">這才是我的第一篇文章</a> 最早出現於 <a rel="nofollow" href="https://clancies.github.io/wordpress_static">銀河boyz</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="626" class="elementor elementor-626" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
@@ -136,7 +136,7 @@
 		</section>
 						</div>
 					</div>
-		<p>這篇文章 <a rel="nofollow" href="/path/hello-world-again/">這才是我的第一篇文章</a> 最早出現於 <a rel="nofollow" href="/path">銀河boyz</a>。</p>
+		<p>這篇文章 <a rel="nofollow" href="https://clancies.github.io/wordpress_static/hello-world-again/">這才是我的第一篇文章</a> 最早出現於 <a rel="nofollow" href="https://clancies.github.io/wordpress_static">銀河boyz</a>。</p>
 ]]></content:encoded>
 					
 		

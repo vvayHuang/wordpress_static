@@ -1550,7 +1550,7 @@ a.wpmm-search.search-close-icon {
     top: 0;
     width: 780px;
     height: 100%;
-    /*background-image: url("/path/wp-content/plugins/wp-megamenu/assets/images/login-bg.jpg");*/
+    /*background-image: url("https://clancies.github.io/wordpress_static/wp-content/plugins/wp-megamenu/assets/images/login-bg.jpg");*/
     background-size: cover;
     background-position: 50% 35%;
     -webkit-transition: -webkit-transform .9s ease-in-out;

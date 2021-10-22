@@ -67,7 +67,7 @@ button:focus {outline:0;}
 .window-buttons-wrapper button[action="finish"]{
     background-repeat:repeat-x !important;
     background-color:green !important;
-    background-image:url("/path/wp-content/plugins/wp-fastest-cache/images/button-back-green.png") !important;
+    background-image:url("https://clancies.github.io/wordpress_static/wp-content/plugins/wp-fastest-cache/images/button-back-green.png") !important;
     color:#FFF;text-shadow:0 1px 0 rgba(0,0,0,0.4) !important;
     border:1px solid green !important;
     font-weight: bold;
@@ -224,7 +224,7 @@ button:focus {outline:0;}
 }
 
 #cdn-url-loading{
-    background: url("/path/wp-content/plugins/wp-fastest-cache/images/loading-circle.gif") no-repeat;
+    background: url("https://clancies.github.io/wordpress_static/wp-content/plugins/wp-fastest-cache/images/loading-circle.gif") no-repeat;
     width: 20px;
     height: 18px;
     margin-top: 5px;
