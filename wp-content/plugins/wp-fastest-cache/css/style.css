@@ -160,7 +160,7 @@ h1.summary-rec {
 }
 
 .close-window {
-    background: url("http://clancies.github.io/gbzzz/wp-content/plugins/wp-fastest-cache/images/close-wiz-sprite.png") no-repeat scroll 0 -19px rgba(0, 0, 0, 0);
+    background: url("/path/wp-content/plugins/wp-fastest-cache/images/close-wiz-sprite.png") no-repeat scroll 0 -19px rgba(0, 0, 0, 0);
     height: 19px;
     width: 22px;
     float: right;
@@ -203,7 +203,7 @@ h1.summary-rec {
 
 #vote-us{
     border-color: #D09847; 
-    background: url("http://clancies.github.io/gbzzz/wp-content/plugins/wp-fastest-cache/images/facebook-like-xxl.png") #E39124 no-repeat 103% 130%; 
+    background: url("/path/wp-content/plugins/wp-fastest-cache/images/facebook-like-xxl.png") #E39124 no-repeat 103% 130%; 
     background-size: 30%;
     cursor: pointer;
 }
@@ -279,7 +279,7 @@ td div.revert:active{
 
 #revert-loader{
     display: none;
-    background: rgba(255, 255, 255, .7) url(http://clancies.github.io/gbzzz/wp-content/plugins/wp-fastest-cache/images/loader.gif) no-repeat center;
+    background: rgba(255, 255, 255, .7) url(/path/wp-content/plugins/wp-fastest-cache/images/loader.gif) no-repeat center;
     position: fixed;
     top: 0;
     left: 0;
@@ -289,7 +289,7 @@ td div.revert:active{
 }
 .wpfc-loading-statics{
     background-repeat: no-repeat;
-    background-image: url(http://clancies.github.io/gbzzz/wp-content/plugins/wp-fastest-cache/images/loader-statics.gif);
+    background-image: url(/path/wp-content/plugins/wp-fastest-cache/images/loader-statics.gif);
     background-position: 0 0;
 }
 div.wpfc-loading-statics{
@@ -329,7 +329,7 @@ span.deleteicon span {
     right: 5px;
     width: 16px;
     height: 16px;
-    background: url("http://clancies.github.io/gbzzz/wp-content/plugins/wp-fastest-cache/images/search_reset.jpg") no-repeat scroll;
+    background: url("/path/wp-content/plugins/wp-fastest-cache/images/search_reset.jpg") no-repeat scroll;
     cursor: pointer;
 }
 span.deleteicon span.cleared {

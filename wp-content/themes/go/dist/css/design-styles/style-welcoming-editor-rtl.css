@@ -103,8 +103,8 @@
     content: "";
     display: inline-block;
     height: 6px;
-    -webkit-mask-image: url(http://clancies.github.io/gbzzz/wp-content/themes/go/dist/images/design-styles/welcoming/arrow-right.svg);
-            mask-image: url(http://clancies.github.io/gbzzz/wp-content/themes/go/dist/images/design-styles/welcoming/arrow-right.svg);
+    -webkit-mask-image: url(/path/wp-content/themes/go/dist/images/design-styles/welcoming/arrow-right.svg);
+            mask-image: url(/path/wp-content/themes/go/dist/images/design-styles/welcoming/arrow-right.svg);
     position: absolute;
     left: 1.85rem;
     left: var(--go-button--padding--x);

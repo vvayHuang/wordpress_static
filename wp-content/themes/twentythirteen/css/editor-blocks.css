@@ -435,7 +435,7 @@ p.has-drop-cap:not(:focus)::first-letter {
 }
 
 .wp-block-latest-comments .wp-block-latest-comments__comment {
-	background: url(http://clancies.github.io/gbzzz/wp-content/themes/twentythirteen/images/dotted-line.png) repeat-x left top;
+	background: url(/path/wp-content/themes/twentythirteen/images/dotted-line.png) repeat-x left top;
 	margin-bottom: 0;
 	padding: 24px 0;
 }

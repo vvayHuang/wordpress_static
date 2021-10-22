@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	〈這是我的第三篇文章〉的留言	</title>
-	<atom:link href="http://clancies.github.io/gbzzz/third/feed/" rel="self" type="application/rss+xml" />
-	<link>http://clancies.github.io/gbzzz/third/</link>
+	<atom:link href="/path/third/feed/" rel="self" type="application/rss+xml" />
+	<link>/path/third/</link>
 	<description>ZZZ</description>
 	<lastBuildDate>Wed, 21 Jul 2021 15:43:45 +0000</lastBuildDate>
 	<sy:updatePeriod>

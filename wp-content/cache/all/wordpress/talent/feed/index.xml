@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	〈斜槓青年〉的留言	</title>
-	<atom:link href="http://clancies.github.io/gbzzz/talent/feed/" rel="self" type="application/rss+xml" />
-	<link>http://clancies.github.io/gbzzz/talent/</link>
+	<atom:link href="/path/talent/feed/" rel="self" type="application/rss+xml" />
+	<link>/path/talent/</link>
 	<description>ZZZ</description>
 	<lastBuildDate>Wed, 21 Jul 2021 16:16:47 +0000</lastBuildDate>
 	<sy:updatePeriod>

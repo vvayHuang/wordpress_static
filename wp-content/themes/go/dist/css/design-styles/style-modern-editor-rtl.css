@@ -101,7 +101,7 @@
 }
 
 .wp-block-coblocks-gallery-carousel .flickity-button:after {
-    background-image: url(http://clancies.github.io/gbzzz/wp-content/themes/go/dist/images/design-styles/modern/carousel-arrow.svg);
+    background-image: url(/path/wp-content/themes/go/dist/images/design-styles/modern/carousel-arrow.svg);
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: 100%;

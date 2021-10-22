@@ -9,8 +9,8 @@
 
 <channel>
 	<title>T-shirt &#8211; 銀河boyz</title>
-	<atom:link href="http://clancies.github.io/gbzzz/product-category/tshirt/feed/" rel="self" type="application/rss+xml" />
-	<link>http://clancies.github.io/gbzzz</link>
+	<atom:link href="/path/product-category/tshirt/feed/" rel="self" type="application/rss+xml" />
+	<link>/path</link>
 	<description>ZZZ</description>
 	<lastBuildDate>Mon, 02 Aug 2021 15:27:47 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -21,23 +21,23 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>http://clancies.github.io/gbzzz/wp-content/uploads/2021/07/工作區域-3-100x100.png</url>
+	<url>/path/wp-content/uploads/2021/07/工作區域-3-100x100.png</url>
 	<title>T-shirt &#8211; 銀河boyz</title>
-	<link>http://clancies.github.io/gbzzz</link>
+	<link>/path</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>去宇宙也要吃拉麵 T-Shirt（Black/White）</title>
-		<link>http://clancies.github.io/gbzzz/product/lamenshirt/</link>
+		<link>/path/product/lamenshirt/</link>
 		
 		<dc:creator><![CDATA[你哪邊]]></dc:creator>
 		<pubDate>Mon, 02 Aug 2021 13:24:25 +0000</pubDate>
-				<guid isPermaLink="false">http://clancies.github.io/gbzzz/?post_type=product&#038;p=1266</guid>
+				<guid isPermaLink="false">/path/?post_type=product&#038;p=1266</guid>
 
-					<description><![CDATA[<p>這篇文章 <a rel="nofollow" href="http://clancies.github.io/gbzzz/product/lamenshirt/">去宇宙也要吃拉麵 T-Shirt（Black/White）</a> 最早出現於 <a rel="nofollow" href="http://clancies.github.io/gbzzz">銀河boyz</a>。</p>
+					<description><![CDATA[<p>這篇文章 <a rel="nofollow" href="/path/product/lamenshirt/">去宇宙也要吃拉麵 T-Shirt（Black/White）</a> 最早出現於 <a rel="nofollow" href="/path">銀河boyz</a>。</p>
 ]]></description>
-										<content:encoded><![CDATA[<p>這篇文章 <a rel="nofollow" href="http://clancies.github.io/gbzzz/product/lamenshirt/">去宇宙也要吃拉麵 T-Shirt（Black/White）</a> 最早出現於 <a rel="nofollow" href="http://clancies.github.io/gbzzz">銀河boyz</a>。</p>
+										<content:encoded><![CDATA[<p>這篇文章 <a rel="nofollow" href="/path/product/lamenshirt/">去宇宙也要吃拉麵 T-Shirt（Black/White）</a> 最早出現於 <a rel="nofollow" href="/path">銀河boyz</a>。</p>
 ]]></content:encoded>
 					
 		

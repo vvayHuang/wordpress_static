@@ -544,7 +544,7 @@ font-weight: normal;
 }
 
 .um-load-items.loading {
-	background: url(http://clancies.github.io/gbzzz/wp-content/plugins/ultimate-member/assets/img/loading-dots.gif) no-repeat top center;
+	background: url(/path/wp-content/plugins/ultimate-member/assets/img/loading-dots.gif) no-repeat top center;
 }
 
 .um-load-items a {

@@ -14,7 +14,7 @@
 
 @supports not (-ms-high-contrast: none) {
     #wp-admin-bar-wpfc-toolbar-parent > .ab-empty-item::before{
-    	content: url("http://clancies.github.io/gbzzz/wp-content/plugins/wp-fastest-cache/images/icon.svg");
+    	content: url("/path/wp-content/plugins/wp-fastest-cache/images/icon.svg");
     }
 }
 

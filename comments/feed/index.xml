@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	《銀河boyz》的留言	</title>
-	<atom:link href="http://clancies.github.io/gbzzz/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://clancies.github.io/gbzzz</link>
+	<atom:link href="/path/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/path</link>
 	<description>ZZZ</description>
 	<lastBuildDate>Wed, 11 Aug 2021 07:17:30 +0000</lastBuildDate>
 	<sy:updatePeriod>

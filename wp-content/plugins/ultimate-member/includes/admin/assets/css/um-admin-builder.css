@@ -74,13 +74,13 @@
 	color: #fff;
 }
 
-.um-admin-drag-ctrls.columns a {width: 30px !important;background-image: url(http://clancies.github.io/gbzzz/wp-content/plugins/ultimate-member/includes/admin/assets/img/1-column.gif); background-repeat: no-repeat; background-position: center;}
-.um-admin-drag-ctrls.columns a:nth-child(2) {background-image: url(http://clancies.github.io/gbzzz/wp-content/plugins/ultimate-member/includes/admin/assets/img/2-columns.gif);}
-.um-admin-drag-ctrls.columns a:last-child {background-image: url(http://clancies.github.io/gbzzz/wp-content/plugins/ultimate-member/includes/admin/assets/img/3-columns.gif);}
+.um-admin-drag-ctrls.columns a {width: 30px !important;background-image: url(/path/wp-content/plugins/ultimate-member/includes/admin/assets/img/1-column.gif); background-repeat: no-repeat; background-position: center;}
+.um-admin-drag-ctrls.columns a:nth-child(2) {background-image: url(/path/wp-content/plugins/ultimate-member/includes/admin/assets/img/2-columns.gif);}
+.um-admin-drag-ctrls.columns a:last-child {background-image: url(/path/wp-content/plugins/ultimate-member/includes/admin/assets/img/3-columns.gif);}
 
-.um-admin-drag-ctrls.columns a.active {background-image: url(http://clancies.github.io/gbzzz/wp-content/plugins/ultimate-member/includes/admin/assets/img/1-column-active.gif)}
-.um-admin-drag-ctrls.columns a.active:nth-child(2) {background-image: url(http://clancies.github.io/gbzzz/wp-content/plugins/ultimate-member/includes/admin/assets/img/2-columns-active.gif);}
-.um-admin-drag-ctrls.columns a.active:last-child {background-image: url(http://clancies.github.io/gbzzz/wp-content/plugins/ultimate-member/includes/admin/assets/img/3-columns-active.gif);}
+.um-admin-drag-ctrls.columns a.active {background-image: url(/path/wp-content/plugins/ultimate-member/includes/admin/assets/img/1-column-active.gif)}
+.um-admin-drag-ctrls.columns a.active:nth-child(2) {background-image: url(/path/wp-content/plugins/ultimate-member/includes/admin/assets/img/2-columns-active.gif);}
+.um-admin-drag-ctrls.columns a.active:last-child {background-image: url(/path/wp-content/plugins/ultimate-member/includes/admin/assets/img/3-columns-active.gif);}
 
 /*
 	- Drag Area

@@ -1,9 +1,9 @@
 @font-face {
     font-family: "pa-dash";
-    src: url("http://clancies.github.io/gbzzz/wp-content/plugins/premium-addons-for-elementor/admin/assets/fonts/pa-dashboard.eot?edfssz");
-    src: url("http://clancies.github.io/gbzzz/wp-content/plugins/premium-addons-for-elementor/admin/assets/fonts/pa-dashboard.eot?edfssz#iefix") format("embedded-opentype"),
-        url("http://clancies.github.io/gbzzz/wp-content/plugins/premium-addons-for-elementor/admin/assets/fonts/pa-dashboard.ttf?edfssz") format("truetype"), url("http://clancies.github.io/gbzzz/wp-content/plugins/premium-addons-for-elementor/admin/assets/fonts/pa-dashboard.woff?edfssz") format("woff"),
-        url("http://clancies.github.io/gbzzz/wp-content/plugins/premium-addons-for-elementor/admin/assets/fonts/pa-dashboard.svg?edfssz#pa-dashboard") format("svg");
+    src: url("/path/wp-content/plugins/premium-addons-for-elementor/admin/assets/fonts/pa-dashboard.eot?edfssz");
+    src: url("/path/wp-content/plugins/premium-addons-for-elementor/admin/assets/fonts/pa-dashboard.eot?edfssz#iefix") format("embedded-opentype"),
+        url("/path/wp-content/plugins/premium-addons-for-elementor/admin/assets/fonts/pa-dashboard.ttf?edfssz") format("truetype"), url("/path/wp-content/plugins/premium-addons-for-elementor/admin/assets/fonts/pa-dashboard.woff?edfssz") format("woff"),
+        url("/path/wp-content/plugins/premium-addons-for-elementor/admin/assets/fonts/pa-dashboard.svg?edfssz#pa-dashboard") format("svg");
     font-weight: normal;
     font-style: normal;
     font-display: block;
